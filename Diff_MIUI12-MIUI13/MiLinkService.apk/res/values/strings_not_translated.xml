@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="current_wifi_tv">Current network</string>
+     <string name="notify_wifiap_dialog_msg">To scan the code and configure network, turn off portable hotspot first.</string>
+     <string name="notify_wifiap_dialog_negative">Got it</string>
+     <string name="notify_wifiap_dialog_title">Configure network</string>
+     <string name="policy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+     <string name="policy_link_lawer_ft">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=ft</string>
+     <string name="policy_link_lawer_wy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=wy</string>
+     <string name="policy_link_lawer_zh">http://cdn.hpplay.com.cn/xm/lawer.html</string>
+     <string name="policy_link_lawer_zy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=zy</string>
+     <string name="policy_link_privacy_en">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+     <string name="policy_link_privacy_ft">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=ft</string>
+     <string name="policy_link_privacy_wy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=wy</string>
+     <string name="policy_link_privacy_zh">http://cdn.hpplay.com.cn/xm/privacy.html</string>
+     <string name="policy_link_privacy_zy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=zy</string>
+</resources>

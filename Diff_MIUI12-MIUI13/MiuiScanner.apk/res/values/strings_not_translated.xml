@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="camera_permissions_text">Allow Scanner to access the camera to be able to use this feature.</string>
+     <string name="format_error">Invalid password</string>
+     <string name="label_flash_light_off">Flashlight is off</string>
+     <string name="label_flash_light_on">Flashlight is on</string>
+     <string name="miuix_indexer_collect">Collections</string>
+     <string name="storage_permissions_text">Allow Scanner to access device storage to be able to use this feature.</string>
+</resources>

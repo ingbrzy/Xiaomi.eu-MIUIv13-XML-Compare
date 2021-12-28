@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="accept_all_permission_content">Find device might not work properly without permissions. Select all the listed permissions to be able to use all the features of Find device.</string>
+     <string name="accept_all_permission_title">Permissions required</string>
+     <string name="accept_all_positive">Select</string>
+     <string name="accept_use_permissions">Grant</string>
+     <string name="find_device_permissions_footer">"Tap \"Grant\" to grant the permissions you've selected."</string>
+     <string name="find_device_permissions_header">"Welcome to Find device! You can use this app to locate, track, and lock your device when it's missing. Find device requires the following permissions:"</string>
+     <string name="revoke_permission_content">"You won't be able to continue using Find device if you withdraw permissions. Find device will be turned off as well. You'll be asked to verify your password before withdrawing."</string>
+     <string name="revoke_permission_title">Attention</string>
+</resources>

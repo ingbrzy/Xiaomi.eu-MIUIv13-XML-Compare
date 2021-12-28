@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="cit_touch_auto_main_tips">Home screen self-test in progress,please do not touch the screen</string>
+     <string name="cit_touch_auto_operate_expand_screen_tips">Please expand the screen first, and then perform the main screen self-check</string>
+     <string name="cit_touch_auto_operate_fold_screen_tips">Please fold the screen first, and then perform the secondary screen self-check</string>
+     <string name="cit_touch_auto_vice_tips">Sub-screen self-test in progress,please do not touch the screen</string>
+</resources>

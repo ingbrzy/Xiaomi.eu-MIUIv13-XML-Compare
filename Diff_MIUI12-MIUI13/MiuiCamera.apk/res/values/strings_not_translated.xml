@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="back_evergoin">2:REDMI NOTE 11T 5G</string>
+     <string name="back_evergreen">2:POCO M4 PRO 5G</string>
+     <string name="back_lisa">3:MI 11 LE</string>
+     <string name="back_lisa_india">3:XIAOMI 11 LITE NE</string>
+     <string name="pref_camera_dynamic_frame_rate_summary_new">Reduce frame rate for videos in low light or high temperature environments automatically</string>
+     <string name="pref_camera_dynamic_frame_rate_title_new">Auto frame rate</string>
+     <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track motion.</string>
+     <string name="pref_camera_track_focus_intro_goto">Turn on</string>
+     <string name="pref_true_colour_video_mode_description">TC</string>
+     <string name="pref_true_colour_video_mode_title">TC</string>
+     <string name="video_true_colour_suffix">_TC</string>
+     <string name="video_true_colour_tip">TC</string>
+</resources>

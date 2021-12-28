@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="app_info_permission_count">
+        <item quantity="other">%1$s permissions</item>
+        <item quantity="one">%1$s permission</item>
+     </plurals>
+     <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s permissions,</item>
+        <item quantity="one">%1$s permission,</item>
+     </plurals>
+     <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s privacy-related permissions</item>
+        <item quantity="one">%1$s privacy-related permission</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%1$s reviews</item>
+        <item quantity="one">%1$s review</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+     </plurals>
+</resources>

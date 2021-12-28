@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="about_ad_service_instructions_for_global">About ad services and privacy in MIUI system apps</string>
+     <string name="auto_clean_summary_new">Play a %d-second audio to clear the speaker. Use this feature multiple times in a row for substantial amounts of grime.</string>
+     <string name="dialog_speaker_auto_clean_content_new">"You're about to play the audio that will clear the speaker. Adjust the volume to maximum for best effect."</string>
+     <string name="dialog_speaker_auto_clean_title_new">Clear speaker</string>
+     <string name="external_ram_dialog_icon_confirm">Got it</string>
+     <string name="external_ram_dialog_icon_info">The system will extend RAM by %1$s %2$s.</string>
+     <string name="external_ram_dialog_icon_title">Memory extension is on</string>
+     <string name="miheadset_hd_audio_summary">Play %1$d-bit/%2$d kHz high definition audio</string>
+     <string name="miheadset_hd_audio_title">HD audio</string>
+     <string name="nfc_dnd_mode_summary">Respond to NFC tags with a limited amount of NDEF tags</string>
+     <string name="nfc_dnd_mode_title">NFC DND</string>
+     <string name="progress_dialog_speaker_auto_clean_button">Stop</string>
+     <string name="progress_dialog_speaker_auto_clean_title">Clearing speaker…</string>
+     <string name="reset_network_title_noSim">Reset Wi-Fi and Bluetooth</string>
+     <string name="toast_disconnect_earphone">Disconnect earphones and try again</string>
+     <string name="use_personalized_ad_service_summary_for_global">"When personalized ad recommendations are off, you'll still see the same quantity of ads in MIUI system apps as when the feature is on. The ads from Xiaomi and third-party platforms, however, will no longer be relevant as they won't be based on your personal preferences."</string>
+</resources>

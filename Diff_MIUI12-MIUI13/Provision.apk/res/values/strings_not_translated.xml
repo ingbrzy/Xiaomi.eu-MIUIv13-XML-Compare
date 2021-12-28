@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="other_settings_ad_dialog_content_for_global">"When personalized ad recommendations are off, you'll still see the same quantity of ads in MIUI system apps as when the feature is on. The ads from Xiaomi and third-party platforms, however, will no longer be relevant as they won't be based on your personal preferences."</string>
+     <string name="start_up_slogan_thirteen_china">Where all things connect</string>
+</resources>

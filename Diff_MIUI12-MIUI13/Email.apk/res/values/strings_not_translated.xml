@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="close_custom_folder">收起子文件夹</string>
+     <string name="open_custom_folder">展开子文件夹</string>
+</resources>

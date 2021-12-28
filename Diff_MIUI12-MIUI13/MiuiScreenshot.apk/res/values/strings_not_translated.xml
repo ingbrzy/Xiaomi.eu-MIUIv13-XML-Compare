@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="can_drag">Drag to insert or send</string>
+     <string name="save_success">Saved successfully</string>
+     <string name="screenshot_save">Save</string>
+</resources>

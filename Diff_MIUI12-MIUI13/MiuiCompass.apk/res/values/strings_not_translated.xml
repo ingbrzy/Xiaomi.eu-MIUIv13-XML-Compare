@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="calibrating">校准中</string>
+     <string name="new_cta_app_purpose">view directions and coordinates</string>
+</resources>

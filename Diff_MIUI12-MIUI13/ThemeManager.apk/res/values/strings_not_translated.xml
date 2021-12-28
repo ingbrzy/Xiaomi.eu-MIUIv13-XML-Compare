@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="show_theme_community">Community shortcut</string>
+     <string name="show_theme_community_desc">Show or hide Themes community shortcut</string>
+     <string name="supersave_mode_toast_message">"This feature isn't available when using Ultra battery saver. Turn off Ultra battery saver to be able to use it."</string>
+</resources>

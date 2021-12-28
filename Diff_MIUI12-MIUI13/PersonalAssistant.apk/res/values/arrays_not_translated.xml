@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Health code</item>
+        <item>PCR</item>
+        <item>High-risk areas</item>
+     </string-array>
+     <string-array name="pa_day_time_space">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="pa_express_sending_providers">
+        <item>@string/pa_express_send_provider_xiaomi</item>
+        <item>@string/pa_express_send_provider_cainiao</item>
+     </string-array>
+     <string-array name="pa_home_week_days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+     </string-array>
+     <string-array name="pa_stock_color_schema_value_array">
+        <item>Red - up, green - down</item>
+        <item>Green - up, red - down</item>
+     </string-array>
+</resources>

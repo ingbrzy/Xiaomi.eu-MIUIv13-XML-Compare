@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="beauty_fc_assistant_summary_new">Show Beautify and fill light options while using front camera</string>
+     <string name="beauty_fc_fill_lamp_new">Front fill light</string>
+     <string name="beauty_fun_front_light">Front fill light</string>
+     <string name="beauty_fun_privacy">Privacy camera</string>
+     <string name="beauty_fun_privacy_dialog_message">When you use the camera for face recognition features, your face will be detected automatically and other captured areas will be masked.</string>
+     <string name="beauty_fun_privacy_dialog_tips">This feature may lower the success rate of face recognition</string>
+     <string name="beauty_fun_privacy_ingnore">No thanks</string>
+     <string name="beauty_fun_privacy_message">Detect faces and mask other captured areas when the camera is used with face recognition features</string>
+     <string name="beauty_fun_privacy_open">Turn on</string>
+     <string name="beauty_fun_privacy_open_tips">Privacy camera is on</string>
+     <string name="beauty_fun_privacy_tips">Privacy camera will now be used by default with compatible face recognition features</string>
+     <string name="beauty_fun_screen_light">Screen fill light</string>
+     <string name="beauty_fun_settings_light">Fill light brightness</string>
+     <string name="beauty_fun_video_effect">Beautify for video</string>
+     <string name="compatible_dialog_content">"This app isn't fully compatible with the 64-bit architecture. Using it may lower system performance and increase power consumption."</string>
+     <string name="compatible_dialog_more_info">Learn more</string>
+     <string name="compatible_dialog_title">Attention</string>
+     <string name="gtb_setting_item_summary_disable_ndds_sim">Block all communication services on secondary SIM during gaming sessions to keep connection stable and avoid switching between networks. Secondary SIM will be unblocked when you stop playing.</string>
+     <string name="gtb_setting_item_title_disable_ndds_sim">Block secondary SIM</string>
+     <string name="power_center_speed_mode_dialog_text">Speed mode boosts the performance of your device by increasing power consumption and allowing it to heat up. Avoid using Speed mode for extended periods of time.</string>
+     <string name="power_center_speed_mode_dialog_title">Speed mode</string>
+     <string name="power_center_speed_mode_dialog_warning">Speed mode will be turned off automatically when the battery goes below %s.</string>
+     <string name="power_center_speed_mode_enter_noti_btn_text">Turn off</string>
+     <string name="power_center_speed_mode_enter_noti_summary">Your device will heat up and consume more power</string>
+     <string name="power_center_speed_mode_enter_noti_title">Switched to Speed mode</string>
+     <string name="power_center_speed_mode_exit_noti_summary">Less than %s of battery remaining</string>
+     <string name="power_center_speed_mode_exit_noti_title">Turned off Speed mode</string>
+     <string name="power_center_speed_mode_negative_btn_text">Cancel</string>
+     <string name="power_center_speed_mode_positive_btn_text">Turn on</string>
+     <string name="power_center_speed_mode_positive_btn_text_count">Turn on (%ds)</string>
+     <string name="power_center_speed_mode_progress_free_game_limit">Improve graphics performance</string>
+     <string name="power_center_speed_mode_progress_free_processor_performance">Boost CPU performance</string>
+     <string name="power_center_speed_mode_progress_max_refresh_rate">Increase screen refresh rate</string>
+     <string name="power_center_speed_mode_summary">Prioritize performance over power consumption and temperature control</string>
+     <string name="power_center_speed_mode_title">Speed mode</string>
+     <string name="power_center_speed_mode_toast_open_fail">"Can't switch to Speed mode when the battery is lower than %s"</string>
+     <string name="power_center_speed_mode_toast_text">Switched to Speed mode</string>
+     <string name="privacy_lab_empty">No features here yet</string>
+</resources>
