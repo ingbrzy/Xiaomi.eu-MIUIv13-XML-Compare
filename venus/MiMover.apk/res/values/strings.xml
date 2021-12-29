@@ -38,6 +38,10 @@
     <string name="app_update_64_dialog_title">Update to 64-bit architecture</string>
     <string name="app_update_64_notfication_body">Update to boost app performance</string>
     <string name="app_update_title">Update all apps</string>
+    <string name="apple_calendar">日历日程</string>
+    <string name="apple_contacts">联系人</string>
+    <string name="apple_image">图片</string>
+    <string name="apple_video">视频</string>
     <string name="appname_app_data_suffix">%1$s app data</string>
     <string name="audio">Audio</string>
     <string name="audio_video_document">Audio, video, and documents</string>
@@ -773,6 +777,7 @@ Free up at least %s."</string>
     <string name="skip_underline">Skip this step</string>
     <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">"Couldn't create hotspot. Try again."</string>
+    <string name="soft_ap_create_failed_apple">热点建立失败</string>
     <string name="soft_ap_creating">Creating hotspot…</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
     <string name="solar_term_autumn_equinox">Autumn equinox</string>
@@ -871,6 +876,19 @@ Free up at least %s."</string>
     <string name="title_request_write_settings_perm">Allow changing system settings</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="trans_apple">连接你的iPhone</string>
+    <string name="trans_apple_button_cancel">取消迁移</string>
+    <string name="trans_apple_button_cancel_hint">是否立即取消迁移？</string>
+    <string name="trans_apple_button_cancel_negative">再等等</string>
+    <string name="trans_apple_button_cancel_positive">确认取消</string>
+    <string name="trans_apple_button_reconnect">重新连接</string>
+    <string name="trans_apple_hint">迁移过程中，请勿离开此页面，请勿操作Wi-Fi</string>
+    <string name="trans_apple_hint_1_content">使用iPhone的相机APP扫码安装“小米换机APP”，或前往苹果App Store下载</string>
+    <string name="trans_apple_hint_1_title">%d. 扫码安装</string>
+    <string name="trans_apple_hint_2_content">在iPhone上打开“小米换机APP”，点击“我是旧手机”并扫描上方二维码</string>
+    <string name="trans_apple_hint_2_title">%d. 扫码连接</string>
+    <string name="trans_apple_interrupt_sub">请点击底部按钮重新连接</string>
+    <string name="trans_apple_interrupt_title">传输中断</string>
     <string name="trans_detail_item_app_data_skip_data">"Can't transfer app data"</string>
     <string name="trans_detail_item_app_skip_data">"Can't move this app"</string>
     <string name="trans_detail_qq_data">QQ data (including chat history)</string>
@@ -888,6 +906,8 @@ Download and install Mi Mover."</string>
     <string name="trans_show_qr_code_label">Open Mi Mover on the old device</string>
     <string name="trans_show_qr_code_label_for_pad">Open Mi Mover on the old device</string>
     <string name="trans_sync_transfer_data_list">Select items to transfer on the old device</string>
+    <string name="trans_sync_transfer_data_list_apple">"请在iPhone上选择
+迁移数据"</string>
     <string name="trans_sync_transfer_data_list_hint">Just a sec…</string>
     <string name="trans_sync_transfer_data_list_summary_for_pad">Select items on your old device and tap \"Send\".</string>
     <string name="trans_time_format_second">Less than 1 minute</string>
