@@ -1,5 +1,7 @@
 Removed: [ar] array/alphabet_table (item mismatch)
 Removed: [ar] array/alphabet_table_with_starred (item mismatch)
+Removed: [cs] string/user_agreement_hint_3rd_app_mobile (format mismatch)
+Removed: [cs] string/user_agreement_hint_3rd_app_with_telecom (format mismatch)
 Removed: [de] plurals/feed_article_entrance_title (format mismatch)
 Removed: [de] plurals/llks_tools_remote_control_data (format mismatch)
 Removed: [de] plurals/llks_tools_smart_devices_data (format mismatch)
