@@ -29,9 +29,9 @@
         <item quantity="other">%d mins ago</item>
         <item quantity="one">1 min ago</item>
     </plurals>
-    <plurals name="additional_permissions_more">
-        <item quantity="other">%1$d more</item>
-        <item quantity="one">%1$d more</item>
+    <plurals name="found_apps">
+        <item quantity="other">%d apps found</item>
+        <item quantity="one">%d app found</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
@@ -52,18 +52,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
-    <plurals name="miui_app_all_permission_number">
-        <item quantity="other">%d permissions</item>
-        <item quantity="one">%d permission</item>
-    </plurals>
-    <plurals name="miui_app_privacy_permission_number">
-        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> privacy-related permissions&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> privacy-related permission&lt;/Data></item>
-    </plurals>
-    <plurals name="miui_permission_detail">
-        <item quantity="other">%d permissions</item>
-        <item quantity="one">%d permission</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
@@ -71,5 +59,13 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="search_apps">
+        <item quantity="other">Search among %d apps</item>
+        <item quantity="one">Search among %d app</item>
+    </plurals>
+    <plurals name="selected_apps">
+        <item quantity="other">Selected %d apps</item>
+        <item quantity="one">Selected %d apps</item>
     </plurals>
 </resources>
