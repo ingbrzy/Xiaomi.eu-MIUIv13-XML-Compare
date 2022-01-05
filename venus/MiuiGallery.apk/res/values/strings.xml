@@ -1666,6 +1666,7 @@ are available"</string>
     <string name="input_or_select_a_name">Enter or select a name</string>
     <string name="input_relation_name">Enter group name</string>
     <string name="install_fail">"Couldn't load plug-in due to an error."</string>
+    <string name="install_media_editor_function_message">Download the latest version of Gallery Editor to be able to use \"%1$s\".</string>
     <string name="install_media_editor_latest_message">To be able to edit items, download the latest plug-in first.</string>
     <string name="install_media_editor_message">To be able to edit items, download the plug-in first. Download now?</string>
     <string name="install_media_editor_title">Download plug-in</string>
