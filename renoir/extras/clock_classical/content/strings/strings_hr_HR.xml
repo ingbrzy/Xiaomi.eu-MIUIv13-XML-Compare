@@ -4,5 +4,5 @@
 <string name="date_time_12">dd.MM. EEEE</string>
 <string name="desc_date_format">dd.MM. EEEE</string>
 <string name="desc_date_format_12">dd.MM. EEEE</string>
-<string name="desc_time">'vrijeme\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', dodirnite dva puta za prikaz sata'</string>
+<string name="desc_time">'trenutno vrijeme' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dodirnite dva puta za prikaz sata'</string>
 </resources>
