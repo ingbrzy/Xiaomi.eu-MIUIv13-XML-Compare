@@ -5,5 +5,5 @@
     <string name="location">Local</string>
     <string name="resident_city">Cidade padrão</string>
     <string name="clock_local">Local</string>
-    <string name="clock_city">City</string>
+    <string name="clock_city">Cidade</string>
 </resources>
