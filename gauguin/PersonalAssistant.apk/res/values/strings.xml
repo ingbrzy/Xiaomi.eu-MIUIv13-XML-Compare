@@ -564,7 +564,7 @@ You can also track express delivery on the official websites of delivery compani
     <string name="app_miot_title">Smart devices</string>
     <string name="app_miot_to_start">Add</string>
     <string name="app_miot_unit" />
-    <string name="app_name">com.xiaomi.smarthome.common.nativelib</string>
+    <string name="app_name">SecurityGuard SDK</string>
     <string name="app_news_default_title">News</string>
     <string name="app_news_empty_text" />
     <string name="app_note_add">Add</string>
