@@ -27,3 +27,4 @@ Removed: [sk] string/system_permission_declare_meanwhile_user_agreement (format 
 Removed: [sk] string/text_day (untranslatable)
 Removed: [sl] array/pc_time_choice_items (untranslatable)
 Removed: [tr] plurals/fw_blocked_count_call_one (format mismatch)
+Removed: [vi] string/once_settings_title (duplicate)
