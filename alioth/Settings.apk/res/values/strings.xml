@@ -641,6 +641,8 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="aod_style_description">Display clock, date, time, notifications, and other items when the screen is off</string>
     <string name="aod_style_title">Style</string>
     <string name="aod_to_close">Turn off</string>
+    <string name="ap_connect_failed">"Couldn't connect"</string>
+    <string name="ap_connected_battery_level">" | Battery %1$s"</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Authentication type</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -2476,6 +2478,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="connected_wifi">Connected</string>
     <string name="connecting_to_vpn">Connecting to VPN</string>
     <string name="connection_and_sharing">Connection &amp; sharing</string>
+    <string name="connection_control">Manage connections</string>
     <string name="contact_data">Contacts</string>
     <string name="contact_discovery_opt_in_dialog_message">"Your contacts’ phone numbers will be periodically sent to %1$s.
 
@@ -4540,6 +4543,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="interact_across_profiles_switch_enabled">Connected</string>
     <string name="interact_across_profiles_title">Connected work &amp; personal apps</string>
     <string name="interaction_control_category_title">Interaction controls</string>
+    <string name="interconnection">Interconnectivity</string>
     <string name="interesting_text">Realistic tactile sensations make your interaction with the screen more clear and articulated.</string>
     <string name="interesting_title">Realistic touch</string>
     <string name="internal_memory">Internal storage</string>
@@ -5488,6 +5492,8 @@ You won't be able to reverse this action."</string>
     <string name="menu_item_notification_power_text">Battery optimization</string>
     <string name="menu_key">Menu</string>
     <string name="menu_new">New APN</string>
+    <string name="menu_new_display_open">用新窗口打开</string>
+    <string name="menu_pc_open">用电脑程序打开</string>
     <string name="menu_proc_stats_duration">Duration</string>
     <string name="menu_proc_stats_type">Stats type</string>
     <string name="menu_proc_stats_type_background">Background</string>
