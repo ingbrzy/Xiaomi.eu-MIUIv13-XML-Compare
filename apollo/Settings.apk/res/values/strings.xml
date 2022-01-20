@@ -1852,8 +1852,7 @@ If you've already done any of the above, add your Mi Account again; otherwise, y
     <string name="breathing_light_freq_summary">Set pulse interval for trackball</string>
     <string name="breathing_light_freq_title">Light pulse frequency</string>
     <string name="brightness">Brightness level</string>
-    <string name="brightness_auto_adjust_off">You can adjust screen brightness manually now. It will remain constant until you adjust it again.</string>
-    <string name="brightness_auto_adjust_on">Screen brightness will be optimized according to ambient light. You can still make minor adjustments manually.</string>
+    <string name="brightness_auto_summary">Adjust brightness to ambient light to save battery</string>
     <string name="brightness_summary">Adjust the brightness of the screen</string>
     <string name="brightness_title">Brightness</string>
     <string name="bssid_label">BSSID:</string>
@@ -3384,8 +3383,8 @@ You can view generated logs in File Manager."</string>
     <string name="enable_service_pattern_reason">Because turning on %1$s affects data encryption, you need to confirm your pattern.</string>
     <string name="enable_service_pin_reason">Because turning on %1$s affects data encryption, you need to confirm your PIN.</string>
     <string name="enable_service_title">The service will perform these actions:</string>
-    <string name="enable_sizecompat_freeform">Enable freeform sizecompat</string>
-    <string name="enable_sizecompat_freeform_summary">Allows sizecompat apps to be in freeform</string>
+    <string name="enable_sizecompat_freeform">Force allow resizing windows</string>
+    <string name="enable_sizecompat_freeform_summary">Allow apps with compatibility restrictions to run in resizable windows</string>
     <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
     <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
     <string name="enable_terminal_title">Local terminal</string>
@@ -3560,6 +3559,7 @@ Restart your device and try again."</string>
     <string name="external_ram_dialog_icon_title">Memory extension is on</string>
     <string name="external_ram_dialog_message">Reboot your device to apply changes.</string>
     <string name="external_ram_dialog_title">Reboot device</string>
+    <string name="external_ram_remind_toast">Storage space is running low. Turned off memory extension for now.</string>
     <string name="external_ram_summary">"Add %1$s %2$s of RAM by occupying storage. Use this feature only when there's enough storage space available on your device."</string>
     <string name="external_ram_title">Memory extension</string>
     <string name="external_ram_toast">"Can't use memory extension due to insufficient storage space"</string>
@@ -4179,6 +4179,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="headphone_assisted_summary">"Transmit your phone's mic feed to connected Bluetooth earphones"</string>
     <string name="headphone_assisted_title">Live in-ear monitor</string>
     <string name="headset_aac">AAC</string>
+    <string name="headset_ambient_sound">Ambient sounds</string>
     <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Connecting…</string>
     <string name="headset_find_both">Both</string>
@@ -4197,7 +4198,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="headset_find_tip_title">Attention</string>
     <string name="headset_find_title">Find your earphones</string>
     <string name="headset_find_voice_warning">High volume warning</string>
-    <string name="headset_head_tracking_desc">Adjust surround sound based on head movement</string>
+    <string name="headset_head_tracking_desc">Adjust immersive sound based on head movement</string>
     <string name="headset_head_tracking_title">Track head movement</string>
     <string name="headset_notification_switch_summary">Show status on the Notification shade widget when earphones are connected</string>
     <string name="headset_notification_switch_title">Notification shade widget</string>
@@ -4205,7 +4206,9 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="headset_remove_message_indicate">%1$s will be unpaired from all the devices associated with this Mi Account.</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Sound effects</string>
-    <string name="headset_spatial_audio">Spatial audio</string>
+    <string name="headset_silent_upgrade_switch_summary">Headset automatically upgrades under specified conditions</string>
+    <string name="headset_silent_upgrade_switch_title">Automatic upgrade</string>
+    <string name="headset_spatial_audio">Dimensional audio</string>
     <string name="headset_toast_tip_disconnect_others">The headset cannot be set up at this time, your headset may be connected to another phone</string>
     <string name="headset_unsaved_device">Remove the device</string>
     <string name="headset_unsaved_devices">Used on other devices</string>
@@ -4332,6 +4335,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="hide_extra_apps">Show app usage</string>
     <string name="hide_silent_icons_summary">"Icons from gentle notifications aren't shown in the status bar"</string>
     <string name="hide_silent_icons_title">Hide icons from gentle notifications</string>
+    <string name="high_brightness_hint_summary">A small sun icon will appear at the top of the screen when ambient light is strong</string>
     <string name="high_label">High</string>
     <string name="high_performance_notif_summary">Device may heat up during heavy use.</string>
     <string name="high_performance_notif_title">Performance mode is on</string>
@@ -6207,13 +6211,7 @@ This replaces %2$s as your default payment app."</string>
     <string name="night_display_temperature_title">Intensity</string>
     <string name="night_display_text">Night Light tints your screen amber. This makes it easier to look at your screen or read in dim light, and may help you fall asleep more easily.</string>
     <string name="night_display_title">Night Light</string>
-    <string name="night_light">Night mode</string>
-    <string name="night_light_brightness">Night mode brightness</string>
-    <string name="night_light_color">Night mode color temperature</string>
-    <string name="night_light_color_tip">Changes will take effect when Reading mode is off</string>
     <string name="night_light_main_switch_title">Use Night Light</string>
-    <string name="night_light_summary">To turn on Night mode, minimize screen brightness in low light conditions.</string>
-    <string name="night_light_tip">Changes will take effect when Night mode is on</string>
     <string name="no">No</string>
     <string name="no_5g_in_dsds_text">When using 2 SIMs, this phone will be limited to 4G. <annotation id="url">Learn more</annotation></string>
     <string name="no_application">None</string>
@@ -7412,6 +7410,7 @@ This setting affects all users on this phone."</string>
     <string name="scanning_status_text_wifi_on_ble_off">Wi-Fi scanning is on, Bluetooth scanning is off</string>
     <string name="scanning_status_text_wifi_on_ble_on">Both Wi-Fi and Bluetooth scanning are on</string>
     <string name="screen">Screen</string>
+    <string name="screen_brightness">Screen brightness</string>
     <string name="screen_cancel">Cancel</string>
     <string name="screen_color_and_optimize">Colors &amp; contrast</string>
     <string name="screen_color_and_optimize_disabled">"Can't adjust color scheme and color temperature in Reading mode"</string>
@@ -8960,7 +8959,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
     <string name="sunlight_mode">Sunlight mode</string>
-    <string name="sunlight_mode_summary">Adjust brightness to strong ambient light when automatic brightness is off</string>
+    <string name="sunlight_mode_summary">Adjust brightness to strong ambient light to prevent the screen from going too dark</string>
     <string name="supl_not_set">&lt;Not set></string>
     <string name="supplicant_state_label">Supplicant state:</string>
     <string name="support_summary">Help articles, phone &amp; chat</string>
@@ -8968,7 +8967,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="surround_sound_all_desc">Enhance the depth of sound reproduction for earphones and speakers</string>
     <string name="surround_sound_only_headset_desc">Enhance the depth of sound reproduction for earphones</string>
     <string name="surround_sound_only_speaker_desc">Enhance the depth of sound reproduction for speakers</string>
-    <string name="surround_sound_title">Surround sound</string>
+    <string name="surround_sound_title">Immersive sound</string>
     <string name="swipe_direction_ltr">Swipe right to dismiss, left to show menu</string>
     <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
     <string name="swipe_direction_title">Swipe actions</string>
