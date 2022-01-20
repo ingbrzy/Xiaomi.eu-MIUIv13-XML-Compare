@@ -1908,6 +1908,8 @@ to personalize Gallery"</string>
     <string name="midnight">Night</string>
     <string name="migrate_msg">Some albums require permissions to move items after a system update.</string>
     <string name="miplay_adjust_volume">Set volume to %d</string>
+    <string name="miplay_circulate_failed">流转失败，请稍后重试</string>
+    <string name="miplay_circulating_msg">视频正在流转中...</string>
     <string name="miplay_pause_video">Pause</string>
     <string name="miplay_play_video">Play</string>
     <string name="miplay_seekbar_content_description">Playback progress: %1$s %2$s</string>
