@@ -251,7 +251,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">2ce08a3e0e224bee9c2695f3cdaa93e9</string>
+    <string name="com.crashlytics.android.build_id">03cb78d681c4434a8e42cb47fe340fef</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -695,6 +695,7 @@
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Videos</string>
     <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_download_subscription_toast">Subscribe to Hungama Music to download this song</string>
     <string name="hungama_free_download_out_summary">"You can't download more free songs. Get a PRO membership to download unlimited songs?"</string>
     <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
     <string name="hungama_playlist_category">Playlist category</string>
@@ -1353,7 +1354,7 @@ Be Happy"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Try crossfading songs during playback</string>
     <string name="start_to_check_new_version">Checking for updates…</string>
     <string name="start_to_download">Downloading…</string>
-    <string name="start_to_play">Play</string>
+    <string name="start_to_play">Preparing to play…</string>
     <string name="start_update">Installing new version…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Storage for dual apps</string>
