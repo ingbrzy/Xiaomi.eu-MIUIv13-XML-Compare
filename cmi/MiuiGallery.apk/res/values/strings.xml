@@ -1943,6 +1943,8 @@ to personalize Gallery"</string>
     <string name="midnight">Night</string>
     <string name="migrate_msg">Some albums require permissions to move items after a system update.</string>
     <string name="miplay_adjust_volume">Set volume to %d</string>
+    <string name="miplay_circulate_failed">"Couldn't transfer playback. Wait a minute or two and try again."</string>
+    <string name="miplay_circulating_msg">Transferring playback…</string>
     <string name="miplay_pause_video">Pause</string>
     <string name="miplay_play_video">Play</string>
     <string name="miplay_seekbar_content_description">Playback progress: %1$s %2$s</string>
