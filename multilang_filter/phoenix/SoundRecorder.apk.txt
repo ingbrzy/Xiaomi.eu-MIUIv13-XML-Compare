@@ -1,7 +1,6 @@
 Removed: [ar] array/alphabet_table (item mismatch)
 Removed: [ar] array/alphabet_table_with_starred (item mismatch)
 Removed: [cs] string/fm_record (format mismatch)
-Removed: [de] string/fm_record (format mismatch)
 Removed: [fa-rIR] array/alphabet_table (item mismatch)
 Removed: [fa-rIR] array/alphabet_table_with_starred (item mismatch)
 Removed: [it] array/record_format_values (untranslatable)
