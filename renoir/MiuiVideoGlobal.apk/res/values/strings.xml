@@ -496,6 +496,9 @@ Send this code to the supervisor."</string>
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Removing downloads</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Repeat all</string>
+    <string name="exo_media_action_repeat_off_description">Repeat none</string>
+    <string name="exo_media_action_repeat_one_description">Repeat one</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -764,6 +767,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hidden_channels">"The following channels won't be displayed on the Home page."</string>
     <string name="hide">Hide</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
@@ -978,6 +982,10 @@ for the best viewing experience"</string>
     <string name="lv_video_null">No videos</string>
     <string name="lv_volume">Volume</string>
     <string name="manage">Manage</string>
+    <string name="mangotv_feature_list_title3">Added episode %s</string>
+    <string name="mangotv_feature_more">More</string>
+    <string name="mangotv_feature_title1">Episodes</string>
+    <string name="mangotv_feature_title2">Episodes</string>
     <string name="mediation_ad">AD</string>
     <string name="mediation_ad_can_not_share">"Can't share this video"</string>
     <string name="mi_video">Mi Video</string>
@@ -1495,6 +1503,7 @@ Increase the security of your account."</string>
     <string name="popup_click_for_download_video">Download video</string>
     <string name="popup_pip_activate_button">Settings</string>
     <string name="popup_pip_not_activated">Allow Mi Video to use picture-in-picture first.</string>
+    <string name="popup_window_home_tip">Download online videos</string>
     <string name="privacy_agree_subtitle">Consent to the Privacy Policy allows you to use all features of Mi Video</string>
     <string name="privacy_agree_title">Consent</string>
     <string name="privacy_experience_plan">Join our User Experience program to share user data with us in order to help us improve our products and services</string>
@@ -1502,11 +1511,13 @@ Increase the security of your account."</string>
     <string name="privacy_revoke_setting">By toggling off the switch, you withdraw your consent to the Privacy Policy of Mi Video.</string>
     <string name="privacy_revoke_subtitle">Withdraw consent to the Privacy Policy of Mi Video</string>
     <string name="privacy_revoke_title">Withdrawal of consent</string>
+    <string name="privatestr">MIIBSw</string>
     <string name="pro_prize_popup_style_one">Remove ads for %s</string>
     <string name="pro_prize_popup_style_two">Unlock more features for %s</string>
     <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Sign in using password</string>
+    <string name="publicstr">MIIBtz</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Pull up to refresh…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Just a sec…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Release to refresh…</string>
@@ -1604,6 +1615,7 @@ Increase the security of your account."</string>
     <string name="share">Share</string>
     <string name="share_fail">"Couldn't share. Check your network settings and try again."</string>
     <string name="share_success">Shared successfully</string>
+    <string name="share_text_before_link">Watch and download great videos for free on Mi Video</string>
     <string name="share_ugc_content">Take a look at %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Join</string>
     <string name="share_ugc_waitting">Generating link…</string>
@@ -1777,6 +1789,8 @@ Increase the security of your account."</string>
     <string name="tip_author_click">Tap to view more videos from this account</string>
     <string name="tip_download_video_to_save_here">%d. The video will be saved to your downloads</string>
     <string name="tip_enter_the_website">%d. Open a website or app</string>
+    <string name="tip_local_long_press_for_manager">Press and hold to manage videos</string>
+    <string name="tip_local_manager_here">Manage your files here</string>
     <string name="tip_play_a_video">%d. Play a video</string>
     <string name="tip_pop"><Data>Content from Moments is provided by Firework. In order to improve your viewing experience and receive more relevant content recommendations, allow Firework to collect, process, and use your personal information in accordance with its Privacy Policy. Read and agree to &lt;a href=\"%1$s\">Firework Privacy Policy&lt;/a> before using its services.</Data></string>
     <string name="tip_storage_used_space" formatted="false">Used %.2f GB/%.2f GB</string>
@@ -1799,6 +1813,7 @@ Increase the security of your account."</string>
     <string name="toast_bookmark_success_to_add">Bookmark added</string>
     <string name="toast_bookmark_success_to_delete">Bookmark deleted</string>
     <string name="toast_bookmark_url_error">Enter a valid URL</string>
+    <string name="toast_m3u8_download_path_tip">"Can't change the download path for content in m3u8 format"</string>
     <string name="toast_no_data">"This item isn't available now. Come back later."</string>
     <string name="toast_request_too_frequently">Not so fast!</string>
     <string name="toast_share_failed">"Couldn't share. Wait a minute or two and try again."</string>
@@ -1906,6 +1921,12 @@ Increase the security of your account."</string>
     <string name="wednesday_shortest">Wed</string>
     <string name="weibo_application_id" />
     <string name="weibo_redirect_uri" />
+    <string name="welcome_tip_content1">Powerful local video player</string>
+    <string name="welcome_tip_content2">Millions of videos to watch online or download</string>
+    <string name="welcome_tip_explore_more">Discover</string>
+    <string name="welcome_tip_into_mivideo">Get started</string>
+    <string name="welcome_tip_skip">Skip</string>
+    <string name="welcome_tip_title">Welcome to Mi Video</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s

@@ -2489,7 +2489,7 @@
         <item>com.yxcorp.plugin.search.SearchActivity</item>
         <item>com.ss.android.live.host.livehostimpl.LivePlayerTransActivity</item>
         <item>com.tencent.mm.plugin.profile.ui.ContactInfoUI</item>
-        <item>com.ss.android.xiagualongvideo.detail.LongVideoDetailActivity</item>
+        <item>com.ss.android.xigualongvideo.detail.LongVideoDetailActivity</item>
     </string-array>
     <string-array name="low_device_cpu_list">
         <item>msm8953</item>
@@ -4079,6 +4079,7 @@
         <item>com.netease.cloudmusic.activity.LockScreenActivity</item>
     </string-array>
     <string-array name="top_game_list">
+        <item>com.tencent.jkchess</item>
         <item>com.tencent.tmgp.sgame</item>
         <item>com.tencent.tmgp.pubgmhd</item>
         <item>com.tencent.ig</item>
