@@ -12,6 +12,7 @@
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
     <string name="Accounts_settings_title">Accounts</string>
+    <string name="Intelligentpickfree">Detect voice</string>
     <string name="MiSans_title">MiSans</string>
     <string name="a11y_settings_label">Accessibility settings</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -612,6 +613,9 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="ambient_display_tap_screen_title">Tap to check phone</string>
     <string name="ambient_display_title">Double-tap to check phone</string>
     <string name="ambient_display_wake_screen_title">Wake up display</string>
+    <string name="anc_auto">Auto</string>
+    <string name="anc_depth">Strong</string>
+    <string name="anc_mild">Light</string>
     <string name="android_beam_disabled_summary">Turn on NFC first</string>
     <string name="android_beam_explained">You can beam a webpage, a video, or other content from your screen to another device, by touching the devices together (typically back to back).</string>
     <string name="android_beam_label">Android Beam</string>
@@ -641,6 +645,8 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="aod_style_description">Display clock, date, time, notifications, and other items when the screen is off</string>
     <string name="aod_style_title">Style</string>
     <string name="aod_to_close">Turn off</string>
+    <string name="ap_connect_failed">"Couldn't connect"</string>
+    <string name="ap_connected_battery_level">" | Battery %1$s"</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Authentication type</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -842,6 +848,11 @@ Change settings now?"</string>
     <string name="audio_share_confirm">Share</string>
     <string name="auto_adjst_effect_summary">Adjust color temperature to ambient light automatically in order to maintain optimal comfort level</string>
     <string name="auto_adjust_effect_title">Adjust color temperature automatically</string>
+    <string name="auto_anc_closed">Off</string>
+    <string name="auto_anc_fifteen_recover">%d secs</string>
+    <string name="auto_anc_five_recover">%d secs</string>
+    <string name="auto_anc_not_recover">Keep on</string>
+    <string name="auto_anc_ten_recover">%d secs</string>
     <string name="auto_brightness_default_title">Default</string>
     <string name="auto_brightness_description">Your screen brightness will automatically adjust to your environment and activities. You can move the slider manually to help adaptive brightness learn your preferences.</string>
     <string name="auto_brightness_disclaimer">Optimize brightness level for available light. When this feature is on, you can still adjust brightness temporarily.</string>
@@ -1850,8 +1861,7 @@ If you've already done any of the above, add your Mi Account again; otherwise, y
     <string name="breathing_light_freq_summary">Set pulse interval for trackball</string>
     <string name="breathing_light_freq_title">Light pulse frequency</string>
     <string name="brightness">Brightness level</string>
-    <string name="brightness_auto_adjust_off">You can adjust screen brightness manually now. It will remain constant until you adjust it again.</string>
-    <string name="brightness_auto_adjust_on">Screen brightness will be optimized according to ambient light. You can still make minor adjustments manually.</string>
+    <string name="brightness_auto_summary">Adjust brightness to ambient light to save battery</string>
     <string name="brightness_summary">Adjust the brightness of the screen</string>
     <string name="brightness_title">Brightness</string>
     <string name="bssid_label">BSSID:</string>
@@ -1936,9 +1946,7 @@ This affects other apps or conversations that are allowed to bubble."</string>
     <string name="button_confirm_convert_fbe">Wipe and convert</string>
     <string name="button_convert_fbe">Wipe and convert…</string>
     <string name="button_disconnect_network">Disconnect from network</string>
-    <string name="button_height_text">A generic confirmation button (e.g. \"OK\", \"Done\")</string>
     <string name="button_light_timeout">Keep button lights on</string>
-    <string name="button_normal_text">Regular button</string>
     <string name="button_text_accept">Allow</string>
     <string name="button_text_accept_timer">Allow (%d)</string>
     <string name="button_text_cancel">Cancel</string>
@@ -2128,7 +2136,6 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Check for updates</string>
     <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
-    <string name="checkbox_text">Switch</string>
     <string name="checking_decryption">Checking…</string>
     <string name="checking_find_device_status">Checking Find device status…</string>
     <string name="checking_for_updates">Checking for updates…</string>
@@ -2476,6 +2483,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="connected_wifi">Connected</string>
     <string name="connecting_to_vpn">Connecting to VPN</string>
     <string name="connection_and_sharing">Connection &amp; sharing</string>
+    <string name="connection_control">Manage connections</string>
     <string name="contact_data">Contacts</string>
     <string name="contact_discovery_opt_in_dialog_message">"Your contacts’ phone numbers will be periodically sent to %1$s.
 
@@ -3218,6 +3226,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
     <string name="done_button">Done</string>
     <string name="double_click_power_key">Double press the Power button</string>
     <string name="double_click_volume_down_when_lock">Double press Volume down when the screen is locked</string>
+    <string name="double_connect">Dual connection</string>
+    <string name="double_connect_summary">For connecting to two devices</string>
     <string name="double_knock">Knuckle double tap</string>
     <string name="double_tap_power_for_camera_suggestion_title">Open camera quickly</string>
     <string name="double_tap_power_for_camera_summary">To quickly open camera, press the power button twice. Works from any screen.</string>
@@ -3381,8 +3391,8 @@ You can view generated logs in File Manager."</string>
     <string name="enable_service_pattern_reason">Because turning on %1$s affects data encryption, you need to confirm your pattern.</string>
     <string name="enable_service_pin_reason">Because turning on %1$s affects data encryption, you need to confirm your PIN.</string>
     <string name="enable_service_title">The service will perform these actions:</string>
-    <string name="enable_sizecompat_freeform">Enable freeform sizecompat</string>
-    <string name="enable_sizecompat_freeform_summary">Allows sizecompat apps to be in freeform</string>
+    <string name="enable_sizecompat_freeform">Force allow resizing windows</string>
+    <string name="enable_sizecompat_freeform_summary">Allow apps with compatibility restrictions to run in resizable windows</string>
     <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
     <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
     <string name="enable_terminal_title">Local terminal</string>
@@ -3557,6 +3567,7 @@ Restart your device and try again."</string>
     <string name="external_ram_dialog_icon_title">Memory extension is on</string>
     <string name="external_ram_dialog_message">Reboot your device to apply changes.</string>
     <string name="external_ram_dialog_title">Reboot device</string>
+    <string name="external_ram_remind_toast">Storage space is running low. Turned off memory extension for now.</string>
     <string name="external_ram_summary">"Add %1$s %2$s of RAM by occupying storage. Use this feature only when there's enough storage space available on your device."</string>
     <string name="external_ram_title">Memory extension</string>
     <string name="external_ram_toast">"Can't use memory extension due to insufficient storage space"</string>
@@ -3567,6 +3578,8 @@ Restart your device and try again."</string>
     <string name="extra_app_info_summary" />
     <string name="extreme_threats_summary">Receive alerts for extreme threats to life and property</string>
     <string name="extreme_threats_title">Extreme threats</string>
+    <string name="eye_gaze_summary">如果检测到您在注视屏幕，设备将不会锁屏</string>
+    <string name="eye_gaze_title">注视感知</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="face_add_max">You can add up to %d faces</string>
@@ -3695,6 +3708,7 @@ To learn more, contact your creditor provider."</string>
     <string name="finger_add_user_info_dialog_message">"For you to be able to use Fingerprint unlock and make fingerprint payments, we need to collect your fingerprint. The fingerprint will be stored locally on this device. To delete it, search for \"Fingerprint unlock\" in the Settings and then select Fingerprint unlock > Fingerprint. You won't be able to use this feature if you don't agree."</string>
     <string name="finger_add_user_info_dialog_next">Agree</string>
     <string name="finger_add_user_info_dialog_title">Attention</string>
+    <string name="finger_detail_info_text">修改指纹名称</string>
     <string name="fingerprint_add_max">You can add up to %d fingerprints</string>
     <string name="fingerprint_add_title">Add fingerprint</string>
     <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
@@ -3793,7 +3807,7 @@ To learn more, contact your creditor provider."</string>
     <string name="flashback_summary">Show key info when apps are displayed as floating windows</string>
     <string name="flashback_support_apps_title">Available apps</string>
     <string name="flashback_title">App flashcards</string>
-    <string name="flashback_wangzhe_summary">Show in-game countdown</string>
+    <string name="flashback_wangzhe_summary">Show resurrection countdown</string>
     <string name="floating_window_switch_label">Turn on floating windows</string>
     <string name="floating_window_switch_label_disable">Turn off floating windows</string>
     <string name="fluency_mode">System animations</string>
@@ -3997,8 +4011,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="gd_setting_title">Sidebar</string>
     <string name="general_category_title">General</string>
     <string name="general_notification_header">Manage</string>
-    <string name="general_text">Text field</string>
-    <string name="general_time">"Time: %1$d:%2$d. Long vibrations represent hours, short vibrations represent minutes. There'll be a short pause between hours and minutes. Double tap to try."</string>
     <string name="gentle_notifications_also_display">Also display in</string>
     <string name="gentle_notifications_display_lock">Lock screen</string>
     <string name="gentle_notifications_display_status">Status bar</string>
@@ -4030,6 +4042,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">This setting affects all users on this phone.</string>
     <string name="global_locale_change_title">Change language</string>
+    <string name="global_stylus_summary">"Convert handwritten input to text in any area where it's supported"</string>
+    <string name="global_stylus_title">Handwrite</string>
     <string name="gmscore_settings_title">Basic Google services</string>
     <string name="go_back_button_label">Go back</string>
     <string name="go_to_sleep">Turn off screen</string>
@@ -4124,8 +4138,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="handy_mode_tips_full_screen">"Turn on one-handed mode by swiping the full screen indicator. This feature won't work if the indicator is hidden."</string>
     <string name="haptic_agent_completion_01_content_description">Completed task</string>
     <string name="haptic_cursor_movement_07_content_description">Adjusting brightness</string>
-    <string name="haptic_experience">Demo</string>
-    <string name="haptic_experience_details">Haptic feedback &amp; accessibility</string>
     <string name="haptic_feedback_enable_title">Vibrate on tap</string>
     <string name="haptic_feedback_level">Vibration</string>
     <string name="haptic_feedback_progress">Haptic feedback level</string>
@@ -4143,11 +4155,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="haptic_return_gesture_05_content_description">Going back</string>
     <string name="haptic_shutdown_menu_06_content_description">Shutdown menu</string>
     <string name="haptic_single_selection_02_content_description">Selected item</string>
-    <string name="haptic_switch_summary">Receive haptic feedback specific to selected items when Screen reader is on</string>
-    <string name="haptic_switch_title">Haptic feedback</string>
     <string name="haptic_text_edit_popup_13_content_description">Pop-up menu</string>
     <string name="haptic_upper_right_menu_15_content_description">Dropdown menu</string>
-    <string name="haptic_video_content_description">Haptic feedback demo video</string>
     <string name="haptic_volume_adjustment_14_content_description">Adjusting volume</string>
     <string name="hardkeyboard_category">Physical keyboard settings</string>
     <string name="hardware_info">Model &amp; hardware</string>
@@ -4176,6 +4185,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="headphone_assisted_summary">"Transmit your phone's mic feed to connected Bluetooth earphones"</string>
     <string name="headphone_assisted_title">Live in-ear monitor</string>
     <string name="headset_aac">AAC</string>
+    <string name="headset_ambient_sound">Ambient sounds</string>
     <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Connecting…</string>
     <string name="headset_find_both">Both</string>
@@ -4194,7 +4204,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="headset_find_tip_title">Attention</string>
     <string name="headset_find_title">Find your earphones</string>
     <string name="headset_find_voice_warning">High volume warning</string>
-    <string name="headset_head_tracking_desc">Adjust surround sound based on head movement</string>
+    <string name="headset_head_tracking_desc">Adjust immersive sound based on head movement</string>
     <string name="headset_head_tracking_title">Track head movement</string>
     <string name="headset_notification_switch_summary">Show status on the Notification shade widget when earphones are connected</string>
     <string name="headset_notification_switch_title">Notification shade widget</string>
@@ -4202,7 +4212,9 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="headset_remove_message_indicate">%1$s will be unpaired from all the devices associated with this Mi Account.</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Sound effects</string>
-    <string name="headset_spatial_audio">Spatial audio</string>
+    <string name="headset_silent_upgrade_switch_summary">"Update headphones' firmware automatically when all required conditions are met"</string>
+    <string name="headset_silent_upgrade_switch_title">Update automatically</string>
+    <string name="headset_spatial_audio">Dimensional audio</string>
     <string name="headset_toast_tip_disconnect_others">The headset cannot be set up at this time, your headset may be connected to another phone</string>
     <string name="headset_unsaved_device">Remove the device</string>
     <string name="headset_unsaved_devices">Used on other devices</string>
@@ -4218,7 +4230,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
     <string name="heavy_weight_stop_description">This app can’t safely be stopped. If you stop it, you may lose some of your current work.</string>
-    <string name="height_light_list_text">A list of important items</string>
     <string name="help_and_feedback_title">Help and feedback</string>
     <string name="help_feedback_label">Help &amp; feedback</string>
     <string name="help_label">Help &amp; feedback</string>
@@ -4329,6 +4340,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="hide_extra_apps">Show app usage</string>
     <string name="hide_silent_icons_summary">"Icons from gentle notifications aren't shown in the status bar"</string>
     <string name="hide_silent_icons_title">Hide icons from gentle notifications</string>
+    <string name="high_brightness_hint_summary">A small sun icon will appear at the top of the screen when ambient light is strong</string>
     <string name="high_label">High</string>
     <string name="high_performance_notif_summary">Device may heat up during heavy use.</string>
     <string name="high_performance_notif_title">Performance mode is on</string>
@@ -4493,7 +4505,9 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="input_methods_settings_title">Text input</string>
     <string name="input_pattern_hint_text">Draw your unlock pattern</string>
     <string name="input_settings">Input settings</string>
-    <string name="input_text">Text input bar</string>
+    <string name="inputdebuglog_select_level">Input log level</string>
+    <string name="inputdebuglog_select_level_show">Level %d</string>
+    <string name="inputdebuglog_select_level_summary">Select level</string>
     <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by unknown apps. By installing apps from this source, you agree that you are responsible for any damage to your phone or loss of data that may result from their use.</string>
     <string name="install_applications">Unknown sources</string>
     <string name="install_applications_title">Allow all app sources</string>
@@ -4540,6 +4554,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="interact_across_profiles_switch_enabled">Connected</string>
     <string name="interact_across_profiles_title">Connected work &amp; personal apps</string>
     <string name="interaction_control_category_title">Interaction controls</string>
+    <string name="interconnection">Interconnectivity</string>
     <string name="interesting_text">Realistic tactile sensations make your interaction with the screen more clear and articulated.</string>
     <string name="interesting_title">Realistic touch</string>
     <string name="internal_memory">Internal storage</string>
@@ -4575,6 +4590,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="key_gesture_function_optional">Optional gestures and buttons</string>
     <string name="key_gesture_function_preview">Button and gesture previews</string>
     <string name="key_gesture_function_shortcut">Functional shortcuts</string>
+    <string name="key_handwriting_input_summary">Edit text using a stylus. The actions you can perform include deleting, selecting, pasting, and starting a new paragraph.</string>
+    <string name="key_handwriting_input_title">Handwrite</string>
     <string name="key_none">None</string>
     <string name="key_operation_diagram">Preview</string>
     <string name="key_position_cat">Button positions</string>
@@ -4584,7 +4601,9 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="key_system_control">System control</string>
     <string name="keyboard_and_input_methods_category">Keyboard</string>
     <string name="keyboard_assistance_category">Keyboard assistance</string>
+    <string name="keyboard_back_light">Keyboard backlight</string>
     <string name="keyboard_disconnected">Not connected</string>
+    <string name="keyboard_funtion_key">Function key</string>
     <string name="keyboard_layout_default_label">Default</string>
     <string name="keyboard_layout_dialog_setup_button">Set up keyboard layouts</string>
     <string name="keyboard_layout_dialog_switch_hint">To switch, press Control-Spacebar</string>
@@ -4762,6 +4781,24 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="knock_long_press_horizontal_slid">Press and swipe horizontally with a knuckle</string>
     <string name="knock_slide_shape">Draw a circle with a knuckle</string>
     <string name="knock_slide_v">Draw V with a knuckle</string>
+    <string name="ks_add_title">Add shortcut</string>
+    <string name="ks_back_home">Home screen</string>
+    <string name="ks_category_app">Open apps</string>
+    <string name="ks_category_key">Keyboard shortcuts</string>
+    <string name="ks_category_system">System shortcuts</string>
+    <string name="ks_dialog_add_text">Enter a key combination to add a shortcut.</string>
+    <string name="ks_dialog_conflict">This shortcut is already used for \"%s\"</string>
+    <string name="ks_dialog_modify_text">Enter a key combination to edit this shortcut.</string>
+    <string name="ks_dialog_reset_btn">Restore</string>
+    <string name="ks_dialog_reset_text_app">Default shortcut preferences for opening apps will be restored. Your custom shortcuts will be deleted. Restore anyway?</string>
+    <string name="ks_dialog_reset_text_system">Restore default system shortcut preferences now?</string>
+    <string name="ks_dialog_title">Open %s</string>
+    <string name="ks_launch_control_center">Control center</string>
+    <string name="ks_launch_notification_center">Notification shade</string>
+    <string name="ks_reset_title">Restore default preferences</string>
+    <string name="ks_screenshot">Screenshot</string>
+    <string name="ks_search_summary">Search</string>
+    <string name="ks_title">Keyboard shortcuts</string>
     <string name="label_available">Available networks</string>
     <string name="label_mi_stats">Mi analytics</string>
     <string name="language_and_input_for_work_category_title">Work profile keyboards &amp; tools</string>
@@ -5488,6 +5525,8 @@ You won't be able to reverse this action."</string>
     <string name="menu_item_notification_power_text">Battery optimization</string>
     <string name="menu_key">Menu</string>
     <string name="menu_new">New APN</string>
+    <string name="menu_new_display_open">用新窗口打开</string>
+    <string name="menu_pc_open">用电脑程序打开</string>
     <string name="menu_proc_stats_duration">Duration</string>
     <string name="menu_proc_stats_type">Stats type</string>
     <string name="menu_proc_stats_type_background">Background</string>
@@ -5503,6 +5542,7 @@ You won't be able to reverse this action."</string>
     <string name="menu_stats_total">Usage totals</string>
     <string name="menu_stats_unplugged">%1$s since unplugged</string>
     <string name="menu_use_uss">Use Uss</string>
+    <string name="mi_headset_healthy">Hearing health</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Mi Pay Account</string>
     <string name="mi_pay_summary">Transport card/Mi Pay/Key card</string>
@@ -5643,6 +5683,12 @@ You won't be able to reverse this action."</string>
 Continue to access additional settings."</string>
     <string name="miui_input_method_attention">Attention</string>
     <string name="miui_input_method_settings">Input method settings</string>
+    <string name="miui_keyboard_assistance_category">@string/keyboard_assistance_category</string>
+    <string name="miui_keyboard_back_light">@string/keyboard_back_light</string>
+    <string name="miui_keyboard_layout_default_label">@string/keyboard_layout_default_label</string>
+    <string name="miui_keyboard_mouse_touch">@string/keyboard_mouse_touch</string>
+    <string name="miui_keyboard_shortcuts_helper">@string/keyboard_shortcuts_helper</string>
+    <string name="miui_keyboard_shortcuts_helper_summary">@string/keyboard_shortcuts_helper_summary</string>
     <string name="miui_lab_ai_cloud_closed">"AI preloading isn't available yet."</string>
     <string name="miui_lab_ai_preload_desc">AI preloading increases app launch speed</string>
     <string name="miui_lab_ai_preload_title">AI preloading</string>
@@ -5667,6 +5713,8 @@ Continue to access additional settings."</string>
     <string name="miui_master_clear_summary">Erases all data on this device</string>
     <string name="miui_more_special_feature">Explore new features</string>
     <string name="miui_optimization_disabled">Turn off MIUI optimization</string>
+    <string name="miui_pointer_settings_category">@string/pointer_settings_category</string>
+    <string name="miui_pointer_speed">@string/pointer_speed</string>
     <string name="miui_sos_audio_summary">Play SOS message after emergency contact picks up</string>
     <string name="miui_sos_audio_title">SOS voice message</string>
     <string name="miui_sos_call_log_duration">Duration</string>
@@ -6006,6 +6054,7 @@ Select your operating system:"</string>
     <string name="n_cacrts">%d CA certificates</string>
     <string name="natural_haptic">Natural touch</string>
     <string name="natural_haptic_summary">New haptic feedback patterns bring an additional dimension to everything you see and touch on your screen.</string>
+    <string name="natural_scroll">Natural scroll</string>
     <string name="nature_color">Default</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Swipe up from the bottom of the screen, then swipe left or right</string>
     <string name="navigation_guide_app_quick_switch_summary">Swipe left or right from the full screen indicator or bottom of the screen</string>
@@ -6201,13 +6250,7 @@ This replaces %2$s as your default payment app."</string>
     <string name="night_display_temperature_title">Intensity</string>
     <string name="night_display_text">Night Light tints your screen amber. This makes it easier to look at your screen or read in dim light, and may help you fall asleep more easily.</string>
     <string name="night_display_title">Night Light</string>
-    <string name="night_light">Night mode</string>
-    <string name="night_light_brightness">Night mode brightness</string>
-    <string name="night_light_color">Night mode color temperature</string>
-    <string name="night_light_color_tip">Changes will take effect when Reading mode is off</string>
     <string name="night_light_main_switch_title">Use Night Light</string>
-    <string name="night_light_summary">To turn on Night mode, minimize screen brightness in low light conditions.</string>
-    <string name="night_light_tip">Changes will take effect when Night mode is on</string>
     <string name="no">No</string>
     <string name="no_5g_in_dsds_text">When using 2 SIMs, this phone will be limited to 4G. <annotation id="url">Learn more</annotation></string>
     <string name="no_application">None</string>
@@ -6247,7 +6290,6 @@ This replaces %2$s as your default payment app."</string>
     <string name="noon">Midday</string>
     <string name="normal">Off</string>
     <string name="normal_info">All sounds will work normally</string>
-    <string name="normal_list_text">List</string>
     <string name="normal_smartcover_title">Opaque front cover</string>
     <string name="not_allowed">Your SIM card doesn’t allow a connection to this network.</string>
     <string name="not_battery_optimizing">Not using battery optimization</string>
@@ -6540,6 +6582,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
     <string name="owner_space">First space</string>
     <string name="p2p_summary_enable_GPS">This feature works when location services are on</string>
     <string name="packages_subtitle">Included packages</string>
+    <string name="pad_add_fingerprint_finish_message">点击完成按钮进行更多设置</string>
+    <string name="pad_add_fingerprint_message">请将手指放在电源键上,保持手指清洁</string>
     <string name="page_layout_1">Sunday, August 16</string>
     <string name="page_layout_10">Settings</string>
     <string name="page_layout_11">Weather</string>
@@ -6681,7 +6725,6 @@ Read and agree to %s before using this service."</string>
     <string name="photo_data">Photos and videos</string>
     <string name="physical_keyboard_title">Physical keyboard</string>
     <string name="pick_up_gesture_wakeup_title">Raise to wake</string>
-    <string name="picker_text">Time picker</string>
     <string name="picture_color_mode">Picture color mode</string>
     <string name="picture_color_mode_desc">Use sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Allow this app to create a picture-in-picture window while the app is open or after you leave it (for example, to continue watching a video). This window displays on top of other apps you're using."</string>
@@ -7406,6 +7449,7 @@ This setting affects all users on this phone."</string>
     <string name="scanning_status_text_wifi_on_ble_off">Wi-Fi scanning is on, Bluetooth scanning is off</string>
     <string name="scanning_status_text_wifi_on_ble_on">Both Wi-Fi and Bluetooth scanning are on</string>
     <string name="screen">Screen</string>
+    <string name="screen_brightness">Screen brightness</string>
     <string name="screen_cancel">Cancel</string>
     <string name="screen_color_and_optimize">Colors &amp; contrast</string>
     <string name="screen_color_and_optimize_disabled">"Can't adjust color scheme and color temperature in Reading mode"</string>
@@ -8081,7 +8125,6 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="see_less">See less</string>
     <string name="see_more">See more</string>
     <string name="seek_bar_info">Adjust size</string>
-    <string name="seekbar_text">Slider</string>
     <string name="select_all">Select all</string>
     <string name="select_application">Select app</string>
     <string name="select_automatically">Automatically select network</string>
@@ -8143,6 +8186,8 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="settings_charging_fully_charged">Fully charged</string>
     <string name="settings_charging_not_charging">Not charging</string>
     <string name="settings_forbidden_message">This setting is restricted</string>
+    <string name="settings_keyboard_title">Keyboard</string>
+    <string name="settings_keyboard_warning">"Keyboard isn't connected"</string>
     <string name="settings_label">Settings</string>
     <string name="settings_label_launcher">Settings</string>
     <string name="settings_license_activity_loading">Loading…</string>
@@ -8919,6 +8964,59 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="style_and_wallpaper_settings_title">Wallpaper &amp; style</string>
     <string name="style_suggestion_summary">Try different styles, wallpapers, and more</string>
     <string name="style_suggestion_title">Customize your phone</string>
+    <string name="stylus_btn_continue">Next</string>
+    <string name="stylus_btn_learn">Tutorial</string>
+    <string name="stylus_btn_quick_write">Writing</string>
+    <string name="stylus_btn_screen_shot">Screenshot</string>
+    <string name="stylus_btn_skip">Skip</string>
+    <string name="stylus_connect">Tap to connect</string>
+    <string name="stylus_connect_fail">"Couldn't connect. Attach again."</string>
+    <string name="stylus_connect_fail_no_battery">Charge your stylus now</string>
+    <string name="stylus_connect_fail_no_reason">"Couldn't connect"</string>
+    <string name="stylus_connect_fail_not_open_gps">"Couldn't connect. Turn on location services and try again."</string>
+    <string name="stylus_connecting">Connecting…</string>
+    <string name="stylus_default_percent">100</string>
+    <string name="stylus_function_and_action">Features</string>
+    <string name="stylus_keyboard_settings_title">Stylus &amp; keyboard</string>
+    <string name="stylus_language_summary">Recognize numerals and handwritten text in English and one more selected language</string>
+    <string name="stylus_language_title">Language</string>
+    <string name="stylus_not_connect_message">"Stylus isn't connected"</string>
+    <string name="stylus_ota_check_failed_battery">"Couldn't check. The battery of your stylus is running low."</string>
+    <string name="stylus_ota_check_failed_info">"Couldn't check firmware version. Attach your stylus again."</string>
+    <string name="stylus_ota_check_update">Check for updates</string>
+    <string name="stylus_ota_completed">Updated successfully</string>
+    <string name="stylus_ota_completed_tip">Updated firmware successfully. Attach the stylus to pair.</string>
+    <string name="stylus_ota_current_firmware_version">Firmware version</string>
+    <string name="stylus_ota_demands">"Keep Bluetooth on throughout the update. Make sure the battery doesn't go below %1$s."</string>
+    <string name="stylus_ota_download_failed">"Couldn't download firmware"</string>
+    <string name="stylus_ota_downloading_firmware">Downloading firmware</string>
+    <string name="stylus_ota_firmware_info">Firmware</string>
+    <string name="stylus_ota_firmware_update">Update firmware</string>
+    <string name="stylus_ota_hardware_version">Hardware version</string>
+    <string name="stylus_ota_hava_new_version">"New version: "</string>
+    <string name="stylus_ota_latest">Up to date</string>
+    <string name="stylus_ota_model">Model</string>
+    <string name="stylus_ota_net_error">"Couldn't check for updates. Connect to the network and try again."</string>
+    <string name="stylus_ota_new_version">Update</string>
+    <string name="stylus_ota_serial_number">Serial number</string>
+    <string name="stylus_ota_timeout_failed">Session timed out</string>
+    <string name="stylus_ota_update">Update</string>
+    <string name="stylus_ota_update_failed">"Couldn't update firmware"</string>
+    <string name="stylus_ota_updating">Updating</string>
+    <string name="stylus_primary_key">First button</string>
+    <string name="stylus_quick_write">Write</string>
+    <string name="stylus_quick_write_summary">Press and hold the writing button to write or draw.</string>
+    <string name="stylus_schematic_diagram">Demo</string>
+    <string name="stylus_screen_shot">Take a screenshot</string>
+    <string name="stylus_screen_shot_summary">Press and hold the screenshot button to take and edit a screenshot.</string>
+    <string name="stylus_settings_title">Stylus</string>
+    <string name="stylus_shortcut_actions_summary">Press and hold the first button to write. Press and hold the second button to take a screenshot.</string>
+    <string name="stylus_shortcut_actions_title">Quick actions</string>
+    <string name="stylus_shortcut_title_note">Writing</string>
+    <string name="stylus_shortcut_title_screenshot">Screenshot</string>
+    <string name="stylus_success">Done</string>
+    <string name="stylus_vice_key">Second button</string>
+    <string name="stylus_welcome">Meet Xiaomi Smart Pen</string>
     <string name="subscription_available">Available</string>
     <string name="sudFontSecondary">google-sans</string>
     <string name="sudFontSecondaryMedium">google-sans-medium</string>
@@ -8954,7 +9052,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
     <string name="sunlight_mode">Sunlight mode</string>
-    <string name="sunlight_mode_summary">Adjust brightness to strong ambient light when automatic brightness is off</string>
+    <string name="sunlight_mode_summary">Adjust brightness to strong ambient light to prevent the screen from going too dark</string>
     <string name="supl_not_set">&lt;Not set></string>
     <string name="supplicant_state_label">Supplicant state:</string>
     <string name="support_summary">Help articles, phone &amp; chat</string>
@@ -8962,7 +9060,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="surround_sound_all_desc">Enhance the depth of sound reproduction for earphones and speakers</string>
     <string name="surround_sound_only_headset_desc">Enhance the depth of sound reproduction for earphones</string>
     <string name="surround_sound_only_speaker_desc">Enhance the depth of sound reproduction for speakers</string>
-    <string name="surround_sound_title">Surround sound</string>
+    <string name="surround_sound_title">Immersive sound</string>
     <string name="swipe_direction_ltr">Swipe right to dismiss, left to show menu</string>
     <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
     <string name="swipe_direction_title">Swipe actions</string>
@@ -9035,7 +9133,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="system_ui_settings">Show SystemUI Tuner</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">System updates</string>
-    <string name="tab_text">Tab</string>
     <string name="take_call_on_title">Take call on</string>
     <string name="talkback_summary">Screen reader primarily for people with blindness and low vision</string>
     <string name="talkback_title">Talkback</string>
@@ -9225,6 +9322,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="transcode_settings_title">Media transcoding settings</string>
     <string name="transcode_user_control">Override transcoding defaults</string>
     <string name="transition_animation_scale_title">Transition animation scale</string>
+    <string name="transparent_human_voice">Voice</string>
+    <string name="transparent_normal">Regular</string>
+    <string name="transparent_surroundings">Ambient</string>
     <string name="trigger_carrier_provisioning">Trigger Carrier Provisioning</string>
     <string name="truetone_summary">Adjust colors to ambient light</string>
     <string name="truetone_title">Adaptive colors</string>
@@ -9313,6 +9413,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="tx_link_speed">%1$d Mbps</string>
     <string name="tx_link_speed_label">Transmit link speed:</string>
     <string name="tx_wifi_speed">Transmit link speed</string>
+    <string name="ucar_screen_projection_title">CarWith</string>
     <string name="under_keyguard">Screen off</string>
     <string name="unimportant">Unimportant</string>
     <string name="uninstall_all_users_text">Uninstall for all users</string>
@@ -10628,7 +10729,6 @@ you can use other users' networks, too."</string>
     <string name="wifi_unchanged">(unchanged)</string>
     <string name="wifi_unmetered_label">Unmetered</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Auto Connection</string>
-    <string name="wifi_unsaved_network_linking_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
     <string name="wifi_unspecified">Please select</string>
     <string name="wifi_update">Refresh stats</string>
     <string name="wifi_use_system_certs">Use system certificates</string>
@@ -10674,7 +10774,6 @@ Looks like credential storage isn't enabled."</string>
     <string name="wifi_wapi_user_cert">User certificate</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
     <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
-    <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
     <string name="wifi_wps_available_first_item">WPS available</string>
     <string name="wifi_wps_available_second_item">" (WPS available)"</string>
     <string name="wifi_wps_connected">Connected to Wi-Fi network %s</string>
