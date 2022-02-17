@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_Perm_External_Storage">读写手机存储</string>
-    <string name="HIPS_Perm_External_Storage_Desc">读写设备上的照片及文件</string>
-    <string name="HIPS_Perm_Read_Contact">读取联系人</string>
-    <string name="HIPS_Perm_Read_Contact_Desc">读取联系人信息</string>
+    <string name="HIPS_Perm_External_Storage">Storage</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Access and save files and photos on your device</string>
+    <string name="HIPS_Perm_Read_Contact">Contacts</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Access your contacts</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -2412,6 +2412,10 @@ UT Interface: %5$s"</string>
     <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
     <string name="settings_label">Network settings</string>
     <string name="settings_package">com.android.settings</string>
+    <string name="settingslib_config_bodyFontFamily">@android:string/config_bodyFontFamily</string>
+    <string name="settingslib_config_bodyFontFamilyMedium">@android:string/config_bodyFontFamilyMedium</string>
+    <string name="settingslib_config_headlineFontFamily">@android:string/config_headlineFontFamily</string>
+    <string name="settingslib_config_headlineFontFamilyMedium">@android:string/config_headlineFontFamilyMedium</string>
     <string name="settingslib_learn_more_text">Learn more</string>
     <string name="shared_data_delete_failure_text">There was an error deleting the shared data.</string>
     <string name="shared_data_no_accessors_dialog_text">There are no leases acquired for this shared data. Would you like to delete it?</string>
