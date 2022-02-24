@@ -571,8 +571,8 @@ to show widgets."</string>
     <string name="pa_recommend_no_network">Download the app first</string>
     <string name="pa_rtk_card_title">Dashboard</string>
     <string name="pa_rtk_more_content_description">Options</string>
-    <string name="pa_rtk_more_text">Not interested</string>
     <string name="pa_rtk_place_holder_text">This widget was moved to your dashboard for now</string>
+    <string name="pa_rtk_unlike_text">Unpin</string>
     <string name="pa_rts_summary">Place most frequently used widgets on the dashboard</string>
     <string name="pa_rts_text">Dashboard</string>
     <string name="pa_scan">Scan</string>
