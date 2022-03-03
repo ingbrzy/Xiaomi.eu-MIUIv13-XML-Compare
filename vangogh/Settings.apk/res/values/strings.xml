@@ -10582,6 +10582,8 @@ Setting the network as hidden will not change your router settings."</string>
     <string name="wifi_protection_tip">MIUI will protect your personal data from Wi-Fi probe requests coming from random MAC addresses and Wi-Fi probe sniffers when your device is searching for Wi-Fi networks.</string>
     <string name="wifi_quick_toggle_summary">Turn on Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_region_summary">Requires Wi-Fi to be restarted to take effect</string>
+    <string name="wifi_region_title">Wi-Fi region</string>
     <string name="wifi_remembered">Saved</string>
     <string name="wifi_remembered_disabled_auto_connect">"Saved. Won't connect automatically."</string>
     <string name="wifi_require_sim_card_to_connect">Requires SIM to connect</string>
