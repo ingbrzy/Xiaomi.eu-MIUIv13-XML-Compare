@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<strings> 
+<strings>
     <string name="date_time" value="EEE, dd MMMM">EEEE, d. MMMM</string>
     <string name="date_time_12" value="EEE, dd MMMM">EEEE, d. MMMM</string>
     <string name="desc_date_format" value="EEEE, MMM dd">EEEE, d. MMM</string>
