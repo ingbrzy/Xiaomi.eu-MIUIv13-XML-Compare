@@ -624,7 +624,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="date_simple_separator" />
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="date_to_now">Started %1$s</string>
-    <string name="day" />
+    <string name="day"/>
     <string name="decive_settings_hint_most_count">You can add up to 20 clocks</string>
     <string name="default_web_client_id">87810215272-4n02l8l8sgbg0dcpsje42edv8ffrjsee.apps.googleusercontent.com</string>
     <string name="device_add">Add</string>
@@ -3005,7 +3005,7 @@ Earn this award"</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
-    <string name="month" />
+    <string name="month"/>
     <string name="month_april">April</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -4851,7 +4851,7 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="xms_thirdapp_permission_notify_name">Send notifications</string>
     <string name="xms_thirdapp_permission_request_info">%s app can:</string>
     <string name="xms_thirdapp_revoke_auth">You can change permissions in Profile > Device permissions.</string>
-    <string name="year" />
+    <string name="year"/>
     <string name="yesterday">Yesterday</string>
     <string name="yuan">RMB</string>
 </resources>
