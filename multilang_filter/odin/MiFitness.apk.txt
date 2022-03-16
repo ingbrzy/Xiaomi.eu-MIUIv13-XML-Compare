@@ -1,0 +1,1 @@
+Removed: [hr] string/month (untranslatable)
