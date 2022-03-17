@@ -1,0 +1,4 @@
+Removed: [de] string/mtrl_badge_numberless_content_description (duplicate)
+Removed: [de] string/mtrl_chip_close_icon_content_description (duplicate)
+Removed: [de] string/mtrl_exceed_max_badge_number_content_description (duplicate)
+Removed: [hr] string/month (untranslatable)
