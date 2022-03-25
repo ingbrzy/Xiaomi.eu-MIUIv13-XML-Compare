@@ -1,7 +1,6 @@
 Removed: [ar] array/alphabet_table (item mismatch)
 Removed: [ar] array/alphabet_table_with_starred (item mismatch)
 Removed: [el] array/nf_feedback_reason (item mismatch)
-Removed: [es] array/nf_feedback_reason (item mismatch)
 Removed: [fa-rIR] array/alphabet_table (item mismatch)
 Removed: [fa-rIR] array/alphabet_table_with_starred (item mismatch)
 Removed: [hu] array/nf_feedback_reason (item mismatch)
