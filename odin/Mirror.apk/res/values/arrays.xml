@@ -63,15 +63,15 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
-    <string-array name="auto_process_mode">
-        <item>Notify</item>
-        <item>Clear</item>
-        <item>Clear and notify</item>
-    </string-array>
-    <string-array name="cache_sort_type">
-        <item>Size</item>
-        <item>Name</item>
-    </string-array>
+    <array name="assume_strong_biometrics_prefixes" />
+    <array name="buffer_size_values">
+        <item>@null</item>
+        <item>64K</item>
+        <item>128K</item>
+        <item>256K</item>
+        <item>512K</item>
+        <item>1M</item>
+    </array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -149,6 +149,18 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <string-array name="crypto_fingerprint_fallback_prefixes">
+        <item>SM-G95</item>
+        <item>SM-G96</item>
+        <item>SM-G97</item>
+        <item>SM-N95</item>
+        <item>SM-N96</item>
+        <item>SM-N97</item>
+        <item>SM-A20</item>
+    </string-array>
+    <string-array name="crypto_fingerprint_fallback_vendors">
+        <item>samsung</item>
+    </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -158,56 +170,6 @@
         <item>@string/evening</item>
         <item>@string/night</item>
     </string-array>
-    <array name="dialog_delete_finish_res">
-        <item>@drawable/delete_file_animation_31</item>
-        <item>@drawable/delete_file_animation_32</item>
-        <item>@drawable/delete_file_animation_33</item>
-        <item>@drawable/delete_file_animation_34</item>
-        <item>@drawable/delete_file_animation_35</item>
-        <item>@drawable/delete_file_animation_36</item>
-        <item>@drawable/delete_file_animation_37</item>
-        <item>@drawable/delete_file_animation_38</item>
-        <item>@drawable/delete_file_animation_39</item>
-        <item>@drawable/delete_file_animation_40</item>
-        <item>@drawable/delete_file_animation_41</item>
-        <item>@drawable/delete_file_animation_42</item>
-        <item>@drawable/delete_file_animation_43</item>
-        <item>@drawable/delete_file_animation_44</item>
-        <item>@drawable/delete_file_animation_45</item>
-    </array>
-    <array name="dialog_delete_loading_res">
-        <item>@drawable/delete_file_animation_0</item>
-        <item>@drawable/delete_file_animation_1</item>
-        <item>@drawable/delete_file_animation_2</item>
-        <item>@drawable/delete_file_animation_3</item>
-        <item>@drawable/delete_file_animation_4</item>
-        <item>@drawable/delete_file_animation_5</item>
-        <item>@drawable/delete_file_animation_6</item>
-        <item>@drawable/delete_file_animation_7</item>
-        <item>@drawable/delete_file_animation_8</item>
-        <item>@drawable/delete_file_animation_9</item>
-        <item>@drawable/delete_file_animation_10</item>
-        <item>@drawable/delete_file_animation_11</item>
-        <item>@drawable/delete_file_animation_12</item>
-        <item>@drawable/delete_file_animation_13</item>
-        <item>@drawable/delete_file_animation_14</item>
-        <item>@drawable/delete_file_animation_15</item>
-        <item>@drawable/delete_file_animation_16</item>
-        <item>@drawable/delete_file_animation_17</item>
-        <item>@drawable/delete_file_animation_18</item>
-        <item>@drawable/delete_file_animation_19</item>
-        <item>@drawable/delete_file_animation_20</item>
-        <item>@drawable/delete_file_animation_21</item>
-        <item>@drawable/delete_file_animation_22</item>
-        <item>@drawable/delete_file_animation_23</item>
-        <item>@drawable/delete_file_animation_24</item>
-        <item>@drawable/delete_file_animation_25</item>
-        <item>@drawable/delete_file_animation_26</item>
-        <item>@drawable/delete_file_animation_27</item>
-        <item>@drawable/delete_file_animation_28</item>
-        <item>@drawable/delete_file_animation_29</item>
-        <item>@drawable/delete_file_animation_30</item>
-    </array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
         <item>@string/earthly_branches_chou</item>
@@ -226,10 +188,6 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
-    <string-array name="fast_hide_path">
-        <item>/DCIM</item>
-        <item>/Picture</item>
-    </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
         <item>@string/heavenly_stems_yi</item>
@@ -242,47 +200,16 @@
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
     </string-array>
-    <string-array name="hide_installed_packages">
-        <item>com.miui.klo.bugreport</item>
-        <item>com.mfashiongallery.emag</item>
-        <item>com.miui.miuibbs</item>
-        <item>com.xiaomi.smarthome</item>
-        <item>com.wali.live</item>
-        <item>com.xiaomi.o2o</item>
-        <item>com.mi.vtalk</item>
-        <item>com.xiaomi.shop</item>
-        <item>com.xiaomi.jr</item>
-        <item>com.duokan.reader</item>
-        <item>com.ximalaya.ting.android</item>
-        <item>com.mi.misupport</item>
-        <item>com.xiaomi.channel</item>
-        <item>com.xiaomi.adecom</item>
-        <item>com.sohu.inputmethod.sogou.xiaomi</item>
-        <item>com.baidu.input_mi</item>
-        <item>com.amazon.appmanager</item>
-        <item>com.xiaomi.mihomemanager</item>
-        <item>com.baidu.duersdk.opensdk</item>
-        <item>com.google.android.marvin.talkback</item>
-        <item>com.iflytek.speechcloud</item>
-        <item>com.xiaomi.jr.security</item>
-    </string-array>
-    <string-array name="hide_packages">
-        <item>com.tencent.mm</item>
-        <item>com.tencent.mobileqq</item>
-    </string-array>
-    <string-array name="hide_path">
-        <item>/FileExplorer/.safebox</item>
-        <item>/DCIM/.thumbnails</item>
-        <item>/Android/data/com.miui.cleanmaster/cache</item>
-        <item>/Android/data/com.tencent.KiHan</item>
-    </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Frequently used</item>
-        <item>Size</item>
-    </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+    <string-array name="hide_fingerprint_instantly_prefixes">
+        <item>SM-G97</item>
+        <item>SC-03L</item>
+        <item>SC-04L</item>
+        <item>SC-05L</item>
+        <item>SCV41</item>
+        <item>SCV42</item>
+        <item>SM-N97</item>
+        <item>SC-01M</item>
+        <item>SCV45</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -326,6 +253,26 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
+    <string-array name="settings_search_mirror">
+        <item>MIUI+ Beta</item>
+        <item>Connection &amp; sharing/MIUI+ Beta</item>
+        <item>Screen Combo;Duet;Multiscreen;Duo;Computer;Mirror;MIUI+</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Turn off portable hotspot, Mi Share, or casting on your mobile device before using this feature.
+2. Turn off Wi-Fi on both your mobile device and computer.
+3. Make sure your mobile device is close to your computer. You won't be able to connect devices if they are in different places."</item>
+        <item>Your computer uses Bluetooth to detect nearby mobile devices that have been previously connected. Check whether Bluetooth is turned on on your mobile device.</item>
+        <item>"Mobile devices can't sync data with computers when the screen is locked. By default, this app doesn't allow locking the screen when your mobile device is connected to a computer. You can change this in the Settings."</item>
+        <item>"1. Compatible mobile devices: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. If you're redirected to our official website after scanning the QR code, your device isn't supported yet.
+2. Compatible computers: 小米笔记本Pro 15 增强版, 小米笔记本Pro 15.6 2020款, Redmi G 游戏本, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Download MIUI+ Beta for your computer here: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Can't connect using QR code?"</item>
+        <item>"Can't find mobile devices using your computer?"</item>
+        <item>"Can't lock your mobile device?"</item>
+        <item>Compatibility</item>
+    </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
         <item>@string/solar_term_slight_cold</item>
@@ -353,15 +300,6 @@
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
-    <string-array name="uninstalled_app_sort_type">
-        <item>Size</item>
-        <item>Usage frequency</item>
-        <item>Installation time</item>
-    </string-array>
-    <string-array name="wechat_sort">
-        <item>Date</item>
-        <item>Size</item>
-    </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
         <item>@string/monday</item>
@@ -388,18 +326,5 @@
         <item>@string/thursday_shortest</item>
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
-    </string-array>
-    <string-array name="white_list_ad">
-        <item>/MIUI/debug_log</item>
-    </string-array>
-    <string-array name="white_list_cache">
-        <item>/MIUI/theme/.data</item>
-        <item>/MIUI/contactphoto/.data</item>
-        <item>/MIUI/wallpaper</item>
-        <item>/MIUI/ringtone</item>
-        <item>/MIUI/Gallery/cloud</item>
-        <item>/MiMarket/files</item>
-        <item>/miliao/cache</item>
-        <item>/tencent/blob/mqq</item>
     </string-array>
 </resources>
