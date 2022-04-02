@@ -1,6 +1,2 @@
 Removed: [hr] string/month (untranslatable)
 Removed: [hu] array/exo_speed_multiplied_by_100 (untranslatable)
-Removed: [sk] string/device_agree_all (duplicate)
-Removed: [sk] string/device_agree_to_terms (duplicate)
-Removed: [sk] string/device_required_agree_collect_info (duplicate)
-Removed: [sk] string/device_required_agree_use_location (duplicate)
