@@ -222,11 +222,16 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="activate_failed_no_retry">Please contact bank customer service</string>
     <string name="activity_not_found_notice">"Can't find the app"</string>
     <string name="add_device">Add device</string>
+    <string name="add_test_env_permission">add test env permission</string>
+    <string name="add_test_env_permission_hint">Warning: once in the test environment the device can no longer access the production environment.</string>
+    <string name="add_test_key">Add security key</string>
+    <string name="add_test_key_hint">Approved，click the button of add key to add test key</string>
     <string name="add_to_trust_device">This is a trusted device</string>
     <string name="add_wifi_desc">To connect your wearable device to Wi-Fi, enter the password for \"%1$s\".</string>
     <string name="add_wifi_title">Enter password</string>
     <string name="afternoon">Afternoon</string>
     <string name="agree">Agree</string>
+    <string name="agree_protocol">Agree protocol</string>
     <string name="aivs_huami_operate_on_app">Continue in the app on your phone</string>
     <string name="aivs_huami_timer_limit">You can set a timer for up to 99 mins 59 secs</string>
     <string name="am">AM</string>
@@ -235,8 +240,20 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="app_upgrade_no_newer_version">Current version is up to date</string>
     <string name="app_upgrade_test_title">发现新的测试版本</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="apply_add_test_key">Enter dev mode</string>
+    <string name="apply_add_test_key_data_exception">"Couldn't decrypt data"</string>
+    <string name="apply_add_test_key_error_data">Parameters are incorrect</string>
+    <string name="apply_add_test_key_no_data">Invalid parameters</string>
+    <string name="apply_add_test_key_reason">apply reason</string>
+    <string name="apply_add_test_key_reason_not_null">"reason don't allow null"</string>
+    <string name="apply_add_test_key_repeat">An error occurred, try again</string>
+    <string name="apply_se_key_status_applying">Applying</string>
+    <string name="apply_se_key_status_denied">Denied</string>
+    <string name="apply_se_key_status_original">"Haven't applied, the original key is used"</string>
+    <string name="apply_se_key_status_succeed">Approved</string>
     <string name="apply_times_exceed_limit">Apply times exceed the max limit</string>
     <string name="auth_fail_warning">Session expired. Sign in again.</string>
+    <string name="auth_failure_exception">auth_failure_exception， please clear app cache</string>
     <string name="bank_card_not_supported">Not supported</string>
     <string name="bank_card_type_credit">Credit</string>
     <string name="bank_card_type_debit">Debit</string>
@@ -251,9 +268,12 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="ble_ota_fw_upgrade_success_title">Synced successfully</string>
     <string name="ble_ota_push_error">"Couldn't update"</string>
     <string name="ble_ota_push_error_info">An update requires at least 20% battery on your wearable device.</string>
+    <string name="body_movement_information">身体运动信息权限</string>
+    <string name="body_movement_information_desc">在使用过程中，本应用需要访问身体运动信息权限，用于记录您运动的步数、时长、距离。</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="cancel">Cancel</string>
+    <string name="cancel_text">Give up</string>
     <string name="card_recharge_promo_code_exhausted">"Oh, you're a bit late, please look forward to the next promotion"</string>
     <string name="card_status_no_apply_privilege">Your card status has no privilege to apply the business</string>
     <string name="card_type_no_apply_privilege">Your card type has no privilege to apply the business</string>
@@ -415,6 +435,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
     <string name="confirm_new_pwd">Confirm new password</string>
     <string name="confirm_unbundled_phone_dialog_message">This phone number was associated with Mi Account %2$s on %1$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
+    <string name="continue_text">Continue</string>
     <string name="copy">Copy</string>
     <string name="country_or_region_AE">The United Arab Emirates</string>
     <string name="country_or_region_AR">Argentina</string>
@@ -585,6 +606,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="course_video_1080">1080P</string>
     <string name="course_video_4k">4K</string>
     <string name="course_video_720">720P</string>
+    <string name="create_session_failed">create session failed</string>
     <string name="data_sleep_reference_detail">"1. Principles and Practice of Sleep Medicine，4th edition. 
 2. Fundamentals of Sleep Medicine. 
 3. Patel, A. K., Reddy, V., &amp; Araujo, J. F. (2020, April). Physiology, Sleep Stages. StatPearls Publishing. 
@@ -624,7 +646,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="date_simple_separator" />
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="date_to_now">Started %1$s</string>
-    <string name="day"/>
+    <string name="day" />
     <string name="decive_settings_hint_most_count">You can add up to 20 clocks</string>
     <string name="default_web_client_id">87810215272-4n02l8l8sgbg0dcpsje42edv8ffrjsee.apps.googleusercontent.com</string>
     <string name="device_add">Add</string>
@@ -634,6 +656,8 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_add_discovery_paired">Paired device found</string>
     <string name="device_add_failed">"Couldn't add"</string>
     <string name="device_add_new">Add device</string>
+    <string name="device_agree_all">I agree to all</string>
+    <string name="device_agree_to_terms">Terms and conditions</string>
     <string name="device_alarm_notify">Sync alarms from phone</string>
     <string name="device_all_skills">All features</string>
     <string name="device_amazon_alexa">Amazon Alexa</string>
@@ -731,7 +755,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_language_setting">Language</string>
     <string name="device_location_dialog_message">"You won't be able to use this service unless you grant the required permissions, but it won't affect your use of other services. You can always restrict permissions in the Settings."</string>
     <string name="device_location_dialog_title">Permissions required</string>
-    <string name="device_lock_off_wrist">Wrist detection</string>
+    <string name="device_lock_off_wrist">PIN</string>
     <string name="device_manager">Devices</string>
     <string name="device_mi_band">Band</string>
     <string name="device_mi_sport_health">Mi Fitness (Current)</string>
@@ -761,6 +785,8 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_remove_device_in_other">Go to Device page and tap Unpair.</string>
     <string name="device_remove_fail">"Couldn't remove"</string>
     <string name="device_remove_fail_many_time">To unpair the device, go to Device page and tap Unpair.</string>
+    <string name="device_required_agree_collect_info">&lt;Data>I agree to &lt;a href=\"%1$s\">Collection and Use of Personal Information&lt;/a> (mandatory)&lt;/Data></string>
+    <string name="device_required_agree_use_location">&lt;Data>I agree to &lt;a href=\"%1$s\">Collection of Location Information&lt;/a> (mandatory)&lt;/Data></string>
     <string name="device_retry">Try again</string>
     <string name="device_scan_login">Scanner</string>
     <string name="device_scan_qr_add_device">Add device</string>
@@ -920,6 +946,19 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_common_wechat_pay">WeChat</string>
     <string name="device_settings_common_world_clock">World clock</string>
     <string name="device_settings_common_xiaoai">Mi AI</string>
+    <string name="device_settings_contact">Favorite contacts</string>
+    <string name="device_settings_contact_add">Add</string>
+    <string name="device_settings_contact_add_fail">"Couldn't add to favorite contacts. Try again."</string>
+    <string name="device_settings_contact_delete_fail">"Couldn't delete. Try again."</string>
+    <string name="device_settings_contact_edit">Edit</string>
+    <string name="device_settings_contact_list_fail">"Couldn't get contact info. Try again."</string>
+    <string name="device_settings_contact_list_tips1">1. To call your contacts on your wearable device, add them to your favorite contacts.</string>
+    <string name="device_settings_contact_list_tips2">2. You can add up to 10 favorite contacts.</string>
+    <string name="device_settings_contact_search">Search contacts</string>
+    <string name="device_settings_contact_select">Select contact</string>
+    <string name="device_settings_contact_sort">Sort</string>
+    <string name="device_settings_contact_sync_failt">"Couldn't sync. Try again."</string>
+    <string name="device_settings_contact_sync_success">Synced successfully</string>
     <string name="device_settings_continue">Next</string>
     <string name="device_settings_customize_schedule">Schedule</string>
     <string name="device_settings_desc_pressure">Measure your stress level throughout the day</string>
@@ -1023,7 +1062,7 @@ Turning on this feature will affect battery life, continue anyway?"</string>
     <string name="device_settings_heart_rate_warning_unit">BPM</string>
     <string name="device_settings_helper_keep_alive">Background permissions</string>
     <string name="device_settings_high_hr_notify">High heart rate</string>
-    <string name="device_settings_high_hr_notify_des">"Notify when your heart rate goes above the set level while you've been inactive for 10 mins"</string>
+    <string name="device_settings_high_hr_notify_des">"Notify when your heart rate remains above the set level while you've been inactive"</string>
     <string name="device_settings_high_hr_notify_threshold">Alert value</string>
     <string name="device_settings_high_pressure_notice_des">Prompt a breathing exercise when your stress level remains above 80 during awake time</string>
     <string name="device_settings_high_pressure_notice_title">Relax reminder</string>
@@ -1052,7 +1091,7 @@ Turning on this feature will affect battery life, continue anyway?"</string>
     <string name="device_settings_limit_bind_switch_tips">Restrict your wearable device from pairing with a different app</string>
     <string name="device_settings_limit_hint">Tips</string>
     <string name="device_settings_load_data_failed">"Couldn't load info"</string>
-    <string name="device_settings_lock_off_wrist">Wrist detection</string>
+    <string name="device_settings_lock_off_wrist">PIN</string>
     <string name="device_settings_lock_off_wrist_set_pwd">Set PIN</string>
     <string name="device_settings_long_sit">Idle alert</string>
     <string name="device_settings_low_hr_warning_title">Low heart rate</string>
@@ -1079,6 +1118,7 @@ This step is required to pay with your device."</string>
     <string name="device_settings_night_model_sunset_open">Off until sunset</string>
     <string name="device_settings_night_model_tomorrow">Tomorrow</string>
     <string name="device_settings_night_start_time">Start</string>
+    <string name="device_settings_no_contact">No favorites yet</string>
     <string name="device_settings_not_open_for_now">Not now</string>
     <string name="device_settings_notify_permission_is_not_enabled">Allow Notification access</string>
     <string name="device_settings_nromal_alarm">Regular</string>
@@ -1208,8 +1248,9 @@ The related device data will be cleared within 7 days."</string>
     <string name="device_settings_unlock_phone_unlock_distance">Range</string>
     <string name="device_settings_unwear_alert">"Lock your wearable device when you're not wearing it"</string>
     <string name="device_settings_unwear_close_cofirm_msg">"After you turn off the PIN, you won't be able to use this feature, continue anyway?"</string>
-    <string name="device_settings_unwear_close_cofirm_title">Turn off PIN?</string>
+    <string name="device_settings_unwear_close_cofirm_title">Turn off PIN</string>
     <string name="device_settings_unwear_close_pwd">Turn off PIN</string>
+    <string name="device_settings_unwear_get_status_fail">"Couldn't sync data"</string>
     <string name="device_settings_unwear_no_set">Not set</string>
     <string name="device_settings_unwear_set_pwd">PIN</string>
     <string name="device_settings_unwear_set_pwd_huami_alert">Enter 6-digit PIN</string>
@@ -1578,6 +1619,7 @@ Send this code to the supervisor."</string>
     <string name="firmware_install_success">Complete</string>
     <string name="firmware_installing_tip">Keep your device and phone close together. This step may take several minutes.</string>
     <string name="firmware_low_battery_limit_tip">An update requires at least 10% battery on your wearable device.</string>
+    <string name="firmware_low_battery_limit_tip_with_progress">升级手环，需要电量不低于%1$d%%</string>
     <string name="firmware_low_battery_tip">Charge your device</string>
     <string name="firmware_not_support">Update your device first</string>
     <string name="firmware_progress_expression">Synced %1$d%%</string>
@@ -1607,6 +1649,10 @@ Send this code to the supervisor."</string>
     <string name="firmware_updating_tip">Keep the device close to your phone</string>
     <string name="firmware_upgrade_start">Update</string>
     <string name="firmware_version_is_latest">Current version is up to date</string>
+    <string name="fitness_advanced_aerobic_run">进阶有氧耐力跑</string>
+    <string name="fitness_advanced_fat_burning_run">进阶燃脂跑</string>
+    <string name="fitness_advanced_interval_run">进阶间歇跑</string>
+    <string name="fitness_advanced_run">进阶跑走结合</string>
     <string name="fitness_aerobics">Aerobics</string>
     <string name="fitness_aquatic_sport">Water sports</string>
     <string name="fitness_archery">Archery</string>
@@ -1618,11 +1664,17 @@ Send this code to the supervisor."</string>
     <string name="fitness_ballroom_dancing">Ballroom dance</string>
     <string name="fitness_barbell_training">Barbell</string>
     <string name="fitness_baseball">Baseball</string>
+    <string name="fitness_basic_aerobic_run">基础有氧耐力跑</string>
+    <string name="fitness_basic_fat_burning_run">基础燃脂跑</string>
+    <string name="fitness_basic_interval_run">基础间歇跑</string>
+    <string name="fitness_basic_run">基础跑走结合</string>
+    <string name="fitness_basic_slow_run">基础慢跑</string>
     <string name="fitness_basketball">Basketball</string>
     <string name="fitness_battle_rope">Battle rope</string>
     <string name="fitness_beach_football">Beach soccer</string>
     <string name="fitness_beach_volleyball">Beach volleyball</string>
     <string name="fitness_belly_dance">Belly dance</string>
+    <string name="fitness_bike_motocross">小轮车</string>
     <string name="fitness_billiards">Billiards</string>
     <string name="fitness_bmx">BMX</string>
     <string name="fitness_board_game">Board game</string>
@@ -1673,6 +1725,8 @@ Send this code to the supervisor."</string>
     <string name="fitness_gymnastics">Gymnastics</string>
     <string name="fitness_handball">Handball</string>
     <string name="fitness_health_walk">Walking</string>
+    <string name="fitness_heel_to_toe_walk">竞走</string>
+    <string name="fitness_high_bar">单杠</string>
     <string name="fitness_high_intensity_gap_training">HIIT</string>
     <string name="fitness_high_intensity_interval_training">HIIT</string>
     <string name="fitness_hiking_outdoor">Hiking</string>
@@ -1681,6 +1735,7 @@ Send this code to the supervisor."</string>
     <string name="fitness_horizontal_bar">Horizontal bar</string>
     <string name="fitness_horse_riding">Horse riding</string>
     <string name="fitness_hula_hoop">Hula hoop</string>
+    <string name="fitness_hunting">打猎</string>
     <string name="fitness_indoor_fitness">Indoor fitness</string>
     <string name="fitness_indoor_skating">Indoor ice skating</string>
     <string name="fitness_indoor_soccer">Futsal</string>
@@ -1698,6 +1753,7 @@ Send this code to the supervisor."</string>
     <string name="fitness_latin_dance">Latin dance</string>
     <string name="fitness_lower_limb_training">Lower body</string>
     <string name="fitness_martial_arts">Martial arts</string>
+    <string name="fitness_miit_fat_burning_run">MIIT燃脂跑</string>
     <string name="fitness_mixed_aerobic">Aerobic combo</string>
     <string name="fitness_motorboat">Powerboating</string>
     <string name="fitness_mountain_climb">Trekking</string>
@@ -1748,6 +1804,7 @@ Send this code to the supervisor."</string>
     <string name="fitness_somatosensory_game">Somatosensory game</string>
     <string name="fitness_spinning_bike">Spinning</string>
     <string name="fitness_sport_all">All</string>
+    <string name="fitness_sport_walk_indoor">室内走步</string>
     <string name="fitness_square_dance">Square dancing</string>
     <string name="fitness_squash">Squash</string>
     <string name="fitness_step_training">Stepper</string>
@@ -1773,6 +1830,7 @@ Send this code to the supervisor."</string>
     <string name="fitness_volleyball">Volleyball</string>
     <string name="fitness_waist_training">Abs</string>
     <string name="fitness_walk">Race walk</string>
+    <string name="fitness_walk_indoor">室内步行</string>
     <string name="fitness_walk_outdoor">Walking</string>
     <string name="fitness_walking">Walks</string>
     <string name="fitness_wall_ball">Wall ball</string>
@@ -1841,9 +1899,16 @@ Send this code to the supervisor."</string>
     <string name="friday_shortest">Fri</string>
     <string name="gcm_defaultSenderId">87810215272</string>
     <string name="get_back_pwd">Resetting password</string>
+    <string name="get_fitness_authorization">当前小米穿戴未被授权获取健身运动信息，无法获取您的步数信息，请前往小米穿戴-权限管理授权后使用</string>
+    <string name="get_permission_failed">get permission failed，go Settings-Permissions to open</string>
     <string name="get_ph_ticket">Get code</string>
     <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
     <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+    <string name="get_test_key_duplicate_access_data">duplicate access data</string>
+    <string name="get_test_key_error_default">default error</string>
+    <string name="get_test_key_invalid_access_data">invalid access data</string>
+    <string name="get_test_key_invalid_param">invalid param</string>
+    <string name="get_test_key_no_access_data">no access data</string>
     <string name="google_api_key">AIzaSyAxpyzCB9IumF2nQSbSCng5wNh7-1UTVLY</string>
     <string name="google_app_id">1:87810215272:android:a286c1234b09fd13f81add</string>
     <string name="google_application_id" />
@@ -2148,6 +2213,11 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_data_sleep_empty">No data</string>
     <string name="health_data_sort_label">Hidden items</string>
     <string name="health_data_sort_label_kit">Hidden widgets</string>
+    <string name="health_data_sport_hrm1">热身</string>
+    <string name="health_data_sport_hrm2">燃脂</string>
+    <string name="health_data_sport_hrm3">有氧</string>
+    <string name="health_data_sport_hrm4">无氧</string>
+    <string name="health_data_sport_hrm5">极限</string>
     <string name="health_data_sport_record_empty">Log your workout.</string>
     <string name="health_data_stand_explain_desc">"\"Standing\" shows hours in which you stood up and moved around for at least one minute. 
 
@@ -2441,6 +2511,7 @@ Typical range: 10%–30%"</string>
     <string name="health_sleep_whether_to_override_history_records">A sleep record already exists in this time period. Delete the previous record?</string>
     <string name="health_snore_detection_close_title">Turn off detection of snoring and talking?</string>
     <string name="health_snore_duration">Snoring</string>
+    <string name="health_spo2_abnormal_count">Alerts</string>
     <string name="health_spo2_abnormal_low">Alerts</string>
     <string name="health_spo2_avg">Average</string>
     <string name="health_spo2_desc_day">Blood oxygen %1$s</string>
@@ -2584,8 +2655,14 @@ Severe: 81–100."</string>
     <string name="health_total_sleep_duration">Time</string>
     <string name="health_tracking_progress_labe_up_refresh">Just a sec</string>
     <string name="health_training_load">Training load</string>
+    <string name="health_training_load_grade">评级</string>
+    <string name="health_training_load_home_card_good">训练负荷良好</string>
+    <string name="health_training_load_home_card_high">训练负荷过高</string>
+    <string name="health_training_load_home_card_lack">训练负荷不足</string>
+    <string name="health_training_load_home_card_over">训练负荷过度</string>
     <string name="health_training_load_last_seven_days">Last 7 days</string>
     <string name="health_training_load_understand">Training load</string>
+    <string name="health_training_load_unit">EPOC</string>
     <string name="health_v02max_name">VO₂ max</string>
     <string name="health_vo2max_composite_grade">Level</string>
     <string name="health_vo2max_content">VO₂ max represents the max volume of oxygen uptake measured during incremental exercise at maximal effort. It’s an indicator of aerobic endurance and capacity. Generally, a high VO₂ max value means you are able to exercise at a higher intensity than those who are not as well conditioned.</string>
@@ -2608,6 +2685,7 @@ Severe: 81–100."</string>
     <string name="health_weight_please_choose">Select</string>
     <string name="health_weight_recommend">Suggested</string>
     <string name="health_weight_unit_kg">kg</string>
+    <string name="health_weight_unit_kg_capital">kg</string>
     <string name="health_widget_sleep_end_desc">%1$s</string>
     <string name="health_widget_sleep_start_desc">%1$s</string>
     <string name="heartrate">Heart rate</string>
@@ -2710,6 +2788,8 @@ Start over."</string>
     <string name="keep_alive_notification_channel">Device connection</string>
     <string name="keep_alive_notification_content_connected">Connected</string>
     <string name="keep_alive_notification_content_connecting">Connecting…</string>
+    <string name="key_info">"test key value 0x40-4F
+ key version 为 0x22"</string>
     <string name="languages_ar">العربية</string>
     <string name="languages_cn">简体中文</string>
     <string name="languages_cs">Čeština</string>
@@ -2748,8 +2828,10 @@ Start over."</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="line_slash">/</string>
-    <string name="loading">Just a sec…</string>
+    <string name="loading">loading...</string>
     <string name="lock_support_description2">"Can't find Medical card on your lock screen?"</string>
+    <string name="logIn_failed">LogIn failed</string>
+    <string name="logIn_success">LogIn succeed</string>
     <string name="log_off_account_failure">"Couldn't delete account"</string>
     <string name="log_off_account_success">Account deleted successfully</string>
     <string name="login_account_desc">This feature requires signing in to Mi Account. Sign in now?</string>
@@ -2929,6 +3011,7 @@ Earn this award"</string>
     <string name="medal_show_more">Show all</string>
     <string name="medal_total_progress">100%</string>
     <string name="medal_wall">My awards</string>
+    <string name="mi_ID">Mi ID :</string>
     <string name="midnight">Night</string>
     <string name="mine_about">About this app</string>
     <string name="mine_activity">Challenges</string>
@@ -3002,10 +3085,11 @@ Earn this award"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
+    <string name="mobile_environment_staging">The environment is staging, please switch online</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
-    <string name="month"/>
+    <string name="month" />
     <string name="month_april">April</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -3081,6 +3165,7 @@ Earn this award"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="net_data_error">data error from server.</string>
     <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
     <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="nfc_activate_interrupt_dialog">You can always continue in the app.</string>
@@ -3193,6 +3278,7 @@ Earn this award"</string>
     <string name="nfc_card_issue_dialog_milock_support_title">Supported</string>
     <string name="nfc_card_issue_fail">"Couldn't add"</string>
     <string name="nfc_card_issue_hint_connect">Keep the wearable device close to your phone</string>
+    <string name="nfc_card_issue_hint_device_empty">当前帐号下没有设备，请先绑定一台吧</string>
     <string name="nfc_card_issue_hint_mutl_device_dialog_title">Select device</string>
     <string name="nfc_card_issue_hint_no_device">No device is associated with current account.</string>
     <string name="nfc_card_issue_hint_no_login">Sign in to your Mi Account</string>
@@ -3351,6 +3437,7 @@ Earn this award"</string>
     <string name="nfc_mifare_issue_dialog_wear">Wearable device</string>
     <string name="nfc_mifare_issue_nfc_off_msg">Turn on NFC on your phone</string>
     <string name="nfc_mifare_issue_no_nfc_feature">"Your phone doesn't support NFC function. The card information couldn't be read. Use a phone that supports NFC and try again."</string>
+    <string name="nfc_new_mifare_card_issued">该卡在本设备上已存在</string>
     <string name="nfc_new_mifare_v3_title_start">Rest your key card on the screen</string>
     <string name="nfc_new_pay_name">Order</string>
     <string name="nfc_new_pay_order_detail">Pay %1$s | Amount: %2$.2f CNY | Top up: %3$.2f CNY</string>
@@ -3485,6 +3572,7 @@ This step is required to pay with your device."</string>
     <string name="nfc_settings_update_card_failed">"Couldn't update"</string>
     <string name="nfc_settings_update_card_succeed">Updated successfully</string>
     <string name="nfc_show_unset_wear_pwd">To secure payment, set a PIN for your device.</string>
+    <string name="nfc_status_exception">NFC state exception</string>
     <string name="nfc_syncese_btn_txt_global">Start</string>
     <string name="nfc_syncese_content">"If you can't add a card to your account, we can attempt to fix this issue."</string>
     <string name="nfc_syncese_content_mastercard_url">"If you're having trouble with your card, we can attempt to fix the issue. If the problem persists, contact our &lt;a href=\"%1$s\">customer support&lt;/a>."</string>
@@ -3544,6 +3632,7 @@ This step is required to pay with your device."</string>
     <string name="no_remind">"Don't show again"</string>
     <string name="noon">Midday</string>
     <string name="not_set">Not set</string>
+    <string name="not_used_fitness_authorization">未授权获取身体运动信息</string>
     <string name="notify_app_full_name">Mi Fitness</string>
     <string name="notify_app_remind_manager">App notifications</string>
     <string name="notify_call_log_permission">Set app permissions to view call number</string>
@@ -3577,8 +3666,12 @@ This step is required to pay with your device."</string>
     <string name="notify_device_notification_open_sub_info">Help on notifications</string>
     <string name="notify_do_not_disturb_permission_alert_content">Allow this app to access DND to be able to use this feature.</string>
     <string name="notify_do_not_disturb_permission_alert_title">Permissions required</string>
+    <string name="notify_guide_function_open">功能开启</string>
     <string name="notify_guide_permission_remind">Recommended features</string>
     <string name="notify_guide_permission_remind_title">Recommended features</string>
+    <string name="notify_guide_sync_all_subtitle">同步后，设备将镜像显示手机的所有通知</string>
+    <string name="notify_guide_sync_all_title">同步手机通知</string>
+    <string name="notify_guide_system_set">系统设置及信息同步</string>
     <string name="notify_incoming_call">Call</string>
     <string name="notify_message_remind_cancel">Back</string>
     <string name="notify_message_remind_continue_to_open">Settings</string>
@@ -3593,6 +3686,8 @@ This step is required to pay with your device."</string>
     <string name="notify_notice_permission_alert">To get notifications on your wearable device, turn on Notification access for the app.</string>
     <string name="notify_notification_close_alert">"You won't be able to view notifications on your wearable device. Turn off anyway?"</string>
     <string name="notify_notification_item_open_alert">Notifications that appear on your phone are forwarded to your wearable device</string>
+    <string name="notify_one_step_all_notification">一键同步手机通知</string>
+    <string name="notify_one_step_all_notification_subtitle">手机收到的所有通知，设备将同步通知提醒</string>
     <string name="notify_open_call_permission_title">Turn on Notification access</string>
     <string name="notify_open_notify_permission_title">Turn on Notification access</string>
     <string name="notify_open_policy_access_title">Turn on DND access</string>
@@ -3609,6 +3704,7 @@ This step is required to pay with your device."</string>
     <string name="notify_permission_send_sms_info">Allow this app to send SMS messages to be able to use this feature.</string>
     <string name="notify_privacy_description">Permissions required</string>
     <string name="notify_select_app_remind">Choose which apps can send notifications</string>
+    <string name="notify_select_type_label">仅支持选择一种通知方式</string>
     <string name="notify_sms_reply_edit_content">Edit</string>
     <string name="notify_sms_reply_highest_limit_tips">You can add up to 10 responses</string>
     <string name="notify_sms_reply_lowest_limit_tips">Keep at least 1 response</string>
@@ -3767,6 +3863,8 @@ This step is required to pay with your device."</string>
     <string name="privacy_permission_read_call_log">Access call history</string>
     <string name="privacy_permission_read_contacts">Access contacts</string>
     <string name="privacy_permission_read_phone_state">Access device info</string>
+    <string name="privacy_permission_record_audio">Record audio</string>
+    <string name="privacy_permission_record_audio_des">For recording talking and snoring while analyzing your sleep cycle</string>
     <string name="privacy_permission_write_read_file">Access storage</string>
     <string name="privacy_sensitive_notify_des">To track your workouts and fitness progress, we collect and process your information including workout routes, sleep data, heart rate, and weight.</string>
     <string name="privacy_sensitive_notify_msg">"&lt;Data>Read and agree to our &lt;a href=\"%1$s\">Sensitive Data Collection and Usage&lt;/a> to better understand how we collect and process your information. You won't be able to use this service if you don't consent to our collection and processing.&lt;/Data>"</string>
@@ -3794,6 +3892,7 @@ This step is required to pay with your device."</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qr_code_desc">Position the QR code in the frame</string>
     <string name="qr_code_title">Scanner</string>
+    <string name="query_se_key_status">Check security key status</string>
     <string name="register_by_local_phone_long_text">Create account</string>
     <string name="register_by_local_phone_short_text">Create account</string>
     <string name="reject">Deny</string>
@@ -3817,6 +3916,10 @@ This step is required to pay with your device."</string>
     <string name="saturday_shortest">Sat</string>
     <string name="scan_qrcode">Scanner</string>
     <string name="search_menu_title">Search</string>
+    <string name="select_app_notification_button">手动选择消息通知</string>
+    <string name="select_app_notification_button_subtitle">自行设置应用的消息通知</string>
+    <string name="select_app_notification_done">选好了</string>
+    <string name="select_app_notification_has_set">已设置</string>
     <string name="send">Send</string>
     <string name="send_diagnosis_log">Send logs</string>
     <string name="send_email_activate_message">Sent verification email successfully</string>
@@ -3852,6 +3955,7 @@ This step is required to pay with your device."</string>
     <string name="share_wx_not_support_timeline">Update WeChat first.</string>
     <string name="share_wx_session">WeChat</string>
     <string name="share_wx_timeline">Moments</string>
+    <string name="show_info_text">Add security test key to your device?</string>
     <string name="sign_in">Signing in</string>
     <string name="sign_in_progress">Signing in…</string>
     <string name="sign_in_title">Sign in with your Mi Account</string>
@@ -4123,6 +4227,7 @@ This step is required to pay with your device."</string>
     <string name="stand_notice_title5">"Looks like you haven't stood up within the last hour"</string>
     <string name="stand_notice_title6">Have you stood up within the last hour?</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="success">Done</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
@@ -4130,6 +4235,8 @@ This step is required to pay with your device."</string>
     <string name="sync_password">Password</string>
     <string name="sync_user_name">Username</string>
     <string name="sync_weather_notification_message">Updating weather data on your wearable device…</string>
+    <string name="sync_wifi_no_permission_desc">Share the Wi-Fi password with your wearable device?</string>
+    <string name="sync_wifi_no_permission_title">Share password</string>
     <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="taiwan">Taiwan</string>
     <string name="tb_current_select">%1$s</string>
@@ -4266,7 +4373,10 @@ This step is required to pay with your device."</string>
     <string name="trail_hang_in_air_duration">Hang time</string>
     <string name="trail_height_ascent">Uphill</string>
     <string name="trail_height_descent">Downhill</string>
+    <string name="trail_height_fall_duration">下坡</string>
     <string name="trail_height_flat">Flat</string>
+    <string name="trail_height_flat_duration">平地</string>
+    <string name="trail_height_rise_duration">上坡</string>
     <string name="trail_high_intensity_description">"Couldn't talk without pausing for breath"</string>
     <string name="trail_img_gallery">Gallery</string>
     <string name="trail_indoor_cycling_avg">Avg</string>
@@ -4284,15 +4394,20 @@ This step is required to pay with your device."</string>
     <string name="trail_label_percent">Percentage</string>
     <string name="trail_label_sec_hm">/100 m</string>
     <string name="trail_label_sec_km">/km</string>
+    <string name="trail_label_sport_check">已校准</string>
     <string name="trail_label_time">Time</string>
     <string name="trail_label_type">Type</string>
     <string name="trail_lactate_threshold">Threshold</string>
     <string name="trail_low_intensity_description">Could talk without puffing</string>
+    <string name="trail_map_style_common">Default</string>
+    <string name="trail_map_style_no_label">None</string>
+    <string name="trail_map_style_satillite">Satellite</string>
     <string name="trail_max_stress">Max</string>
     <string name="trail_middle_intensity_description">Could talk but not sing</string>
     <string name="trail_month_dialog_go_today">Selected today</string>
     <string name="trail_month_dialog_select_date">Selected %1$s</string>
     <string name="trail_not_exercising">Not now</string>
+    <string name="trail_open_mail_points">Kilometer markers</string>
     <string name="trail_pace_best">Pace</string>
     <string name="trail_press_gym_button">Press the button</string>
     <string name="trail_rate_average_heart_rate">BPM</string>
@@ -4352,6 +4467,9 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_best_row_freq">Max</string>
     <string name="trail_sport_calorie_unit">Calories (kcal)</string>
     <string name="trail_sport_climb_stairs">Stair climbing</string>
+    <string name="trail_sport_course_info_title0">分段</string>
+    <string name="trail_sport_course_info_title03">距离</string>
+    <string name="trail_sport_course_info_title04">配速</string>
     <string name="trail_sport_cross_country_skiing">Cross-country skiing</string>
     <string name="trail_sport_data_total_climbing">Elev gain (m)</string>
     <string name="trail_sport_date">Time</string>
@@ -4368,6 +4486,7 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_detail_fall_height">Elev loss</string>
     <string name="trail_sport_detail_from">Data source: %1$s</string>
     <string name="trail_sport_detail_height_title">Elevation (m)</string>
+    <string name="trail_sport_detail_max_cadence">最高步频</string>
     <string name="trail_sport_detail_max_rowing">Max</string>
     <string name="trail_sport_detail_max_skipping">Max</string>
     <string name="trail_sport_detail_max_skipping_height">Min</string>
@@ -4426,12 +4545,14 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_hang_in_air_duration">Hang time</string>
     <string name="trail_sport_list_record">Show all</string>
     <string name="trail_sport_location_amap">Amap GPS location</string>
+    <string name="trail_sport_map_edit">Map</string>
     <string name="trail_sport_max_cadence_desc">Max: %1$s</string>
     <string name="trail_sport_max_height_desc">Max: %1$s</string>
     <string name="trail_sport_max_rate_desc">Max: %1$s</string>
     <string name="trail_sport_max_row_freq_desc">Max: %1$s</string>
     <string name="trail_sport_max_skip_height_desc">Max: %1$s</string>
     <string name="trail_sport_max_speed_desc">Max: %1$s</string>
+    <string name="trail_sport_max_stress">最大压力</string>
     <string name="trail_sport_max_stroke_freq_desc">Max: %1$s</string>
     <string name="trail_sport_max_swolf_desc">Highest: %1$s</string>
     <string name="trail_sport_max_value_desc">Max: %1$s</string>
@@ -4483,8 +4604,11 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_summary_max_hrm">Max BPM</string>
     <string name="trail_sport_summary_rise_height">Elev gain (m)</string>
     <string name="trail_sport_summary_skipping_height">Jump height (cm)</string>
+    <string name="trail_sport_summary_speed">Speed (km/h)</string>
     <string name="trail_sport_summary_sport_time">Time</string>
+    <string name="trail_sport_summary_step_length">步幅（厘米）</string>
     <string name="trail_sport_summary_steps">Steps</string>
+    <string name="trail_sport_summary_stress">压力（分）</string>
     <string name="trail_sport_summary_stroke_count">Strokes</string>
     <string name="trail_sport_summary_swimming_posture">Main style</string>
     <string name="trail_sport_summary_total_calories">Total kcal</string>
@@ -4526,6 +4650,8 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_train_effect_light_level">Minor</string>
     <string name="trail_sport_train_effect_recovery_level">Recovery</string>
     <string name="trail_sport_training_effect">%1$s</string>
+    <string name="trail_sport_training_effect_aerobic">有氧训练效果: %1$s</string>
+    <string name="trail_sport_training_effect_anaerobic">无氧训练效果: %1$s</string>
     <string name="trail_sport_triathlon_change_duration">Transition</string>
     <string name="trail_sport_triathlon_info_first_change">T1</string>
     <string name="trail_sport_triathlon_info_second_change">T2</string>
@@ -4545,7 +4671,15 @@ This step is required to pay with your device."</string>
     <string name="trail_stress">Stress</string>
     <string name="trail_stroke_avg_feq">SPM</string>
     <string name="trail_stroke_count">Strokes</string>
+    <string name="trail_summary_avg_back_swing_duration">Back (s)</string>
+    <string name="trail_summary_avg_down_swing_duration">Down (s)</string>
+    <string name="trail_summary_avg_hrm">BPM</string>
     <string name="trail_summary_best">Records</string>
+    <string name="trail_summary_detail_fall_height">Elev loss (m)</string>
+    <string name="trail_summary_detail_rise_height">Elev gain (m)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Speed (m/s)</string>
+    <string name="trail_summary_row_avg_freq">SPM</string>
+    <string name="trail_summary_row_energy_working">Work (kJ)</string>
     <string name="trail_swim_avg_swolf">Avg</string>
     <string name="trail_swim_best_swolf">Best</string>
     <string name="trail_swim_consume_time">%1$s | %2$s</string>
@@ -4623,8 +4757,10 @@ This step is required to pay with your device."</string>
     <string name="user_identity_verify_failed">The account info you entered is incorrect</string>
     <string name="user_name_phone_number">Phone number</string>
     <string name="user_no_apply_privilege">You have no privilege to apply card</string>
+    <string name="userinfo_">保存记录并查看展示</string>
     <string name="userinfo_account_desc">To make workout data more accurate, complete profile info.</string>
     <string name="userinfo_active_stage_stand">Standing</string>
+    <string name="userinfo_add_emergency_contact_guide">提供紧急联系人信息，以便于紧急救援时医护人员能及时联系到您的亲友</string>
     <string name="userinfo_allergic_drugs">Medication allergies</string>
     <string name="userinfo_allergic_drugs_hint">Enter medication and reaction to it</string>
     <string name="userinfo_auto_measure">Auto detect</string>
@@ -4661,6 +4797,7 @@ This step is required to pay with your device."</string>
     <string name="userinfo_contact_format2">"%1$s
 %2$s | %3$s"</string>
     <string name="userinfo_contact_format3">%1$s | %2$s | %3$s</string>
+    <string name="userinfo_contact_name">联系人姓名</string>
     <string name="userinfo_contact_permission_desc">For setting emergency contacts</string>
     <string name="userinfo_data_type_calorie">Calories</string>
     <string name="userinfo_data_type_step">Steps</string>
@@ -4682,8 +4819,11 @@ This step is required to pay with your device."</string>
     <string name="userinfo_ecg_heart_rate_unit">BPM</string>
     <string name="userinfo_edit_aid_file">Edit</string>
     <string name="userinfo_edit_immediately">Get started</string>
+    <string name="userinfo_edit_or_delete_emergency_contact">编辑或删除紧急联系人</string>
     <string name="userinfo_edit_or_delete_settings">Settings</string>
     <string name="userinfo_emergency_contact">Emergency contact</string>
+    <string name="userinfo_emergency_contact_number">紧急联系方式</string>
+    <string name="userinfo_emergency_contact_number_is_compulsory">紧急联系方式未填写</string>
     <string name="userinfo_enter_app">进入APP</string>
     <string name="userinfo_first_aid_card">Medical card</string>
     <string name="userinfo_full_name_hint">Name</string>
@@ -4733,10 +4873,12 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="userinfo_positive_text_not_save">Discard</string>
     <string name="userinfo_preference_not_set">Not set</string>
     <string name="userinfo_previous_step">Back</string>
+    <string name="userinfo_quit_editing_and_go_back">放弃编辑，回到上一页</string>
     <string name="userinfo_relationship_with_contact">Relationship</string>
     <string name="userinfo_remarks">Name</string>
     <string name="userinfo_remarks_hint">Name</string>
     <string name="userinfo_rh_blood_type">Rh factor</string>
+    <string name="userinfo_select_avatar">选择头像</string>
     <string name="userinfo_select_mode">选择模式</string>
     <string name="userinfo_set_emergency_contact">Emergency contact</string>
     <string name="userinfo_set_target_dynamic_indicators">Create goals</string>
@@ -4758,6 +4900,8 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="userinfo_target_dynamic_indicators_desc">Create activity goals, hit them, feel great.</string>
     <string name="userinfo_target_dynamic_indicators_desc_first">Adults aged 18–⁠64 years should aim for at least 30 minutes per day, 5 times per week of moderate activity.</string>
     <string name="userinfo_target_dynamic_indicators_desc_second">Set a Moving goal and track your moving minutes with your device?</string>
+    <string name="userinfo_target_dynamic_indicators_stand_desc_first">久坐少动会危害身体健康，建议日常佩戴期间每小时走动一下</string>
+    <string name="userinfo_target_dynamic_indicators_stand_desc_second">您的穿戴设备支持“站立”指标检测，建议将其设置为您的活力指标</string>
     <string name="userinfo_target_edit_desc">Apart from Steps and Calories, choose another goal.</string>
     <string name="userinfo_target_manage">Set goals</string>
     <string name="userinfo_target_medium_high_strength_activity">Moving</string>
@@ -4851,7 +4995,7 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="xms_thirdapp_permission_notify_name">Send notifications</string>
     <string name="xms_thirdapp_permission_request_info">%s app can:</string>
     <string name="xms_thirdapp_revoke_auth">You can change permissions in Profile > Device permissions.</string>
-    <string name="year"/>
+    <string name="year" />
     <string name="yesterday">Yesterday</string>
     <string name="yuan">RMB</string>
 </resources>
