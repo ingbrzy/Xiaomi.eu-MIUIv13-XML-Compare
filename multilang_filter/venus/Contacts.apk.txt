@@ -1,3 +1,4 @@
+Removed: [be] string/residual_time_description (format mismatch)
 Removed: [cs] string/config_export_file_extension (untranslatable)
 Removed: [it] array/preference_dial_pad_touch_tone_entry_values (untranslatable)
 Removed: [it] string/config_export_file_extension (untranslatable)
