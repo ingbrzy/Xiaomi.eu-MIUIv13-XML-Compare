@@ -4,5 +4,5 @@
     <string name="date_time_12" value="EEE, d MMMM"/>
     <string name="desc_date_format" value="EEEE, d MMM"/>
     <string name="desc_date_format_12" value="EEEE, d MMM"/>
-    <string name="desc_time" value="'������� �����' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ������� ������ ��� ����� � ���������� ����'"/>
+    <string name="desc_time" value="'текущее время' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', нажмите дважды для входа в приложение Часы'"/>
 </strings>
