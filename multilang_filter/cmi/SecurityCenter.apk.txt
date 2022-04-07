@@ -1,5 +1,7 @@
 Removed: [ar] array/alphabet_table (item mismatch)
 Removed: [ar] array/alphabet_table_with_starred (item mismatch)
+Removed: [be] plurals/gb_voice_changer_toast_tips_window_bubble (format mismatch)
+Removed: [be] string/default_condition_summary (format mismatch)
 Removed: [cs] array/date_of_traffic_prefix_cmcc (item mismatch)
 Removed: [cs] string/accessibility_service_description (untranslatable)
 Removed: [cs] string/empty (untranslatable)
