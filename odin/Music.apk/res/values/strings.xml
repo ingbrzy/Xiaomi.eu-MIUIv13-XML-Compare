@@ -252,7 +252,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">dfb9e06c23f64851a7b3a4b5f20eeb2b</string>
+    <string name="com.crashlytics.android.build_id">b206a1f530974aec9f56589fa7a6765c</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
