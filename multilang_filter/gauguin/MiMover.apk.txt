@@ -1,0 +1,2 @@
+Removed: [pl] string/deselect_all (duplicate)
+Removed: [pl] string/select_all (duplicate)
