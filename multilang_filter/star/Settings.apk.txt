@@ -162,7 +162,6 @@ Removed: [cs-rCZ] string/security_settings_face_enroll_introduction_info_title (
 Removed: [cs-rCZ] string/security_settings_fingerprint_preference_summary_none (untranslatable)
 Removed: [cs-rCZ] string/security_settings_fingerprint_v2_enroll_introduction_message_learn_more (untranslatable)
 Removed: [cs] string/battery_summary (format mismatch)
-Removed: [cs] string/block_list_remove_dialog_title (format mismatch)
 Removed: [cs] string/bluetooth_ask_discovery (format mismatch)
 Removed: [cs] string/bluetooth_ask_enablement_and_discovery (format mismatch)
 Removed: [cs] string/config_charging_function_name (untranslatable)
