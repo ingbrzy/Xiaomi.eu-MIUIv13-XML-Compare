@@ -2072,6 +2072,7 @@
     <string-array name="defalut_browser_package">
         <item>mx_telcel:com.android.chrome</item>
         <item>es_vodafone:com.android.chrome</item>
+        <item>hk_h3g:com.mi.globalbrowser</item>
         <item>VF:com.mi.globalbrowser</item>
         <item>OR:com.mi.globalbrowser</item>
         <item>HG:com.mi.globalbrowser</item>
@@ -4002,6 +4003,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>evergreen</item>
         <item>xaga</item>
         <item>xagapro</item>
+        <item>plato</item>
     </string-array>
     <string-array name="support_size_compat_device_list">
         <item>zizhan</item>
