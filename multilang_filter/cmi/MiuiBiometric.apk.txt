@@ -1,1 +1,0 @@
-Removed: [it] array/device_need_operating_mode (item mismatch)
