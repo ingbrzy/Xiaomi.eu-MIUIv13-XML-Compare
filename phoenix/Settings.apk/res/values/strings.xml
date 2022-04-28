@@ -3009,6 +3009,7 @@ This setting affects all users of this device."</string>
     <string name="device_info_default">Unknown</string>
     <string name="device_info_not_available">Not available</string>
     <string name="device_internal_memory">Internal storage</string>
+    <string name="device_mall_card_title">Check available benefits</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_more">View more</string>
     <string name="device_miui_version">MIUI version</string>
@@ -3635,8 +3636,8 @@ Restart your device and try again."</string>
     <string name="face_data_siggesstion_next_time">Next (%ds)</string>
     <string name="face_data_siggesstion_next_time_cn">OK (%ds)</string>
     <string name="face_data_suggesstion_first">Face unlock is less secure than a PIN, password, or pattern. Your device might be unlocked with your photo, as well as by people or objects with a similar appearance.</string>
-    <string name="face_data_suggesstion_first_cn">"For you to be able to use Face unlock, we need to collect your face data. The face data will be stored locally on this device. To delete it, search for \"Face unlock\" in the Settings and then select Face unlock > Face data.
-Face unlock is less secure than a PIN, password, or pattern. Your device might be unlocked with your photo, as well as by people or objects with a similar appearance."</string>
+    <string name="face_data_suggesstion_first_cn">For you to be able to use Face unlock, we need to collect your face data which then will be stored locally on this device. To delete it, search for Face unlock in the Settings and then select Face unlock > Face data.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Face unlock is less secure than a PIN, password, or pattern. Your device might be unlocked with your photo, as well as by people or objects with a similar appearance.</string>
     <string name="face_data_suggesstion_second">"Make sure all parts of your face aren't covered by objects and are clearly visible. Your face should be well-lit as well."</string>
     <string name="face_intro_error_max">You’ve added the maximum number of faces</string>
     <string name="face_intro_error_unknown">Can’t add more faces</string>
@@ -4170,7 +4171,7 @@ The area where you can confirm your screen lock will move to the right."</string
     <string name="gxzw_anim_rhythm">Rhythm</string>
     <string name="gxzw_anim_star">Starlight</string>
     <string name="gxzw_anim_title">Fingerprint animation</string>
-    <string name="gxzw_aod_show_summary">Raise the device or tap the screen to make the fingerprint icon appear. This feature increases system power consumption.</string>
+    <string name="gxzw_aod_show_summary">Raise the device or tap the screen to make the fingerprint icon appear. This feature increases system power consumption but allows you to unlock the device faster.</string>
     <string name="gxzw_aod_show_tittle">Show fingerprint icon when the screen is off</string>
     <string name="gxzw_dialog_message">"To be able to use in-screen fingerprint sensor normally, don't use screen protectors. If you think that a screen protector is still necessary, choose among authorized compatible options."</string>
     <string name="gxzw_dialog_not_show_again">"Don't show again"</string>
@@ -4184,6 +4185,7 @@ The area where you can confirm your screen lock will move to the right."</string
     <string name="gxzw_vibrate_title">Vibrate while unlocking</string>
     <string name="handy_mode">One-handed mode</string>
     <string name="handy_mode_enable">One-handed mode</string>
+    <string name="handy_mode_hint">One-handed mode is only available on outer screen</string>
     <string name="handy_mode_size">Screen size</string>
     <string name="handy_mode_tips">Turn on one-handed mode by swiping left or right from the center of the navigation panel.</string>
     <string name="handy_mode_tips_full_screen">"Turn on one-handed mode by swiping the full screen indicator. This feature won't work if the indicator is hidden."</string>
@@ -5615,6 +5617,9 @@ You won't be able to reverse this action."</string>
     <string name="miheadet_up_music">Previous track</string>
     <string name="miheadset_Box">Case</string>
     <string name="miheadset_Intelligentpickfree_summary">When noise cancelation is turned on, your earphones will automatically switch to transparency for a short time when they detect voices</string>
+    <string name="miheadset_LEAudio_summary">"Some features won't be available when LE Audio is on."</string>
+    <string name="miheadset_LEAudio_title">Turn on LE Audio?</string>
+    <string name="miheadset_LE_on_toast">Make sure both earphones are charged and take them out of the case before turning this feature on</string>
     <string name="miheadset_LeftEar">Left</string>
     <string name="miheadset_RightEar">Right</string>
     <string name="miheadset_active">Energetic</string>
@@ -5669,6 +5674,8 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_enhence_low">Enhanced bass</string>
     <string name="miheadset_equalizer">Equalizer</string>
     <string name="miheadset_feedback">Feedback</string>
+    <string name="miheadset_feedback_summary">To be able to submit logs, put both earphones in the charging case and keep the lid open.</string>
+    <string name="miheadset_feedback_title">Submit logs</string>
     <string name="miheadset_fitness_check">Ear tip fit test</string>
     <string name="miheadset_fitness_check_checking">Testing…</string>
     <string name="miheadset_fitness_check_continue">Next</string>
@@ -5738,6 +5745,7 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_shared_contacts">Contact sharing</string>
     <string name="miheadset_shared_contacts_summary">For sharing contacts</string>
     <string name="miheadset_single_ear_indicate">Wear both earphones to use noise cancellation</string>
+    <string name="miheadset_singleear_toast">Not supported for just one earphone</string>
     <string name="miheadset_soft">Soft</string>
     <string name="miheadset_sound_settings">Audio</string>
     <string name="miheadset_spatial_audio_off">Off</string>
@@ -6264,6 +6272,8 @@ Select your operating system:"</string>
     <string name="networks_title">Mobile networks</string>
     <string name="never">Never</string>
     <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">To be able to use Face unlock, add face data first. Add now?</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Add face data</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Add your fingerprint to unlock your device with it.</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancel</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Add</string>
@@ -10342,6 +10352,7 @@ Please review your service provider’s privacy policy."</string>
     <string name="wifi_ap_5G">5.0 GHz</string>
     <string name="wifi_ap_band_config">Select AP Band</string>
     <string name="wifi_ap_band_select_one">Choose at least one band for Wi‑Fi hotspot:</string>
+    <string name="wifi_ap_choose">%1$s GHz</string>
     <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
     <string name="wifi_ap_choose_5G">5.0 GHz Band</string>
     <string name="wifi_ap_choose_auto">Auto</string>
