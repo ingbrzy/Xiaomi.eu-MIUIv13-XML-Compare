@@ -1,2 +1,0 @@
-Removed: [hr] string/month (untranslatable)
-Removed: [hu] array/exo_speed_multiplied_by_100 (untranslatable)
