@@ -1,0 +1,1 @@
+Removed: [it] string/config_wifiP2pDeviceNamePrefix (untranslatable)
