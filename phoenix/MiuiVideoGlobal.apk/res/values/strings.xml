@@ -283,7 +283,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">851879d1b9ca4736b26fe47ada400d0f</string>
+    <string name="com.crashlytics.android.build_id">3089c4cf397c4bacbfa03b1ab3086471</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -404,6 +404,7 @@ Send this code to the supervisor."</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
     <string name="dialog_edit_hint_name">Name</string>
     <string name="dialog_edit_hint_url">URL</string>
+    <string name="dialog_item_add_video">Add videos</string>
     <string name="dialog_jumpto_choose">"Don't show again"</string>
     <string name="dialog_jumpto_content">Switch to Mi Video to access additional playback features?</string>
     <string name="dialog_jumpto_title">Mi Video</string>
@@ -539,7 +540,9 @@ Send this code to the supervisor."</string>
     <string name="favorite_cancel_success">Removed from favorites successfully</string>
     <string name="favorite_fail">"Couldn't add to favorites. Try again."</string>
     <string name="favorite_success">Added to favorites successfully</string>
+    <string name="fcm_2_args">First: %1$s and second %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="fcm_no_args">String with no arguments</string>
     <string name="fcm_push_title">Popular videos</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_activity_title">Feedback</string>
@@ -652,7 +655,7 @@ Send this code to the supervisor."</string>
     <string name="galleryplus_double_tap_to_higher_definition">Double tap again to open HD preview</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Unsupported frame rate. Switched back to regular speed.</string>
     <string name="galleryplus_gallery_fold_tags">Hide marks</string>
-    <string name="galleryplus_gallery_video_adjust_hint">Only 960fps videos are supported</string>
+    <string name="galleryplus_gallery_video_adjust_hint">Only %dfps videos are supported</string>
     <string name="galleryplus_gallery_video_adjust_text">Adjust</string>
     <string name="galleryplus_gallery_video_default_music_text">Auto</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
@@ -849,6 +852,11 @@ for videos"</string>
     <string name="local_push_setting_power_tag">Notifications about local videos</string>
     <string name="local_push_title">Popular today</string>
     <string name="local_push_video_title">Scan for new local videos</string>
+    <string name="local_subtitle_choose_language_text">Language</string>
+    <string name="local_subtitle_exemption_hint">Search for subtitles on opensubtitle.org</string>
+    <string name="local_subtitle_input_keyword_text">Search keywords</string>
+    <string name="local_subtitle_search_result_text">Results</string>
+    <string name="local_subtitle_searching_text">Searching…</string>
     <string name="local_video_create_a_new_playlist">New playlist</string>
     <string name="local_video_date">Date</string>
     <string name="local_video_dialog_default">Default</string>
@@ -911,7 +919,6 @@ for videos"</string>
     <string name="lv_brightness">Brightness</string>
     <string name="lv_cast">Cast</string>
     <string name="lv_check_delete_file">Select items to delete</string>
-    <string name="lv_check_send_file">You can only send 1 file at a time</string>
     <string name="lv_check_send_file_new">You can only send %d file at a time</string>
     <string name="lv_confirm_delete_history">Delete selected items?</string>
     <string name="lv_confirm_delete_videos">Delete items?</string>
@@ -1757,6 +1764,7 @@ Increase the security of your account."</string>
     <string name="slide_save_message">Generating video…</string>
     <string name="small_video_cancel_button">Cancel</string>
     <string name="small_video_download_button">Download</string>
+    <string name="small_video_load_more_hint">Swipe up to play more videos</string>
     <string name="small_video_snack_download_description">Download SnackVideo to see the latest videos from your favorite creators.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Sent successfully</string>
@@ -1869,6 +1877,7 @@ Increase the security of your account."</string>
     <string name="tab_name_movies">Movies</string>
     <string name="tab_name_trending">Trending</string>
     <string name="tab_name_video">Videos</string>
+    <string name="tab_name_vk">VK Video</string>
     <string name="tab_playlist_local">Local</string>
     <string name="tab_playlist_online">Online</string>
     <string name="tag_index">tag_index</string>
@@ -1876,6 +1885,8 @@ Increase the security of your account."</string>
     <string name="tag_object">tag_object</string>
     <string name="talkback_ad_clicked">Advertisement</string>
     <string name="talkback_background_playback">Background playback</string>
+    <string name="talkback_music_play">Play music</string>
+    <string name="talkback_video_play">Play video</string>
     <string name="talkback_voice_search">Voice search</string>
     <string name="target_sdk_version_30_upgrade_tips">Some videos may not be viewed here due to Android restrictions. Tap \"Files\" to find other videos.</string>
     <string name="temporary_not_available">"This feature isn't available yet"</string>
@@ -1936,6 +1947,7 @@ Increase the security of your account."</string>
     <string name="tip_download_video_to_save_here">%d. The video will be saved to your downloads</string>
     <string name="tip_enter_the_website">%d. Open a website or app</string>
     <string name="tip_local_long_press_for_manager">Press and hold to manage videos</string>
+    <string name="tip_local_long_press_for_manager_folder">Press and hold to manage folders</string>
     <string name="tip_local_manager_here">Manage your files here</string>
     <string name="tip_login_for_your_online_playlist">Sign in to view your playlists.</string>
     <string name="tip_play_a_video">%d. Play a video</string>
@@ -1948,6 +1960,8 @@ Increase the security of your account."</string>
     <string name="title_download_setting">Download settings</string>
     <string name="title_firework_recommend">Firework recommendations</string>
     <string name="title_history">History</string>
+    <string name="title_mangotv_history_sub" formatted="false">%s (Episode %d)</string>
+    <string name="title_mangotv_subtitle_language">Subtitle language</string>
     <string name="title_publisher">Creators</string>
     <string name="title_select_directory">Select folder</string>
     <string name="title_selected">Selected</string>
@@ -2052,6 +2066,7 @@ Increase the security of your account."</string>
     <string name="video_resolution_tag_suffix">%dP</string>
     <string name="videos_guide_tip">Temukan tren Indonesia sini</string>
     <string name="view">View</string>
+    <string name="vk_video_tab">For you</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_text_unknown">An error occurred</string>
     <string name="vp_VideoView_error_title">Unknown error</string>
@@ -2088,6 +2103,33 @@ Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="yandex_ads_context">yandex:ads:context</string>
+    <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
+    <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
+    <string name="yandex_ads_internal_after_timer_value">сек</string>
+    <string name="yandex_ads_internal_before_timer_value">До начисления награды осталось</string>
+    <string name="yandex_ads_internal_go">Перейти</string>
+    <string name="yandex_ads_internal_install">Установить</string>
+    <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
+    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
+    <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_tools_age_text">3+</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
+    <string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
+    <string name="yandex_ads_internal_tools_call_to_action_text">Перейти на сайт</string>
+    <string name="yandex_ads_internal_tools_domain_text">domain</string>
+    <string name="yandex_ads_internal_tools_price_text">price</string>
+    <string name="yandex_ads_internal_tools_rating_text">rating</string>
+    <string name="yandex_ads_internal_tools_review_count_text">review count</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
+    <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
+    <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
     <string name="year">year</string>
     <string name="yesterday">Yesterday</string>
     <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
