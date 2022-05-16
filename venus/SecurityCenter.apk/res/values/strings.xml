@@ -1352,7 +1352,7 @@ Your carrier may charge you extra fees if you turn on mobile data again."</strin
     <string name="deep_power_save_item_title_lock_screen_time">Put screen to sleep</string>
     <string name="deep_save_memory_clean_summary">Clear cache when you lock device to prevent apps from using battery</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Schedule time to turn device on and off</string>
-    <string name="default_condition_summary">E.g. \"Battery is lower than %s\"</string>
+    <string name="default_condition_summary">E.g. \"Battery is lower than 20%\"</string>
     <string name="default_condition_title">Add condition</string>
     <string name="default_condition_title_continue">Add condition</string>
     <string name="default_result_summary">E.g. \"Turn off Airplane mode\"</string>
