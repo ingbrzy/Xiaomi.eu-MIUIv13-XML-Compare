@@ -1,3 +1,4 @@
 Removed: [cs] string/restore_network_pause (format mismatch)
 Removed: [ko] string/restore_network_pause (format mismatch)
+Removed: [sk] string/restore_header_backup_size (duplicate)
 Removed: [sk] string/restore_network_pause (format mismatch)
