@@ -1,7 +1,5 @@
 Removed: [cs-rCZ] array/organized_languages_international (item mismatch)
 Removed: [es-rUS] array/list_about_need_relunch (item mismatch)
-Removed: [fr] string/wireless_charging_notification_message2 (format mismatch)
-Removed: [hu] string/wireless_charging_notification_message2 (format mismatch)
 Removed: [it-rIT] array/config_France_Orange_IPV6_array (untranslatable)
 Removed: [it-rIT] array/config_Poland_Orange_IPV6_array (untranslatable)
 Removed: [it-rIT] array/process_camera_boost_protect_list (item mismatch)
