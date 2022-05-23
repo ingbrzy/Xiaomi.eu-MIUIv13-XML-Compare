@@ -1,1 +1,0 @@
-Removed: [hr] strings.xml: string/Povlačenje pristanka (invalid name)

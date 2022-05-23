@@ -1,1 +1,0 @@
-Removed: [tr] strings.xml: string/bh_system_recommend_des (duplicate)

@@ -1,1 +1,0 @@
-Removed: [it] plurals.xml: plurals/aod_dual_togother_city (format mismatch)
