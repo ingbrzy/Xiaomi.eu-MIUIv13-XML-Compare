@@ -1,2 +1,2 @@
-Removed: [it] plurals/aod_dual_togother_city (format mismatch)
-Removed: [it] string/battery_meter_progress_mask_path (untranslatable)
+Removed: [it] plurals.xml: plurals/aod_dual_togother_city (format mismatch)
+Removed: [it] strings.xml: string/battery_meter_progress_mask_path (untranslatable)

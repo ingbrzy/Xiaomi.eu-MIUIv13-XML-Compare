@@ -1,1 +1,1 @@
-Removed: [sk] string/večer (invalid name)
+Removed: [sk] strings.xml: string/večer (invalid name)
