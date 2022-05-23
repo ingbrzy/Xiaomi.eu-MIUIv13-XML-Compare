@@ -405,9 +405,9 @@ added to blocklist"</string>
     <string name="favorite_at_time">Added to favorites at: %1s</string>
     <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <a href="http://url1"><font color="#B3000000">User Agreement</font></a> and <a href="http://url2"><font color="#B3000000">Privacy Policy</font></a> before using this feature.</string>
+    <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Smart Messaging</string>
-    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<a href="http://url3"><font color="#B3000000">Privacy Policy</font></a> before using this feature.</string>
+    <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
     <string name="festival_sms_loading">Loading…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Created:</string>
@@ -486,7 +486,7 @@ added to blocklist"</string>
     <string name="ft_cfs_dialog_title">Alternative file transfer</string>
     <string name="go_close">Settings</string>
     <string name="go_to">前往</string>
-    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Learn more</font></a></string>
+    <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
     <string name="google_message_promo_title">Upgrade your messaging app</string>
     <string name="group_already_kicked_hint">"Can't send messages. You aren't a member of this group chat."</string>
     <string name="group_member_is_composing">Typing…</string>
