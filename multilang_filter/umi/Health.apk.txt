@@ -1,3 +1,13 @@
+    <item>Çrş, Cum, Paz</item>
+    <item>Her Çarşamba</item>
+    <item>Her Cuma</item>
+    <item>Her Cumartesi</item>
+    <item>Her Pazar</item>
+    <item>Her Pazartesi</item>
+    <item>Her Perşembe</item>
+    <item>Her Salı</item>
+    <item>Pzt, Çrş, Cum</item>
+    <item>Sal, Per, Cmt</item>
 Removed: [el] string/hr_fp_detect_principle_desc_3 (format mismatch)
 Removed: [ko] array/protein_rate_line_chart_default_y (untranslatable)
 Removed: [ko] plurals/sporting_content_riding_km (format mismatch)
@@ -9,6 +19,17 @@ Removed: [ko] string/appbar_scrolling_view_behavior (untranslatable)
 Removed: [ko] string/fab_transformation_scrim_behavior (untranslatable)
 Removed: [ko] string/fab_transformation_sheet_behavior (untranslatable)
 Removed: [ko] string/hide_bottom_view_on_scroll_behavior (untranslatable)
-Removed: [tr] array/repeat_mode_mild_abnormal_array (wrong type)
-Removed: [tr] array/repeat_mode_week_array (wrong type)
+Removed: [sk] <string name="čera "> Včera </string> (invalid name)
+Removed: [sk] <string name="dostatečné"> dosť </string> (invalid name)
+Removed: [sk] <string name="dosť"> Dosť </string> (invalid name)
+Removed: [sk] <string name="ergical_drugs "> Alergie na lieky </string> (invalid name)
+Removed: [sk] <string name="ergical_drugs_hint "> Zadajte liečbu a reakciu na ňu </string> (invalid name)
+Removed: [sk] <string name="nejnižší_jump"> Najnižší skok </string> (invalid name)
+Removed: [sk] <string name="nejvyšší_jump"> Najvyšší skok </string> (invalid name)
+Removed: [sk] <string name="večer">Popoludnie</string> (invalid name)
+Removed: [sk] <string name="zaznamenané_menštruácie"> Zaznamenávané obdobie </string> (invalid name)
+Removed: [tr] <string-array name="repeat_mode_mild_abnormal_array">
+Removed: [tr] <string-array name="repeat_mode_week_array">
 Removed: [uk] string/hr_fp_detect_principle_desc_3 (format mismatch)
+  </string-array> (invalid type)
+  </string-array> (invalid type)
