@@ -1,5 +1,4 @@
 Removed: [hu] arrays.xml: array/nf_feedback_reason (item mismatch)
-Removed: [it] arrays.xml: array/pref_fling_on_border_gesture_values (untranslatable)
 Removed: [ko] arrays.xml: array/nf_feedback_reason (item mismatch)
 Removed: [pt-rPT] arrays.xml: array/nf_feedback_reason (item mismatch)
 Removed: [vi] arrays.xml: array/nf_feedback_reason (item mismatch)

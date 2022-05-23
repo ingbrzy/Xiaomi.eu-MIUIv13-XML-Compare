@@ -1,5 +1,1 @@
 Removed: [hr] strings.xml: string/Povlačenje pristanka (invalid name)
-Removed: [pt-rBR] strings.xml: string/data_source_time_fromat (untranslatable)
-Removed: [pt-rBR] strings.xml: string/data_source_timezone (untranslatable)
-Removed: [ro] strings.xml: string/data_source_time_fromat (untranslatable)
-Removed: [sl] arrays.xml: array/wind_power_setting_unit_values (untranslatable)

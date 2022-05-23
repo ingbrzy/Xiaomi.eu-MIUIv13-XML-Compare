@@ -1,2 +1,0 @@
-Removed: [hu] arrays.xml: array/config_portraitScreenBubbleAnswerDevices (untranslatable)
-Removed: [hu] strings.xml: string/required_permissions (untranslatable)

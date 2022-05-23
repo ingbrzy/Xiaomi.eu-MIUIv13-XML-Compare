@@ -1,4 +1,0 @@
-Removed: [ko] strings.xml: string/wps_lite_app_svn (untranslatable)
-Removed: [ko] strings.xml: string/wps_lite_app_version (untranslatable)
-Removed: [ro] strings.xml: string/wps_lite_app_svn (untranslatable)
-Removed: [sl] strings.xml: string/wps_lite_app_svn (untranslatable)

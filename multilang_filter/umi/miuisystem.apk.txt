@@ -1,2 +1,0 @@
-Removed: [it-rIT] arrays.xml: array/miui_nature_sound_array (untranslatable)
-Removed: [it-rIT] arrays.xml: array/mobile_operator_numeric_values (untranslatable)

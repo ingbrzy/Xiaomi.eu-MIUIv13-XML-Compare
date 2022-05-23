@@ -1,1 +1,0 @@
-Removed: [it] strings.xml: string/config_wifiP2pDeviceNamePrefix (untranslatable)
