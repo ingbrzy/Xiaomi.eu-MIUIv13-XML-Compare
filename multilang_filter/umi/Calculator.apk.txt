@@ -1,10 +1,5 @@
-        <item quantity="one">%d godina</item>
-        <item quantity="other">%d godina</item>
-        <item quantity="other">%d년</item>
-    </plurals> (invalid name)
-    </plurals> (invalid type)
 Removed: [cs] array/unit_data_order_currency_ (item mismatch)
-Removed: [hr] <plurals name="godina_držanja">
-Removed: [ko] <plurals name="tenure_years">
+Removed: [hr] plurals/godina_držanja (invalid name)
+Removed: [ko] plurals/tenure_years (invalid type)
 Removed: [sk] array/unit_data_order_currency_ (item mismatch)
 Removed: [tr] array/unit_data_order_currency_ (item mismatch)

@@ -1,1 +1,1 @@
-Removed: [sk] <string name="večer">Popoludnie</string> (invalid name)
+Removed: [sk] string/večer (invalid name)

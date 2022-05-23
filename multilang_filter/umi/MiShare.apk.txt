@@ -1,6 +1,1 @@
-        <item>블루투스를 사용하여 주변에서 사용 가능한 기기를 찾는 경우</item>
-        <item>파일 송수신</item>
-        <item>블루투스 및 Wi-Fi를 사용하여 파일을 전송하는 경우</item>
-        <item>Wi-Fi를 사용하여 주변에서 사용 가능한 기기를 찾고 파일을 전송하는 경우</item>
-Removed: [ko] <string-array name="permissions_desc_v12">
-    </string-array> (invalid type)
+Removed: [ko] array/permissions_desc_v12 (invalid type)

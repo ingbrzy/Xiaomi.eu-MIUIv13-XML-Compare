@@ -1,4 +1,4 @@
-Removed: [hr] <string name="Povlačenje pristanka">Povlačenje pristanka</string> (invalid name)
+Removed: [hr] string/Povlačenje pristanka (invalid name)
 Removed: [pt-rBR] string/data_source_time_fromat (untranslatable)
 Removed: [pt-rBR] string/data_source_timezone (untranslatable)
 Removed: [ro] string/data_source_time_fromat (untranslatable)
