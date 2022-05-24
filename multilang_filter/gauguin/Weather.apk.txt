@@ -1,4 +1,0 @@
-Removed: [pt-rBR] string/data_source_time_fromat (untranslatable)
-Removed: [pt-rBR] string/data_source_timezone (untranslatable)
-Removed: [ro] string/data_source_time_fromat (untranslatable)
-Removed: [sl] array/wind_power_setting_unit_values (untranslatable)
