@@ -1,4 +1,0 @@
-Removed: [en-rXA] string/date_picker_label_day (untranslatable)
-Removed: [en-rXA] string/date_picker_label_month (untranslatable)
-Removed: [en-rXA] string/date_picker_label_year (untranslatable)
-Removed: [en-rXA] string/empty (untranslatable)

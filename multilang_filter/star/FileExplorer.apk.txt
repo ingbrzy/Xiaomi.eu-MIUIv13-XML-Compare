@@ -1,2 +1,2 @@
-Removed: [cs] plurals/remote_video_update (format mismatch)
-Removed: [it] plurals/remote_video_update (format mismatch)
+Removed: [cs] plurals.xml: plurals/remote_video_update (format mismatch)
+Removed: [it] plurals.xml: plurals/remote_video_update (format mismatch)

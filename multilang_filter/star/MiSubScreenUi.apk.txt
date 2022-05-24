@@ -1,4 +1,2 @@
-Removed: [fr] plurals/accessibility_battery_level_charging (format mismatch)
-Removed: [fr] plurals/accessibility_battery_level (format mismatch)
-Removed: [ko] array/revolve_default_light_colors (untranslatable)
-Removed: [ko] array/subscreen_timeout_values (untranslatable)
+Removed: [fr] plurals.xml: plurals/accessibility_battery_level_charging (format mismatch)
+Removed: [fr] plurals.xml: plurals/accessibility_battery_level (format mismatch)
