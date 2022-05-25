@@ -1,1 +1,1 @@
-Removed: [ko] array/permissions_desc_v12 (wrong type)
+Removed: [ko] plurals.xml: array/permissions_desc_v12 (unexpected type)

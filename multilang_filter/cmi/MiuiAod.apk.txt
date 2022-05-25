@@ -1,2 +1,0 @@
-Removed: [it] plurals/aod_dual_togother_city (format mismatch)
-Removed: [it] string/battery_meter_progress_mask_path (untranslatable)
