@@ -1880,7 +1880,7 @@ sleep data"</string>
     <string name="tb_sleep_index_info">%1$s. Tap to view details.</string>
     <string name="tb_sleep_index_title">Switch to %1$s</string>
     <string name="tb_sleep_ring_info">%1$s. Sleep: %2$s. Tap to view details.</string>
-    <string name="tb_snore_detection_main">About the features related to talking and snoring: %1%s. Swipe horizontally on the upper part of the screen to go to the next page.</string>
+    <string name="tb_snore_detection_main">About the features related to talking and snoring: %1$s. Swipe horizontally on the upper part of the screen to go to the next page.</string>
     <string name="tb_snore_view_info">Talking and snoring graph</string>
     <string name="tb_stand_card_finish_stand">Stand up breaks today: %1$s. You need to make at least 12 today. You reached your goal between %2$s and %3$s.</string>
     <string name="tb_stand_card_not_finish_stand">"Stand up breaks today: %1$s. You need to make at least 12 today. You haven't reached your goal between %2$s and %3$s."</string>
