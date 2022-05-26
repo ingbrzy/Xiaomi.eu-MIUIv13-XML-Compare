@@ -1,1 +1,1 @@
-Removed: [it] array/support_rotate_calibrate_devices (item mismatch)
+Removed: [it] arrays.xml: array/support_rotate_calibrate_devices (item mismatch)
