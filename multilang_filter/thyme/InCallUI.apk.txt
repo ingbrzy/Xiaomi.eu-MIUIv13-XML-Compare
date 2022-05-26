@@ -1,2 +1,0 @@
-Removed: [hu] array/config_portraitScreenBubbleAnswerDevices (untranslatable)
-Removed: [hu] string/required_permissions (untranslatable)

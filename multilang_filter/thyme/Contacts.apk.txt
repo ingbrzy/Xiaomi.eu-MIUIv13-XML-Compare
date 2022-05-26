@@ -1,5 +1,0 @@
-Removed: [cs] string/config_export_file_extension (untranslatable)
-Removed: [it] string/config_export_file_extension (untranslatable)
-Removed: [sk] string/config_export_file_extension (untranslatable)
-Removed: [sl] string/config_export_file_extension (untranslatable)
-Removed: [tr] string/bh_system_recommend_des (duplicate)
