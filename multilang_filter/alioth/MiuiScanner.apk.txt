@@ -1,2 +1,1 @@
-Removed: [it] string/impunity_declaration_content (format mismatch)
-Removed: [ro] array/kingsoft_language_ids (untranslatable)
+Removed: [it] strings.xml: string/impunity_declaration_content (format mismatch)
