@@ -1,1 +1,1 @@
-Removed: [it] array/device_need_operating_mode (item mismatch)
+Removed: [it] arrays.xml: array/device_need_operating_mode (item mismatch)
