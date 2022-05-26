@@ -1,7 +1,1 @@
-Removed: [ar] array/alphabet_table (item mismatch)
-Removed: [ar] array/alphabet_table_with_starred (item mismatch)
-Removed: [fa-rIR] array/alphabet_table (item mismatch)
-Removed: [fa-rIR] array/alphabet_table_with_starred (item mismatch)
-Removed: [iw-rIL] array/alphabet_table (item mismatch)
-Removed: [iw-rIL] array/alphabet_table_with_starred (item mismatch)
-Removed: [ko] array/permissions_desc_v12 (wrong type)
+Removed: [ko] plurals.xml: array/permissions_desc_v12 (unexpected type)
