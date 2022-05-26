@@ -6,5 +6,3 @@ Removed: [it-rIT] strings.xml: string/wireless_charging_notification_message2 (f
 Removed: [ko] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
 Removed: [ru-rRU] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
 Removed: [sk-rSK] arrays.xml: array/organized_languages_international (item mismatch)
-Removed: [tr-rTR] strings.xml: string/relaunch_fold_notification_content (format mismatch)
-Removed: [tr-rTR] strings.xml: string/relaunch_unfold_notification_content (format mismatch)
