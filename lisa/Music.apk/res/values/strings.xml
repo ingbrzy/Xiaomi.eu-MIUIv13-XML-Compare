@@ -97,7 +97,7 @@
     <string name="app_description_content">"Music is a system app that contains an audio player and allows you to manage audio files. You'll still be able to play audio files after you remove the Home screen shortcut."</string>
     <string name="app_description_title">Remove \"Music\" from Home screen?</string>
     <string name="app_label">Downloads</string>
-    <string name="app_name">SdkCommon</string>
+    <string name="app_name">MiGlobalAdSdk</string>
     <string name="app_permission_confirm">Got it</string>
     <string name="app_permission_optional">Optional permissions</string>
     <string name="app_permission_require">Mandatory permissions</string>
@@ -252,7 +252,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">8d9109830f674f22ab60d6dc2b2143fe</string>
+    <string name="com.crashlytics.android.build_id">d1e1f5c988f74f7c8162efa939b1a89a</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -277,6 +277,7 @@
     <string name="connect_now">Connect</string>
     <string name="connecting_apk">Connecting…</string>
     <string name="content_country_key">content_country</string>
+    <string name="content_failed_to_load">"Couldn't load content"</string>
     <string name="content_language_key">content_language</string>
     <string name="copy">Copy</string>
     <string name="count_format">%2$1.0fK</string>
