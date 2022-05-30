@@ -1,0 +1,6 @@
+Removed: [cs-rCZ] arrays.xml: array/organized_languages_international (item mismatch)
+Removed: [it-rIT] arrays.xml: array/white_list_device (item mismatch)
+Removed: [it-rIT] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
+Removed: [ko] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
+Removed: [ru-rRU] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
+Removed: [sk-rSK] arrays.xml: array/organized_languages_international (item mismatch)

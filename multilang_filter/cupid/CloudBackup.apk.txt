@@ -1,0 +1,3 @@
+Removed: [cs] strings.xml: string/restore_network_pause (format mismatch)
+Removed: [ko] strings.xml: string/restore_network_pause (format mismatch)
+Removed: [sk] strings.xml: string/restore_network_pause (format mismatch)
