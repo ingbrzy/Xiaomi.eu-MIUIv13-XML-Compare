@@ -1,6 +1,7 @@
 Removed: [cs-rCZ] arrays.xml: array/organized_languages_international (item mismatch)
 Removed: [es-rUS] arrays.xml: array/list_about_need_relunch (item mismatch)
 Removed: [it-rIT] arrays.xml: array/package_static_white_list_base (item mismatch)
+Removed: [it-rIT] arrays.xml: array/process_camera_boost_protect_list (item mismatch)
 Removed: [it-rIT] arrays.xml: array/process_disable_trim_list (item mismatch)
 Removed: [it-rIT] arrays.xml: array/process_display_size_protect_list (item mismatch)
 Removed: [it-rIT] arrays.xml: array/process_fg_service_check_list (item mismatch)
