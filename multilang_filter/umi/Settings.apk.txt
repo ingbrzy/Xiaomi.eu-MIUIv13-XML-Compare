@@ -6,8 +6,6 @@ Removed: [ar] strings.xml: string/battery_saver_sticky_description_new (format m
 Removed: [ar] strings.xml: string/block_list_remove_dialog_title (format mismatch)
 Removed: [ar] strings.xml: string/notification_assistant_security_warning_summary (format mismatch)
 Removed: [ar] strings.xml: string/zen_mode_duration_summary_time_minutes (format mismatch)
-Removed: [be] strings.xml: string/lock_screen_after_fold_screen_summary (duplicate)
-Removed: [be] strings.xml: string/lock_screen_after_fold_screen_title (duplicate)
 Removed: [be-v30] arrays.xml: array/bt_hci_snoop_log_entries (item mismatch)
 Removed: [be-v30] arrays.xml: array/eap_ocsp_type (item mismatch)
 Removed: [be-v30] arrays.xml: array/mvno_type_entries (item mismatch)
