@@ -102,6 +102,7 @@
     <string name="area_code_search_hint">Search for country or region</string>
     <string name="auth_fail_warning">Session expired, sign in again later</string>
     <string name="authorize_title">Authorization</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"Autofill sign-in isn't supported on watermarked versions"</string>
     <string name="bind_facebook">Connect your Facebook Account</string>
     <string name="bind_google">Connect your Google Account</string>
     <string name="bind_qq">QQ</string>
@@ -255,6 +256,7 @@ You can sign in to your Mi Account using %s now."</string>
     <string name="confirm_unbundled_phone_dialog_message">The phone number %1$s is associated with Mi Account %2$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
     <string name="continue_action">Continue</string>
     <string name="copy">Copy</string>
+    <string name="copy_link">Copy URL</string>
     <string name="copy_to_clipboard_successful">Copied successfully</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -441,6 +443,15 @@ Send this code to the supervisor."</string>
     <string name="kr_permission_phone_desc">For protecting your account</string>
     <string name="kr_permission_sms_desc">For autofilling verification codes</string>
     <string name="kr_permission_storage_desc">For saving diagnostics</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API based on SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher for Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading_micloud_sync_data">Just a sec…</string>
     <string name="login_3rd_app_with_system_account">Sign in to %s</string>
     <string name="login_check_find_device">Getting device security info…</string>
@@ -452,11 +463,12 @@ Send this code to the supervisor."</string>
     <string name="login_with_other">More options</string>
     <string name="logout_account">Sign out</string>
     <string name="logout_failed">"Can't sign out"</string>
+    <string name="marketSdkVersion">3.2.12</string>
     <string name="mi_account_identity_title">Verify your identity</string>
     <string name="mi_finance">My finances</string>
     <string name="mi_finance_info">Bonuses for new users</string>
     <string name="mi_health">Xiaomi Health</string>
-    <string name="mi_member">Mi Community</string>
+    <string name="mi_member">Xiaomi Community</string>
     <string name="mi_vip_info">View privileges</string>
     <string name="midnight">Night</string>
     <string name="mipay">Pay</string>
@@ -540,6 +552,8 @@ Send this code to the supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with the cloud"</string>
     <string name="my_device_title">Current device</string>
     <string name="need_install_wechat">Install WeChat first</string>
+    <string name="network_error">A network error occurred.</string>
+    <string name="network_error_hint">Check the URL and try again, or copy the URL and open it in your browser.</string>
     <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
     <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="new_version">New version</string>
@@ -576,6 +590,7 @@ Send this code to the supervisor."</string>
     <string name="operator_unicom">China Unicom</string>
     <string name="operator_unicom_agreement">Verifications services provided by China Unicom</string>
     <string name="optional_permissions">Optional permissions</string>
+    <string name="page_load_failed">"Can't open page"</string>
     <string name="passport_Resend">Resend</string>
     <string name="passport_access_denied">Access denied</string>
     <string name="passport_account_hint_text">Email/Phone number/Mi Account ID</string>
@@ -842,6 +857,7 @@ Send this code to the supervisor."</string>
     <string name="permission_write_external_storage">Access and save items to storage</string>
     <string name="personal_info_desc">Photo, nickname, and more</string>
     <string name="phone_num_use_for">Phone number is used for:</string>
+    <string name="phone_register">Use phone number</string>
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
@@ -1054,5 +1070,8 @@ Send this code to the supervisor."</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Sign in with WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
     <string name="yesterday">Yesterday</string>
 </resources>

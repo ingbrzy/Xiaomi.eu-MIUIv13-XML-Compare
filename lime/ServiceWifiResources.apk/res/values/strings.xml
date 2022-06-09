@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Accept</string>
-    <string name="config_vendor_wifi_tether_bridge_interface_name">wifi_br0</string>
+    <string name="config_wifiCoexTableFilepath">/vendor/etc/wifi/coex_table.xml</string>
+    <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
     <string name="config_wifiSoftap2gChannelList">1-11</string>
     <string name="config_wifiSoftap5gChannelList" />
+    <string name="config_wifiSoftap60gChannelList" />
     <string name="config_wifiSoftap6gChannelList" />
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
     <string name="config_wifi_tcp_buffers">524288,1048576,8808040,262144,524288,6710886</string>
@@ -54,16 +56,16 @@ This change may allow your device's location to be tracked by nearby devices."</
     <string name="wifi_softap_auto_shutdown_timeout_expired_summary">No devices connected. Tap to modify.</string>
     <string name="wifi_softap_auto_shutdown_timeout_expired_title">Hotspot turned off</string>
     <string name="wifi_suggestion_action_allow_app">Allow</string>
-    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Connect anyway</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Connect</string>
     <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Connect</string>
     <string name="wifi_suggestion_action_disallow_app">No thanks</string>
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">"Don't connect"</string>
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">"Don't connect"</string>
     <string name="wifi_suggestion_content">%s suggested networks. Device may connect automatically.</string>
-    <string name="wifi_suggestion_imsi_privacy_content">These networks receive a unique ID that can be used to track device location</string>
+    <string name="wifi_suggestion_imsi_privacy_content">These networks receive a SIM ID that can be used to track device location</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"If you connect, %s Wi‑Fi networks may access or share a unique ID associated with your SIM. This may allow your device's location to be tracked."</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Confirm connection?</string>
-    <string name="wifi_suggestion_imsi_privacy_title">%s wants to auto‑connect</string>
+    <string name="wifi_suggestion_imsi_privacy_title">Connect to %s Wi‑Fi?</string>
     <string name="wifi_suggestion_title">Allow suggested Wi‑Fi networks?</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_wakeup_enabled_content">"You're near a saved network: %1$s"</string>

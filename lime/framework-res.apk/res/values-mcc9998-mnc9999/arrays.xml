@@ -17,6 +17,8 @@
         <item>ur_PK</item>
         <item>bn_IN</item>
         <item>ne_IN</item>
+        <item>ar_EG</item>
+        <item>fa_IR</item>
         <item>ar_EG_#u-nu-latn</item>
         <item>fa_IR_#u-nu-latn</item>
     </string-array>
@@ -29,6 +31,8 @@
         <item>اردو (پاکستان )</item>
         <item>বাংলা (ভারত)</item>
         <item>नेपाली (भारत)</item>
+        <item>العربية</item>
+        <item>فارسی</item>
         <item>العربية ( الأرقام الغربية )</item>
         <item>فارسی ( ارقام غربی )</item>
     </string-array>

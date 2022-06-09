@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="config_wifiBackgroundScanThrottleExceptionList" />
     <integer-array name="config_wifiConnectedScanIntervalScheduleSec">
         <item>20</item>
         <item>40</item>
@@ -12,6 +13,7 @@
         <item>80</item>
         <item>160</item>
     </integer-array>
+    <array name="config_wifiForegroundScanThrottleExceptionList" />
     <integer-array name="config_wifiRssiLevelThresholds">
         <item>-88</item>
         <item>-77</item>

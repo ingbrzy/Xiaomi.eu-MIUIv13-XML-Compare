@@ -37,8 +37,6 @@
     <string name="deny">Deny</string>
     <string name="grant_dialog_button_allow">Allow</string>
     <string name="grant_dialog_button_deny">Deny</string>
-    <string name="id_photo">ID PHOTO</string>
-    <string name="my_favorite">Favorites</string>
     <string name="permission_required">Permission required to modify or delete this item.</string>
     <string name="permission_required_action">Continue</string>
     <string name="root_audio">Audio</string>
@@ -48,6 +46,14 @@
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_description">Local storage</string>
+    <string name="transcode_cancel">Cancel</string>
+    <string name="transcode_denied">"%s can't process media files"</string>
+    <string name="transcode_processing">Processing media…</string>
+    <string name="transcode_processing_cancelled">Media processing cancelled</string>
+    <string name="transcode_processing_error">Media processing error</string>
+    <string name="transcode_processing_started">Media processing started</string>
+    <string name="transcode_processing_success">Media processing success</string>
+    <string name="transcode_wait">Wait</string>
     <string name="uid_label">Media</string>
     <string name="unknown">Unknown</string>
 </resources>
