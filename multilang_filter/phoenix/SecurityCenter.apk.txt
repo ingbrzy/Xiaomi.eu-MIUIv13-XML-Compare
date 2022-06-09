@@ -1,6 +1,5 @@
 Removed: [ar] strings.xml: string/app_running_tip_dialog_text (format mismatch)
 Removed: [bg] strings.xml: string/app_running_tip_dialog_text (format mismatch)
-Removed: [ca] strings.xml: string/app_running_tip_dialog_text (format mismatch)
 Removed: [cs] arrays.xml: array/date_of_traffic_prefix_cmcc (item mismatch)
 Removed: [cs] strings.xml: string/gb_predownload_noti_message (format mismatch)
 Removed: [da] strings.xml: string/app_running_tip_dialog_text (format mismatch)
