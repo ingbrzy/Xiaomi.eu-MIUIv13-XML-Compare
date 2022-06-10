@@ -501,6 +501,11 @@ Xiaomi Health will only notify you about important items."</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">To track sleep more accurately, allow Xiaomi Health to autostart.</string>
     <string name="dialog_sure">OK</string>
+    <string name="dialog_upgrade_description">"1. New design.
+2. Sync data across devices.
+3. View health data from Health, Xiaomi Wear, and other apps in one place."</string>
+    <string name="dialog_upgrade_positive_btn">Update</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">Welcome to Xiaomi Health! You can use this app to count steps, track sleep, periods, and weight, as well as sync your stats to the cloud.</string>
     <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
     <string name="diastolic_pressure">Diastolic</string>
@@ -1875,7 +1880,7 @@ sleep data"</string>
     <string name="tb_sleep_index_info">%1$s. Tap to view details.</string>
     <string name="tb_sleep_index_title">Switch to %1$s</string>
     <string name="tb_sleep_ring_info">%1$s. Sleep: %2$s. Tap to view details.</string>
-    <string name="tb_snore_detection_main">About the features related to talking and snoring: %1%s. Swipe horizontally on the upper part of the screen to go to the next page.</string>
+    <string name="tb_snore_detection_main">About the features related to talking and snoring: %1$s. Swipe horizontally on the upper part of the screen to go to the next page.</string>
     <string name="tb_snore_view_info">Talking and snoring graph</string>
     <string name="tb_stand_card_finish_stand">Stand up breaks today: %1$s. You need to make at least 12 today. You reached your goal between %2$s and %3$s.</string>
     <string name="tb_stand_card_not_finish_stand">"Stand up breaks today: %1$s. You need to make at least 12 today. You haven't reached your goal between %2$s and %3$s."</string>

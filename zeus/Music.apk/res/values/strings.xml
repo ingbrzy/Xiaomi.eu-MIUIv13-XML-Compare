@@ -97,7 +97,7 @@
     <string name="app_description_content">"Music is a system app that contains an audio player and allows you to manage audio files. You'll still be able to play audio files after you remove the Home screen shortcut."</string>
     <string name="app_description_title">Remove \"Music\" from Home screen?</string>
     <string name="app_label">Downloads</string>
-    <string name="app_name">SdkCommon</string>
+    <string name="app_name">MiGlobalAdSdk</string>
     <string name="app_permission_confirm">Got it</string>
     <string name="app_permission_optional">Optional permissions</string>
     <string name="app_permission_require">Mandatory permissions</string>
@@ -137,6 +137,7 @@
     <string name="back">Back</string>
     <string name="back_confirm">Tap again to push the app to background</string>
     <string name="banner_op">Mi Music</string>
+    <string name="best_experience">Best experience</string>
     <string name="bluetooth_device">Bluetooth audio device</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
@@ -251,7 +252,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">2ce08a3e0e224bee9c2695f3cdaa93e9</string>
+    <string name="com.crashlytics.android.build_id">d1e1f5c988f74f7c8162efa939b1a89a</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -276,6 +277,7 @@
     <string name="connect_now">Connect</string>
     <string name="connecting_apk">Connecting…</string>
     <string name="content_country_key">content_country</string>
+    <string name="content_failed_to_load">"Couldn't load content"</string>
     <string name="content_language_key">content_language</string>
     <string name="copy">Copy</string>
     <string name="count_format">%2$1.0fK</string>
@@ -401,6 +403,7 @@
     <string name="download_error_insufficient_space">Not enough space</string>
     <string name="download_fail_to_fetch_info">"Couldn't download, try again"</string>
     <string name="download_filesize_unknown">Unknown</string>
+    <string name="download_free">Download music</string>
     <string name="download_in_process">DOWNLOADING</string>
     <string name="download_info_start_deleted_tasks">Remove downloads</string>
     <string name="download_manage">Downloads</string>
@@ -443,7 +446,9 @@
     <string name="download_while_playing_no_vip_summary">Automatically download songs you stream online (except paid content)</string>
     <string name="download_while_playing_summary">Automatically download songs you stream online</string>
     <string name="download_while_playing_title">Download while streaming</string>
+    <string name="downloaded">Downloaded</string>
     <string name="downloaded_empty">Empty</string>
+    <string name="downloading">Loading...</string>
     <string name="downloading_apk">Downloading… View progress in the Notification shade.</string>
     <string name="downloading_empty">Empty</string>
     <string name="downloading_pause_apk">Paused. Resume download in the Notification shade.</string>
@@ -471,6 +476,7 @@
     <string name="empty_page_no_artist">No artists.</string>
     <string name="enabled">Enabled</string>
     <string name="enjoy_hungama_pro">Enjoy Hungama PRO</string>
+    <string name="enroll_in">Enroll</string>
     <string name="enter_garbage_clean">Clean up internal storage.</string>
     <string name="eq_auto">Custom</string>
     <string name="eq_blues">Blues</string>
@@ -580,6 +586,7 @@
     <string name="filter_by_size_prefix">"Hide files smaller than "</string>
     <string name="filter_by_size_summary">Hide small audio files</string>
     <string name="filter_size_unit">%dKB</string>
+    <string name="find_you_tunes">Find your tunes</string>
     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
     <string name="floating_view_dialog_desc">Music will stop playing if you leave this page now. Leave anyway?</string>
     <string name="floating_view_dialog_leave">Leave</string>
@@ -643,12 +650,16 @@
     <string name="format_not_support">"This format isn't supported."</string>
     <string name="format_unsupported_or_corrupted">"This format isn't supported or the file is corrupted"</string>
     <string name="fragment_title_artist_album">Albums</string>
+    <string name="free">Free</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
     <string name="gcm_defaultSenderId">948829309969</string>
     <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="get_more_favorite_content_after_login">Sign in to discover more songs and videos.</string>
+    <string name="get_one_day_vip">You got %d-day VIP!</string>
+    <string name="get_one_hour_vip">You got %d-hour VIP!</string>
+    <string name="get_vip">Get VIP</string>
     <string name="google_account_login">Sign in with Google</string>
     <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
     <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
@@ -656,6 +667,8 @@
     <string name="google_storage_bucket">mi-music-global.appspot.com</string>
     <string name="goto_local_search">Search on device</string>
     <string name="goto_online_search">Search online</string>
+    <string name="gps_prompt_context">Downloading with mobile network?</string>
+    <string name="gps_prompt_title">Tips</string>
     <string name="handle_later">Not now</string>
     <string name="hd_quality_audio">HD quality audio</string>
     <string name="headset_and_audio_effect_category">Headphones &amp; audio effects</string>
@@ -674,6 +687,7 @@
     <string name="hide_album">Hide album cover</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_lyric">Hide lyrics</string>
+    <string name="hifi_quality">Hi-Fi quality</string>
     <string name="high_sound_quality">High</string>
     <string name="higher_quality_music">High quality audio</string>
     <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
@@ -695,6 +709,7 @@
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Videos</string>
     <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_download_subscription_toast">Subscribe to Hungama Music to download this song</string>
     <string name="hungama_free_download_out_summary">"You can't download more free songs. Get a PRO membership to download unlimited songs?"</string>
     <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
     <string name="hungama_playlist_category">Playlist category</string>
@@ -709,6 +724,7 @@
     <string name="i_know">OK</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="id_namespace">hungama</string>
+    <string name="imported">Imported</string>
     <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product.</string>
     <string name="impunity_declaration_ignore">"Don't show again"</string>
     <string name="impunity_declaration_negative_text">Exit</string>
@@ -795,6 +811,7 @@
     <string name="joox_vip_expired_hint">Your VIP membership expired. The songs downloaded from JOOX will only be displayed in your downloads.</string>
     <string name="jooxdebugvip">JooxVip切换测试</string>
     <string name="jooxtestlogin">Joox登录测试</string>
+    <string name="just_hit_next">Just hit next</string>
     <string name="keep_queued_download">Keep</string>
     <string name="ktv_playlist">KTV playlist</string>
     <string name="language_page_confirm">Confirm</string>
@@ -804,6 +821,7 @@
     <string name="latest_song">Play history (%d)</string>
     <string name="like">Like</string>
     <string name="list_item_play_all_tracks">Play all</string>
+    <string name="listen_anywhere">Listen anywhere</string>
     <string name="load_shuffle">Loading…</string>
     <string name="loadercontainer_loading">Just a sec…</string>
     <string name="loading">Loading</string>
@@ -827,6 +845,31 @@
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
     <string name="lyric_setting">Lyrics settings</string>
+    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_typescale_body_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_body_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_label_large_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_label_medium_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_label_small_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_title_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_hour_selection">Select hour</string>
@@ -869,6 +912,7 @@
     <string name="middle_sound_quality">Standard</string>
     <string name="midnight">Night</string>
     <string name="milink_unavaliable_please_update">"Mi Link isn't available. Update MIUI."</string>
+    <string name="millions_songs">Millions of songs</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Unknown></string>
     <string name="miuishare_account_login_ok">Sign in</string>
@@ -920,6 +964,7 @@
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
+    <string name="monitor_app_name">zeus-monitor-crash</string>
     <string name="month_april">April</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -972,7 +1017,7 @@
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select Date</string>
     <string name="mtrl_picker_date_header_unselected">Selected date</string>
@@ -999,6 +1044,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="mulit_choice_management">Manage multiple items</string>
     <string name="music_browser_label">Music</string>
     <string name="music_filter">Filter audio files</string>
@@ -1074,6 +1120,8 @@
     <string name="offline_opt_in_message">"We'll send you a notification with a link to the advertiser site."</string>
     <string name="offline_opt_in_title">"Open ad when you're back online."</string>
     <string name="ok">OK</string>
+    <string name="one_day_vip">%d-day VIP</string>
+    <string name="one_hour_vip">%d-hour VIP</string>
     <string name="online_apk_acquired">Loaded %d%%</string>
     <string name="online_apk_acquiring">Loading… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Couldn't download due to insufficient storage space."</string>
@@ -1113,6 +1161,7 @@
     <string name="operation_done_close">Close</string>
     <string name="other_song_in_album">Other songs from this album</string>
     <string name="partner_id">3041</string>
+    <string name="party">Party</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -1260,7 +1309,7 @@ Be Happy"</string>
     <string name="select">Select</string>
     <string name="select_all">Select all</string>
     <string name="select_clip_desc">Select a clip from the song</string>
-    <string name="select_desc_sub">You can select up to 3 languages</string>
+    <string name="select_desc_sub">You can select up to %d languages</string>
     <string name="select_device">Select device</string>
     <string name="select_displayed_folders">Choose folders to display</string>
     <string name="select_local_album_cover">Select image</string>
@@ -1268,8 +1317,8 @@ Be Happy"</string>
     <string name="select_local_lyric">Select file</string>
     <string name="select_local_lyric_file">Select local lyrics file</string>
     <string name="select_none">Deselect all</string>
-    <string name="select_one_language">Select at least 1 language</string>
-    <string name="select_three_languages">You can select up to 3 languages</string>
+    <string name="select_one_language">Select at least %d language</string>
+    <string name="select_three_languages">You can select up to %d languages</string>
     <string name="selected_count">Selected %1$d out of %2$d</string>
     <string name="send">Send</string>
     <string name="send_to_title">Send to (%1$s)</string>
@@ -1353,7 +1402,7 @@ Be Happy"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Try crossfading songs during playback</string>
     <string name="start_to_check_new_version">Checking for updates…</string>
     <string name="start_to_download">Downloading…</string>
-    <string name="start_to_play">Play</string>
+    <string name="start_to_play">Preparing to play…</string>
     <string name="start_update">Installing new version…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Storage for dual apps</string>
@@ -1500,6 +1549,7 @@ Be Happy"</string>
     <string name="unknown_artist_name">Unknown artist</string>
     <string name="unlimited_downloads">Unlimited downloads</string>
     <string name="unlimited_offline_songs">Unlimited offline songs</string>
+    <string name="unlimited_skips">Unlimited skips</string>
     <string name="update_now">UPDATE NOW</string>
     <string name="upgrade_music">Update Music</string>
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
@@ -1513,6 +1563,7 @@ Be Happy"</string>
     <string name="upload_playlist_to_hungama_toast">Online songs will be synced to Hungama</string>
     <string name="user_agreement">User Agreement</string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
+    <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">Playlists</string>
     <string name="user_privacy_dialog_negative_text">Cancel</string>
     <string name="user_privacy_dialog_positive_count_down_text">Withdraw (%ss)</string>
@@ -1533,6 +1584,7 @@ Be Happy"</string>
     <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
     <string name="vip_required_with_song">%s is available to PRO members only. Skipped this song for now.</string>
     <string name="voice_search_first_hint">Try voice search!</string>
+    <string name="watch_video">Watch video</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>

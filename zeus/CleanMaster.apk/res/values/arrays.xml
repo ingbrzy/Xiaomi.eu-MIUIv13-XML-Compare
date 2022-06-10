@@ -261,6 +261,8 @@
         <item>com.google.android.marvin.talkback</item>
         <item>com.iflytek.speechcloud</item>
         <item>com.xiaomi.jr.security</item>
+        <item>com.miui.cleaner</item>
+        <item>com.funnypuri.client</item>
     </string-array>
     <string-array name="hide_packages">
         <item>com.tencent.mm</item>
@@ -270,6 +272,7 @@
         <item>/FileExplorer/.safebox</item>
         <item>/DCIM/.thumbnails</item>
         <item>/Android/data/com.miui.cleanmaster/cache</item>
+        <item>/Android/data/com.miui.cleaner/cache</item>
         <item>/Android/data/com.tencent.KiHan</item>
     </string-array>
     <string-array name="installed_app_sort_type">
