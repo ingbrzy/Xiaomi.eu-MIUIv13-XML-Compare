@@ -1,4 +1,0 @@
-Removed: [fa-rIR] array/alphabet_table (item mismatch)
-Removed: [fa-rIR] array/alphabet_table_with_starred (item mismatch)
-Removed: [iw-rIL] array/alphabet_table (item mismatch)
-Removed: [iw-rIL] array/alphabet_table_with_starred (item mismatch)

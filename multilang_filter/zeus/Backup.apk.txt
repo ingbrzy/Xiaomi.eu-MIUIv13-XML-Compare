@@ -1,1 +1,0 @@
-Removed: [ja] array/trans_cancel_survey_title (item mismatch)
