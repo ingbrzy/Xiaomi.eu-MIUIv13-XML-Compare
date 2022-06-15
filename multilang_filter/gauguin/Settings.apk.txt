@@ -105,7 +105,6 @@ Removed: [hu] strings.xml: string/battery_saver_sticky_description_new (format m
 Removed: [hu] strings.xml: string/block_list_remove_dialog_title (format mismatch)
 Removed: [hu] strings.xml: string/notification_assistant_security_warning_summary (format mismatch)
 Removed: [hu] strings.xml: string/zen_mode_duration_summary_time_minutes (format mismatch)
-Removed: [it] arrays.xml: array/support_settings_haptic_device_list (item mismatch)
 Removed: [it] plurals.xml: plurals/accessibilty_autoclick_preference_subtitle_long_delay (format mismatch)
 Removed: [it] plurals.xml: plurals/accessibilty_autoclick_preference_subtitle_short_delay (format mismatch)
 Removed: [it] plurals.xml: plurals/zen_mode_bypassing_apps_subtext (format mismatch)
