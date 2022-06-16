@@ -97,7 +97,7 @@
     <string name="app_description_content">"Music is a system app that contains an audio player and allows you to manage audio files. You'll still be able to play audio files after you remove the Home screen shortcut."</string>
     <string name="app_description_title">Remove \"Music\" from Home screen?</string>
     <string name="app_label">Downloads</string>
-    <string name="app_name">MiGlobalAdSdk</string>
+    <string name="app_name">SdkCommon</string>
     <string name="app_permission_confirm">Got it</string>
     <string name="app_permission_optional">Optional permissions</string>
     <string name="app_permission_require">Mandatory permissions</string>
@@ -252,7 +252,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">d1e1f5c988f74f7c8162efa939b1a89a</string>
+    <string name="com.crashlytics.android.build_id">22893251062d4c1e94439789c14cf621</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -478,6 +478,7 @@
     <string name="enjoy_hungama_pro">Enjoy Hungama PRO</string>
     <string name="enroll_in">Enroll</string>
     <string name="enter_garbage_clean">Clean up internal storage.</string>
+    <string name="entertainment">Entertainment</string>
     <string name="eq_auto">Custom</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Classical</string>
@@ -841,6 +842,7 @@
     <string name="low_sound_quality">Low</string>
     <string name="lrc_search_failed">"Couldn't find lyrics"</string>
     <string name="lrc_searching">Searching…</string>
+    <string name="ludo_tab_guide">Check out our new Music rooms</string>
     <string name="lyric_is_empty">No lyrics available</string>
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
@@ -1588,6 +1590,7 @@ Be Happy"</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
+    <string name="welcome_to_entertainment">Check out the new Entertainment feature for music games and more</string>
     <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download. 
 
@@ -1604,6 +1607,33 @@ Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="yandex_ads_context">yandex:ads:context</string>
+    <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
+    <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
+    <string name="yandex_ads_internal_after_timer_value">сек</string>
+    <string name="yandex_ads_internal_before_timer_value">До начисления награды осталось</string>
+    <string name="yandex_ads_internal_go">Перейти</string>
+    <string name="yandex_ads_internal_install">Установить</string>
+    <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
+    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
+    <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_tools_age_text">3+</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
+    <string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
+    <string name="yandex_ads_internal_tools_call_to_action_text">Перейти на сайт</string>
+    <string name="yandex_ads_internal_tools_domain_text">domain</string>
+    <string name="yandex_ads_internal_tools_price_text">price</string>
+    <string name="yandex_ads_internal_tools_rating_text">rating</string>
+    <string name="yandex_ads_internal_tools_review_count_text">review count</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
+    <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
+    <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
     <string name="yesterday">Yesterday</string>
     <string name="you_can_switch_mode_in_settings">You can switch between modes in the Settings</string>
     <string name="you_may_like">You may also like</string>
