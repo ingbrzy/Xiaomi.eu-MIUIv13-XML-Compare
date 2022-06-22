@@ -1,2 +1,1 @@
 Removed: [ko] plurals.xml: array/permissions_desc_v12 (unexpected type)
-Removed: [pl] strings.xml: string/wait_remote_receive_tips (duplicate)
