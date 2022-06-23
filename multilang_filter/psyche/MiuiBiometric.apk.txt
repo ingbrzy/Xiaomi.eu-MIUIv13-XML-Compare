@@ -1,0 +1,2 @@
+Removed: [it] arrays.xml: array/get_frame_nonsequence (item mismatch)
+Removed: [it] arrays.xml: array/retry_connect_camera (item mismatch)
