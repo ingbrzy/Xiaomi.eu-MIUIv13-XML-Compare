@@ -2,6 +2,7 @@ Removed: [cs-rCZ] arrays.xml: array/organized_languages_international (item mism
 Removed: [es-rUS] arrays.xml: array/list_about_need_relunch (item mismatch)
 Removed: [it-rIT] arrays.xml: array/allowed_package_common (item mismatch)
 Removed: [it-rIT] arrays.xml: array/process_display_size_protect_list (item mismatch)
+Removed: [it-rIT] arrays.xml: array/white_list_device (item mismatch)
 Removed: [it-rIT] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
 Removed: [ko] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
 Removed: [ru-rRU] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
