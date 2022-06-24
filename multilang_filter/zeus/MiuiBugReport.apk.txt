@@ -1,0 +1,6 @@
+Removed: [be] strings.xml: string/toast_screenshot_too_large (format mismatch)
+Removed: [de] strings.xml: string/toast_screenshot_too_large (format mismatch)
+Removed: [hr] strings.xml: string/toast_screenshot_too_large (format mismatch)
+Removed: [pl] strings.xml: string/toast_screenshot_too_large (format mismatch)
+Removed: [ru] strings.xml: string/toast_screenshot_too_large (format mismatch)
+Removed: [sl] strings.xml: string/toast_screenshot_too_large (format mismatch)
