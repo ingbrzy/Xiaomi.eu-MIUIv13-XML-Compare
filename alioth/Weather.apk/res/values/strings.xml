@@ -207,6 +207,7 @@
     <string name="content_desc_activity_main_add_city">Add city</string>
     <string name="content_desc_activity_main_add_city_manage">Manage cities</string>
     <string name="content_desc_activity_main_more_settings">More settings</string>
+    <string name="content_desc_activity_main_page">Page %1$d of %2$d</string>
     <string name="content_desc_back_button">Back</string>
     <string name="content_desc_city_manage_del">Delete</string>
     <string name="content_desc_close_button">Close</string>
@@ -511,7 +512,7 @@
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Too high</string>
     <string name="permission_device_info">Device info</string>
-    <string name="permission_device_introduce">For recognizing device ID based on device model and IMEI, and providing localized services based on language preferences</string>
+    <string name="permission_device_introduce">For recognizing devices based on device model and providing localized services based on language preferences</string>
     <string name="permission_exit">Exit</string>
     <string name="permission_privacy">Privacy Policy (mandatory)</string>
     <string name="permission_select_all">Select all</string>
