@@ -1,3 +1,4 @@
+Removed: [be] arrays.xml: array/error_message_respond (item mismatch)
 Removed: [bg] strings.xml: string/certificate_added (format mismatch)
 Removed: [bg] strings.xml: string/certificate_add_failed (format mismatch)
 Removed: [ca] arrays.xml: array/error_message_respond (item mismatch)
