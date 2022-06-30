@@ -1,4 +1,2 @@
 Removed: [pt-rBR] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
-Removed: [uk] strings.xml: string/abc_menu_Видалити_shortcut_label (invalid name)
-Removed: [uk] strings.xml: string/abc_menu_Пробіл_shortcut_label (invalid name)
 Removed: [vi] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
