@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -358,5 +362,13 @@
         <item>@string/thursday_shortest</item>
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
+    </string-array>
+    <string-array name="work_data_titles">
+        <item>@string/voiceroom_set_workdata_title_worktime</item>
+        <item>@string/voiceroom_set_workdata_title_gamerevenue</item>
+        <item>@string/voiceroom_set_workdata_title_giftdata</item>
+        <item>@string/voiceroom_set_workdata_title_giftrecord</item>
+        <item>@string/voiceroom_set_workdata_title_weeklyranking</item>
+        <item>@string/voiceroom_set_workdata_title_overallranking</item>
     </string-array>
 </resources>
