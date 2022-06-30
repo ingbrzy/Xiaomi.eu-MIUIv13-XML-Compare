@@ -1,4 +1,3 @@
-Removed: [el] strings.xml: string/hr_fp_detect_principle_desc_3 (format mismatch)
 Removed: [ko] plurals.xml: plurals/sporting_content_riding_km (format mismatch)
 Removed: [ko] plurals.xml: plurals/sporting_content_running_km (format mismatch)
 Removed: [ko] plurals.xml: plurals/sporting_content_walking_km (format mismatch)
