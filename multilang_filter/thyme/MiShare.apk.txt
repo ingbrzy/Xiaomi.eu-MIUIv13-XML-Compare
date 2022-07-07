@@ -1,5 +1,1 @@
-Removed: [fr] strings.xml: string/error_device_lost (duplicate)
-Removed: [fr] strings.xml: string/wait_remote_receive_tips (duplicate)
 Removed: [ko] plurals.xml: array/permissions_desc_v12 (unexpected type)
-Removed: [pt-rPT] strings.xml: string/error_msg_network_error (duplicate)
-Removed: [pt-rPT] strings.xml: string/wait_remote_receive_tips (duplicate)
