@@ -277,7 +277,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">4b7f819e089444dbbcbfdcba3d646f77</string>
+    <string name="com.crashlytics.android.build_id">026175d77db24925833cc93f43736876</string>
+    <string name="com.miapm.build_id">5cb5b53b22b0419b81dfdaf74e5bc280</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -803,6 +804,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_exchange_successful">Redeemed successfully</string>
     <string name="incentive_exchange_tip">These points are only available today</string>
     <string name="incentive_login_for_claim">Sign in to your Google account to claim points</string>
+    <string name="incentive_login_success_for_already_claimd">Signed in successfully. Points claimed.</string>
     <string name="incentive_login_tip">Sign in to earn points and get rewards</string>
     <string name="incentive_my_points">My points</string>
     <string name="incentive_popup_window_share">Share to earn points</string>
@@ -836,6 +838,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="item_download_path">Download location</string>
     <string name="item_download_path_setting">Download location settings</string>
     <string name="item_setting_go_back">Withdrawal of consent</string>
+    <string name="item_title_for_search_page_hot">Popular</string>
     <string name="item_title_unknown">Unknown title</string>
     <string name="item_view_role_description">Tab</string>
     <string name="just_a_second">Just a sec…</string>
@@ -1249,6 +1252,7 @@ for videos"</string>
     <string name="nick_name">Nickname</string>
     <string name="night">Evening</string>
     <string name="no_account">Not signed in</string>
+    <string name="no_app_found_error">"Couldn't find app"</string>
     <string name="no_history">No items here</string>
     <string name="no_longer_prompt">"Don't show again"</string>
     <string name="no_more_content">"That's all for now"</string>
@@ -1287,6 +1291,10 @@ for videos"</string>
     <string name="offline_opt_in_title">"Open ad when you're back online."</string>
     <string name="ok">OK</string>
     <string name="online_play_hint">For example: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">Just a sec…</string>
+    <string name="online_play_start_ready_loading_tip_b">Loading %.2f B/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">Loading %.2f KB/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">Loading %.2f MB/s</string>
     <string name="online_play_title">Enter URL</string>
     <string name="open_settings">Go to settings</string>
     <string name="order_alphabet">A-Z</string>
@@ -1788,7 +1796,7 @@ Increase the security of your account."</string>
     <string name="small_video_load_more_hint">Swipe up to play more videos</string>
     <string name="small_video_snack_download_description">Download SnackVideo to see the latest videos from your favorite creators.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">"Discover short videos you'll love"</string>
+    <string name="small_video_tab_expose_hint">Tap for more short videos</string>
     <string name="sms_send_success">Sent successfully</string>
     <string name="sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
     <string name="sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
@@ -2121,6 +2129,12 @@ Increase the security of your account."</string>
     <string name="welcome_tip_into_mivideo">Get started</string>
     <string name="welcome_tip_skip">Skip</string>
     <string name="welcome_tip_title">Welcome to Mi Video</string>
+    <string name="widget_local_video">Local videos</string>
+    <string name="widget_local_video_click">Tap to watch videos stored on your device</string>
+    <string name="widget_more_channel">More channels</string>
+    <string name="widget_more_channel_click">Tap to see TV channels</string>
+    <string name="widget_trending_click">"Tap to see today's most popular videos"</string>
+    <string name="widget_trending_today">Popular today</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
     <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
@@ -2148,6 +2162,7 @@ Increase the security of your account."</string>
     <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
     <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
     <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+    <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
     <string name="year">year</string>
     <string name="yesterday">Yesterday</string>
     <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
