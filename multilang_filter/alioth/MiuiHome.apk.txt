@@ -1,1 +1,0 @@
-Removed: [de] arrays.xml: array/widget_component_add_source (item mismatch)
