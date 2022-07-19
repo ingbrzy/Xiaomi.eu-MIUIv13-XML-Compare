@@ -277,8 +277,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">026175d77db24925833cc93f43736876</string>
-    <string name="com.miapm.build_id">5cb5b53b22b0419b81dfdaf74e5bc280</string>
+    <string name="com.crashlytics.android.build_id">2a91d438e6db4200b248430a2931dd75</string>
+    <string name="com.miapm.build_id">a89f2f496f7e4b5daa576b36711c45e5</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -352,6 +352,8 @@ Mi Video Team"</string>
     <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
     <string name="define_roundedimageview" />
     <string name="description">Description</string>
+    <string name="desktop_widget_local_media">Media files</string>
+    <string name="desktop_widget_new">New</string>
     <string name="detail_select_source">Select playback source</string>
     <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
     <string name="diagnosis_log_sent_format">"Sent logs successfully.
@@ -669,6 +671,7 @@ Send this code to the supervisor."</string>
     <string name="galleryplus_notification_linkvideo_title4">Hundreds of videos, free for a limited time</string>
     <string name="galleryplus_notification_linkvideo_title5">Stream your favorite shows free</string>
     <string name="galleryplus_notification_try_now_btn">Try now</string>
+    <string name="galleryplus_notification_type_link_video">Switching to local videos</string>
     <string name="galleryplus_online_cta">Mi Video needs to connect to the internet to work normally. Agree?</string>
     <string name="galleryplus_online_cta_agree">Agree</string>
     <string name="galleryplus_online_cta_disagree">"Don't agree"</string>
@@ -795,6 +798,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_exchange">Redeem</string>
     <string name="incentive_exchange_code">Code</string>
     <string name="incentive_exchange_code_copy">Copy</string>
+    <string name="incentive_exchange_code_copy_and_start">Use</string>
     <string name="incentive_exchange_details">Details</string>
     <string name="incentive_exchange_details_current">Order total</string>
     <string name="incentive_exchange_details_total">Balance</string>
@@ -820,6 +824,9 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_task_title_novice">For newcomers</string>
     <string name="incentive_task_to_get">Start</string>
     <string name="incentive_task_to_login">Sign in</string>
+    <string name="incentive_toast_share_success_new">Shared successfully</string>
+    <string name="incentive_toast_subscribe_success_new">Subscribed successfully</string>
+    <string name="incentive_ui_tab_earn_credits">Points</string>
     <string name="incentive_view_all_prizes">View all rewards</string>
     <string name="incentive_view_details">Details</string>
     <string name="inconsistent_pwd">"Passwords don't match"</string>
@@ -1281,6 +1288,7 @@ for videos"</string>
     <string name="notification_recall_desc">Mi Video can notify you about popular videos and your subscriptions.</string>
     <string name="notification_recall_title">Turn on notifications</string>
     <string name="notification_tool">Toolbox</string>
+    <string name="notification_type_channel_music">Music playback</string>
     <string name="notify_apk_installed">Downloaded successfully</string>
     <string name="offline_notification_text">Tap to open ad</string>
     <string name="offline_notification_title">View the ad you saved when you were offline</string>
