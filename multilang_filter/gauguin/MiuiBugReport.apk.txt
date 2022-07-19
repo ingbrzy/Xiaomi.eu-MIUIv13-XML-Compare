@@ -1,1 +1,0 @@
-Removed: [pl] strings.xml: string/passport_retry (duplicate)
