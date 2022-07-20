@@ -156,7 +156,7 @@
     <string name="app_library_category_social">Social</string>
     <string name="app_library_category_utility">Tools</string>
     <string name="app_library_title">Apps</string>
-    <string name="app_name">MiGlobalAdSdk</string>
+    <string name="app_name">ConvenientBanner</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Camera</string>
     <string name="app_name_downloadedrom">Packages</string>
@@ -371,11 +371,9 @@ Toggle off to stop syncing."</string>
     <string name="branch_app_suggestion">Recommended</string>
     <string name="branch_apps">Apps</string>
     <string name="branch_contacts">Contacts</string>
-    <string name="branch_function_search_for_more">Enhanced search lets you find items in Settings, Contacts, Messaging, and more.</string>
     <string name="branch_give_relevant_permissions">Grant Mi Browser the relevant permissions in Settings</string>
     <string name="branch_grant_permission">Permissions required</string>
     <string name="branch_local_search_settings">Local search settings</string>
-    <string name="branch_new_function">New feature</string>
     <string name="branch_search_guide_privacy">"This feature is provided by Branch Metrics Inc. We'll share your location, searches, and Google Ads ID with them. Read and agree to their "<font color="#B3000000"><a href="http://url1">Terms and Conditions</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before you continue.</string>
     <string name="branch_search_in_browser">Search \"%1$s\" in Browser</string>
     <string name="branch_setting">Settings</string>
@@ -394,7 +392,6 @@ Toggle off to stop syncing."</string>
     <string name="brvah_loading">正在加载中...</string>
     <string name="btn_agree">Agree</string>
     <string name="btn_cancel">Cancel</string>
-    <string name="btn_confirm">Got it</string>
     <string name="camera_permission_name">Use camera</string>
     <string name="can_not_send_with_too_many">"Can't send that many items at once"</string>
     <string name="cancel">Cancel</string>
@@ -577,7 +574,7 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">82f334583c264e2b9a85d9fdd5cc67f9</string>
+    <string name="com.crashlytics.android.build_id">c3d9033a6b914b1ab71b0ee21075e295</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -674,6 +671,7 @@ Toggle off to stop syncing."</string>
     <string name="continue_reading">Continue reading</string>
     <string name="copy">Copy</string>
     <string name="copy_url">Copy URL</string>
+    <string name="core_functions_of_browser">Core features at your fingertips</string>
     <string name="could_not_load_data">"Couldn't load data, refresh and try again"</string>
     <string name="crash_page_button">Try again</string>
     <string name="crash_page_description">Something went wrong while displaying this webpage.</string>
@@ -895,6 +893,7 @@ Send this code to the supervisor."</string>
     <string name="encrypt_success">Hidden successfully</string>
     <string name="encrypting">Encrypting…</string>
     <string name="end_user_license">End User License Agreement</string>
+    <string name="enter_bookmark">Bookmarks</string>
     <string name="enter_developer_mode">Enter developer mode</string>
     <string name="enter_incongnito_mode">Enter Incognito mode</string>
     <string name="enter_news_by_pull_down">Release to open Content feed</string>
@@ -1291,6 +1290,7 @@ Send this code to the supervisor."</string>
     <string name="go_me">Profile</string>
     <string name="go_supermarket_button">Go</string>
     <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
+    <string name="go_to_tab">Tabs</string>
     <string name="gold_medals">Gold medals</string>
     <string name="google_api_key">AIzaSyD6502EGJiHul9iZRGoMOeuDEfZ1_DRdKE</string>
     <string name="google_app_id">1:687676053922:android:f97a4ef64ec6c5fedffafb</string>
@@ -1827,7 +1827,6 @@ Leave this page now?"</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancel</string>
     <string name="navigationbar_rightbutton_actiontext_go">Go</string>
     <string name="navigationbar_rightbutton_actiontext_search">Search</string>
-    <string name="need_provide_permissions">"You'll need to grant the relevant permissions to be able to use this feature."</string>
     <string name="net_error">Network error</string>
     <string name="net_error__button_text">Try again</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
@@ -2040,6 +2039,7 @@ Leave this page now?"</string>
     <string name="per_month">Per month</string>
     <string name="permission_agree_service">"I've read and agreed to all of the following terms and conditions."</string>
     <string name="permission_alert_window">Allow Browser to display floating windows to be able to use this feature.</string>
+    <string name="permission_allow">Allow</string>
     <string name="permission_contacts">Contacts</string>
     <string name="permission_deeplink_tip_title">Allow this page to open %s?</string>
     <string name="permission_dialog_msg_camera">%s wants to use your camera</string>
@@ -2063,9 +2063,11 @@ Leave this page now?"</string>
     <string name="permission_open_location">Allow Mi Browser to access your location in the Settings first</string>
     <string name="permission_open_mic">Allow Mi Browser to access microphone in the Settings first</string>
     <string name="permission_open_storage">Allow Mi Browser to access internal storage in the Settings first</string>
+    <string name="permission_request_contacts">This feature requires permission to access your contacts to be able to work normally.</string>
     <string name="permission_service">Terms and conditions</string>
     <string name="permission_sound_toast_message">Playing audio…</string>
     <string name="permission_storage">Storage</string>
+    <string name="permission_to_open">Settings</string>
     <string name="permission_unknown">An error occurred.</string>
     <string name="permission_use">Permissions</string>
     <string name="permisssion_not_ask_again">"Don't ask again"</string>
@@ -2993,6 +2995,8 @@ Try to modify your keyword?"</string>
     <string name="search_trending_new">New</string>
     <string name="search_trending_title">Trending</string>
     <string name="search_tupian">Image</string>
+    <string name="search_using_traceless_mode">Incognito mode</string>
+    <string name="search_with_browser">Search with Mi Browser</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Download in App Store</string>
@@ -3047,6 +3051,7 @@ Try to modify your keyword?"</string>
     <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Look what I shared: %1$s</string>
     <string name="shear_plate_permission_name">Access or save items to clipboard</string>
+    <string name="shortcut_function">Shortcuts</string>
     <string name="shortcuts_boost_speed">Boost speed</string>
     <string name="shortcuts_cleanup_cache">Cleaner</string>
     <string name="shortcuts_cleanup_memory">Clear cache</string>
