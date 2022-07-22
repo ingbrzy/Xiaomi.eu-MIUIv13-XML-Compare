@@ -1,4 +1,6 @@
 Removed: [cs-rCZ] arrays.xml: array/organized_languages_international (item mismatch)
+Removed: [it-rIT] arrays.xml: array/process_camera_boost_protect_list (item mismatch)
+Removed: [it-rIT] arrays.xml: array/process_display_size_protect_list (item mismatch)
 Removed: [it-rIT] arrays.xml: array/white_list_device (item mismatch)
 Removed: [it-rIT] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
 Removed: [ko] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
