@@ -47,6 +47,7 @@
     <string name="ad_app_is_downloading">Downloading…</string>
     <string name="ad_begin_to_download_tip">Starting to download…</string>
     <string name="ad_begin_to_install_tip">Installing…</string>
+    <string name="ad_close">Closed this ad</string>
     <string name="ad_closed_tip">"You'll see fewer ads of this type"</string>
     <string name="ad_details">Details</string>
     <string name="ad_download_download">Download</string>
@@ -222,8 +223,10 @@
     <string name="classification_more_understand_you">Select your favorite category</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="clock">Install Clock</string>
     <string name="close">Close</string>
     <string name="close_custom_permission_warning_text">"Without storage permissions, this app won't be able to download items and personalize your device. Turn off anyway?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">"Without storage permissions, this app won't be able to personalize your device. Turn off anyway?"</string>
     <string name="common_applying">Applying…</string>
     <string name="common_downloading">Downloading…</string>
     <string name="common_format_date_no_year">MM/dd</string>
@@ -258,7 +261,9 @@
     <string name="current_version">Current version: %1$s</string>
     <string name="current_version_incompatible">Not compatible</string>
     <string name="custom_storage_permission_desc">To be able to change personalization preferences and save downloaded items, allow this feature to access storage first. You can grant this permission in Settings > Privacy.</string>
+    <string name="custom_storage_permission_desc_above_eleven">To be able to change personalization preferences, allow this feature to access storage first. You can grant this permission in Settings.</string>
     <string name="custom_theme">name,id</string>
+    <string name="custom_widget">Recommended widgets</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -295,6 +300,7 @@
     <string name="de_more_info">More</string>
     <string name="de_more_resource">Swipe to view more</string>
     <string name="de_no_more_recommendations">"That's all for now."</string>
+    <string name="de_order">第%1$d个</string>
     <string name="de_preview">Preview</string>
     <string name="de_redeem">Redeem</string>
     <string name="de_resource_author">Author (%1$s)</string>
@@ -608,6 +614,7 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="incompatible_dialog_message">"This theme isn't fully compatible with this version of MIUI yet. Some pages might not work properly."</string>
     <string name="incompatible_dialog_ok">Got it</string>
     <string name="incompatible_dialog_title">Compatibility issues</string>
+    <string name="install_clock">"You haven't installed Clock yet. Download now?"</string>
     <string name="install_failed">"Couldn't install"</string>
     <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
     <string name="item_resource_audio_divider">│</string>
@@ -619,6 +626,7 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="kuyin_user_agreement_content">Custom ringtone subscriptions are provided by iFlytek. You must agree to %s before using custom ringtone subscriptions. Agree?</string>
     <string name="kuyin_user_agreement_content_href">iFlytek Privacy Policy</string>
     <string name="lab">Themes lab</string>
+    <string name="label">Label</string>
     <string name="like_list">My likes</string>
     <string name="live_wallpaper">Dynamic wallpapers</string>
     <string name="load_from_local_photos">Gallery</string>
@@ -650,7 +658,22 @@ Tap to turn off."</string>
     <string name="lockstyle_personal_settings">Customize</string>
     <string name="login_theme">Sign in to Themes</string>
     <string name="long_click_can_hide_resource">Press and hold to hide items</string>
-    <string name="marketSdkVersion">3.2.9</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
+    <string name="marketSdkVersion">3.2.13</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_hour_selection">Select hour</string>
@@ -812,7 +835,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select Date</string>
     <string name="mtrl_picker_date_header_unselected">Selected date</string>
@@ -839,6 +862,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">This ringtone will be applied for both SIM cards.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">The ringtone is applied to both SIM cards.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Got it</string>
@@ -859,6 +883,8 @@ mm"</string>
     <string name="no_net_work_connection">Check your network settings and try again.</string>
     <string name="no_network_desc">"Couldn't connect to the network"</string>
     <string name="no_network_please_retry">Check your network settings and try again</string>
+    <string name="no_used_title">no used</string>
+    <string name="no_used_wallpaper">no used</string>
     <string name="no_wallpaper">No items here yet</string>
     <string name="noon">Midday</string>
     <string name="not_allow">Not granted</string>
@@ -912,7 +938,9 @@ View and use the items you purchased or added to favorites."</string>
     <string name="personalize_title">Wallpaper and personalization</string>
     <string name="personalize_wallpaper_sub_title">Super wallpapers and featured images</string>
     <string name="personalize_wallpaper_title">Wallpaper</string>
+    <string name="personalized_bottom_card_image_bias">w,124:115</string>
     <string name="personalized_cta_content_text">Welcome to Themes! You can use this app to manage your wallpapers, ringtones, fonts, and more.</string>
+    <string name="personalized_wp_entrance_image_bias">w,108:367</string>
     <string name="phone_exit_theme_warning_content">"You won't be able to perform the following actions after you sign out:
 1. View and use the items you purchased or added to favorites.
 2. Add comments and likes, follow other people and interact with them."</string>
@@ -999,6 +1027,7 @@ All the personalization items currently used on this device. Default personaliza
     <string name="privacy_phone_logoff_theme_service_detail_title">Read and agree to the \"Statement on the Cancelation of Themes Services\" before canceling our services.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"You're about to cancel Themes services."</string>
     <string name="privacy_phone_read_and_write_storage">Access storage</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Access storage</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancelation of Themes Services&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the Privacy Policy of Themes&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
@@ -1245,6 +1274,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="resource_search_color_hint_purple">Purple</string>
     <string name="resource_search_color_hint_red">Red</string>
     <string name="resource_search_color_hint_yellow">Yellow</string>
+    <string name="resource_search_history">Search history</string>
     <string name="resource_search_list_empty">"Didn't find anything."</string>
     <string name="resource_see_more">Show all</string>
     <string name="resource_select">Select</string>
@@ -1323,9 +1353,8 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="selected_resource_file_invalid">"Can't use selected resource file"</string>
     <string name="send">Send</string>
     <string name="server_internal_error">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="service_btn_text_know">知道啦</string>
-    <string name="service_btn_text_try">试试看</string>
     <string name="set_as_colorring">Set as custom ringing tone</string>
+    <string name="set_calling">Set</string>
     <string name="set_color_ring_back_tone">Set a custom ringback tone</string>
     <string name="set_home_wallpaper_failed">"%s. Can't apply Home screen wallpaper."</string>
     <string name="set_wallpaper_group_success">Applied \"%1$s\" wallpaper successfully</string>
@@ -1441,6 +1470,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">For accessing IMEI and providing download services</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Access device ID to identify your device</string>
     <string name="system_cta_runtime_perm_desc_storage">For using the items stored on your device for personalization and saving purchased items</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">For changing personalization preferences</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">For using the items stored on your device for personalization and saving purchased items</string>
     <string name="system_precust">Pre-installed</string>
     <string name="tag_ad">Ad</string>
@@ -1605,6 +1635,16 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="title_system_audio_resource">System ringtones</string>
     <string name="title_system_wallpaper_resource">System wallpapers</string>
     <string name="to_activate_the_account">Activate your Mi Account now</string>
+    <string name="toast_both_all_apply_failured">"Couldn't apply to Home or Lock screen"</string>
+    <string name="toast_both_all_apply_success">Applied to Home and Lock screens successfully</string>
+    <string name="toast_home_apply_failured">"Couldn't apply to Home screen"</string>
+    <string name="toast_home_apply_success">Applied to Home screen successfully</string>
+    <string name="toast_lockscreen_apply_failured">"Couldn't apply to Lock screen"</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Applied to Home screen successfully. Couldn't apply to Lock screen."</string>
+    <string name="toast_lockscreen_apply_success">Applied to Lock screen successfully</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">"Applied to Lock screen successfully. Couldn't apply to Home screen."</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">"Couldn't apply"</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Applied successfully</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="trans_wallpaper_offline_notice">"Transparent wallpapers aren't available"</string>
@@ -1686,7 +1726,10 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="wallpaper_24h">24H</string>
     <string name="wallpaper_apply">Apply</string>
     <string name="wallpaper_apply_full">All</string>
+    <string name="wallpaper_apply_inner">Apply to inner screen</string>
     <string name="wallpaper_apply_large">Inner screen</string>
+    <string name="wallpaper_apply_outer">Apply to outer screen</string>
+    <string name="wallpaper_apply_outer_and_inner">Apply to inner and outer screens</string>
     <string name="wallpaper_apply_pcmode">Set PC mode wallpaper</string>
     <string name="wallpaper_apply_small">Outer screen</string>
     <string name="wallpaper_crop">Crop</string>

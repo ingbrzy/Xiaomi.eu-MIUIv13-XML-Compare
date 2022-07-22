@@ -269,12 +269,12 @@
     <string-array name="set_video_wallpaper_three_items">
         <item>@string/wallpaper_set_as_lockscreen</item>
         <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_set_as_both</item>
+        <item>@string/wallpaper_apply_full</item>
     </string-array>
     <string-array name="set_video_wallpaper_three_items_with_incall">
         <item>@string/wallpaper_set_as_lockscreen</item>
         <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_set_as_both</item>
+        <item>@string/wallpaper_apply_full</item>
         <item>@string/wallpaper_set_as_incall_show</item>
     </string-array>
     <string-array name="set_wallpaper_loop_interval">
@@ -307,11 +307,11 @@
     </string-array>
     <string-array name="set_wallpaper_two_items">
         <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_set_as_both</item>
+        <item>@string/wallpaper_apply_full</item>
     </string-array>
     <string-array name="set_wallpaper_two_items_with_incall">
         <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_set_as_both</item>
+        <item>@string/wallpaper_apply_full</item>
         <item>@string/wallpaper_set_as_incall_show</item>
     </string-array>
     <string-array name="solar_terms">
@@ -349,8 +349,15 @@
         <item>@string/system_cta_runtime_perm_desc_read_phone_state</item>
         <item>@string/system_cta_runtime_perm_desc_storage</item>
     </string-array>
+    <string-array name="system_cta_runtime_perm_desc_above_eleven">
+        <item>@string/system_cta_runtime_perm_desc_read_phone_state</item>
+        <item>@string/system_cta_runtime_perm_desc_storage_above_eleven</item>
+    </string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state">
         <item>@string/system_cta_runtime_perm_desc_storage</item>
+    </string-array>
+    <string-array name="system_cta_runtime_perm_desc_non_phone_state_above_eleven">
+        <item>@string/system_cta_runtime_perm_desc_storage_above_eleven</item>
     </string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state_install_app">
         <item>@string/system_cta_runtime_perm_desc_storage</item>

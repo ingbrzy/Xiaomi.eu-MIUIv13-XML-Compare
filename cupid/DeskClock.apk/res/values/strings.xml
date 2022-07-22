@@ -64,7 +64,6 @@
     <string name="alarmclock_empty_text">No alarms</string>
     <string name="alarmclock_silent_hint">Alarm is silenced</string>
     <string name="alert">Ringtone</string>
-    <string name="alert_page_desc">Press and hold, then swipe up to turn off the alarm</string>
     <string name="alert_ringtone">Alarm ringtone</string>
     <string name="alert_vibrate_enable_summary">Vibrate when alarm goes off</string>
     <string name="alert_volume">Ringtone volume</string>
@@ -73,6 +72,7 @@
     <string name="already_exist">This timer already exists</string>
     <string name="am">AM</string>
     <string name="analog_gadget">Analog clock</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Clock</string>
     <string name="app_name">MiuiSettingsCommonLib</string>
     <string name="auto_silence_never">Never</string>
@@ -400,6 +400,8 @@
     <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
     <string name="menu_item_sort_by_name">Sort by name</string>
     <string name="midnight">Night</string>
+    <string name="miuix_access_state_desc">Selected</string>
+    <string name="miuix_alphabet_indexer_name">Index bar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
@@ -414,6 +416,8 @@
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">Selected %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
@@ -841,6 +845,8 @@
     <string name="week_ringtone_recommend_desc">Nature alarm plays different sounds depending on the date. Set it as your default alarm?</string>
     <string name="white_noise">Ambient noise</string>
     <string name="white_noise_guide_desc">Add a background sound to keep you focused</string>
+    <string name="white_noise_not_selected">Not selected</string>
+    <string name="white_noise_selected">Selected</string>
     <string name="white_noise_selector">Select audio</string>
     <string name="workday_alarm_clock">Workday alarm</string>
     <string name="worldclock_edit_label">World clock</string>
