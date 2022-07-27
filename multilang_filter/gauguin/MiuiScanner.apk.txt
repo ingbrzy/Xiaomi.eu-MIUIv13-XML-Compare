@@ -1,3 +1,1 @@
 Removed: [it] strings.xml: string/impunity_declaration_content (format mismatch)
-Removed: [sk] strings.xml: string/scan_document_top_tip (duplicate)
-Removed: [sk] strings.xml: string/scan_document_top_tip_second (duplicate)
