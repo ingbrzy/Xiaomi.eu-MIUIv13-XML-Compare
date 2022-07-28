@@ -18,7 +18,6 @@ Removed: [my-rMM] plurals.xml: plurals/le_notification_download_completed (forma
 Removed: [nb] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [nl] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [ro] plurals.xml: plurals/le_notification_download_completed (format mismatch)
-Removed: [ru] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [sl] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [sr] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [sv] plurals.xml: plurals/le_notification_download_completed (format mismatch)
