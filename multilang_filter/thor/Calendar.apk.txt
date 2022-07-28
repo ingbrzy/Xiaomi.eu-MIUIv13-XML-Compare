@@ -1,0 +1,1 @@
+Removed: [pt-rPT] strings.xml: string/birthday_event_title (format mismatch)
