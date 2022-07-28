@@ -1,8 +1,0 @@
-Removed: [sk] strings.xml: string/add_new_sound (duplicate)
-Removed: [sk] strings.xml: string/confirm_remove_custom_ringtone (duplicate)
-Removed: [sk] strings.xml: string/custom_ringtone_lost_permissions (duplicate)
-Removed: [sk] strings.xml: string/device_sounds (duplicate)
-Removed: [sk] strings.xml: string/unknown_ringtone_title (duplicate)
-Removed: [sk] strings.xml: string/xiaomi_deskclock_uninstall_description_content (duplicate)
-Removed: [sk] strings.xml: string/xiaomi_deskclock_uninstall_description_title (duplicate)
-Removed: [sk] strings.xml: string/your_sounds (duplicate)
