@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Accept</string>
+    <string name="config_wifiCertInstallationHelpLink">https://support.google.com/pixelphone/answer/2844832</string>
     <string name="config_wifiCoexTableFilepath">/vendor/etc/wifi/coex_table.xml</string>
+    <string name="config_wifiDriverWorldModeCountryCode">00</string>
     <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
     <string name="config_wifiSoftap2gChannelList">1-11</string>
     <string name="config_wifiSoftap5gChannelList" />
@@ -23,6 +25,44 @@
     <string name="wifi_available_title_connected">Connected to Wi‑Fi network</string>
     <string name="wifi_available_title_connecting">Connecting to Wi‑Fi network</string>
     <string name="wifi_available_title_failed_to_connect">Could not connect to Wi‑Fi network</string>
+    <string name="wifi_ca_cert_dialog_abort_text">"No, don't connect"</string>
+    <string name="wifi_ca_cert_dialog_continue_text">Yes, connect</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"Contact:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"Only allow this network to connect if the information below looks correct.
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Issuer Name:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"Organization:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"Server Name:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Signature:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">"Don't connect"</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Connect anyway</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">The network %1$s is missing a certificate.</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">Learn how to add certificates</string>
+    <string name="wifi_ca_cert_dialog_preT_title">"Can't verify this network"</string>
+    <string name="wifi_ca_cert_dialog_title">Is this network trusted?</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">Certificate installation failed.</string>
+    <string name="wifi_ca_cert_notification_message">Review network details for %1$s before connecting. Tap to continue.</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">"Don't connect"</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">Connect anyway</string>
+    <string name="wifi_ca_cert_notification_preT_message">The network %1$s is missing a certificate. Tap to learn how to add certificates.</string>
+    <string name="wifi_ca_cert_notification_preT_title">"Can't verify this network"</string>
+    <string name="wifi_ca_cert_notification_title">Network needs to be verified</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Tap to change privacy settings and retry</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">"Can't connect to %1$s"</string>
     <string name="wifi_connect_alert_message">Application %1$s would like to connect to Wifi Network %2$s</string>
@@ -36,6 +76,9 @@ This change may allow your device's location to be tracked by nearby devices."</
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Network not found</string>
     <string name="wifi_disable_mac_randomization_dialog_success">Setting updated. Try connecting again.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">Change privacy setting?</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s : EAP authentication error 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s : EAP authentication error 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s : EAP authentication error 32756</string>
     <string name="wifi_eap_error_message_code_32760">%1$s : EAP authentication error 32760</string>
     <string name="wifi_eap_error_message_code_32761">%1$s : EAP authentication error 32761</string>
     <string name="wifi_eap_error_message_code_32762">%1$s : EAP authentication error 32762</string>
@@ -43,6 +86,17 @@ This change may allow your device's location to be tracked by nearby devices."</
     <string name="wifi_eap_error_message_code_32764">%1$s : EAP authentication error 32764</string>
     <string name="wifi_eap_error_message_code_32765">%1$s : EAP authentication error 32765</string>
     <string name="wifi_eap_error_message_code_32766">%1$s : EAP authentication error 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s : EAP authentication error 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s : EAP authentication error, unknown error code</string>
+    <string name="wifi_enable_request_dialog_message">You can turn off Wi‑Fi in Quick Settings</string>
+    <string name="wifi_enable_request_dialog_negative_button">"Don't allow"</string>
+    <string name="wifi_enable_request_dialog_positive_button">Allow</string>
+    <string name="wifi_enable_request_dialog_title">Allow %1$s to turn on Wi‑Fi?</string>
+    <string name="wifi_interface_priority_approve">Allow</string>
+    <string name="wifi_interface_priority_message">This may cause problems for %3$s.</string>
+    <string name="wifi_interface_priority_message_plural">This may cause problems for these apps: %3$s.</string>
+    <string name="wifi_interface_priority_reject">"Don't allow"</string>
+    <string name="wifi_interface_priority_title">%1$s wants to use a networking resource</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
     <string name="wifi_p2p_enter_pin_message">Type the required PIN:</string>
     <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from Wi-Fi while it's connected to %1$s"</string>
