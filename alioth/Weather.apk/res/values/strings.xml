@@ -395,7 +395,12 @@
     <string name="indices_title_chance_of_rain">Chance of rain</string>
     <string name="indices_title_feel">Real feel</string>
     <string name="indices_title_pressure">Pressure</string>
+    <string name="indices_title_uv">UV</string>
     <string name="indices_title_wind_speed">Wind speed</string>
+    <string name="indices_wind_direction_east">E</string>
+    <string name="indices_wind_direction_north">N</string>
+    <string name="indices_wind_direction_south">S</string>
+    <string name="indices_wind_direction_west">W</string>
     <string name="information_settings_title">Weather info</string>
     <string name="install_progress">%1$s%%</string>
     <string name="international_details_chance_of_rain">@string/indices_title_chance_of_rain</string>
@@ -565,6 +570,8 @@
     <string name="send">Send</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="setting_notification_manager">Notifications</string>
+    <string name="setting_used_to_push_reminder">Receive weather alerts and warnings</string>
     <string name="settings">Settings</string>
     <string name="settings_atmospheric_pressure_atm">Standard atmosphere (atm)</string>
     <string name="settings_atmospheric_pressure_default">0</string>
