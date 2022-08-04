@@ -18,7 +18,6 @@ Removed: [my-rMM] strings.xml: string/app_running_tip_dialog_text (format mismat
 Removed: [nb] strings.xml: string/app_running_tip_dialog_text (format mismatch)
 Removed: [nl] strings.xml: string/app_running_tip_dialog_text (format mismatch)
 Removed: [ro] strings.xml: string/app_running_tip_dialog_text (format mismatch)
-Removed: [ru] strings.xml: string/power_center_dialog_msg_title_screen_on (format mismatch)
 Removed: [sk] arrays.xml: array/date_of_traffic_prefix_cmcc (item mismatch)
 Removed: [sk] strings.xml: string/gb_predownload_noti_message (format mismatch)
 Removed: [sr] strings.xml: string/app_running_tip_dialog_text (format mismatch)
