@@ -1652,6 +1652,7 @@ are available"</string>
     <string name="home_menu_camera">Show only Camera items</string>
     <string name="home_menu_cleaner">Free up space</string>
     <string name="home_menu_collage">Collage</string>
+    <string name="home_menu_community">@string/assistant_page_community</string>
     <string name="home_menu_id_photo">ID</string>
     <string name="home_menu_macarons">Magic vignette</string>
     <string name="home_menu_magic_matting">Cutout</string>
