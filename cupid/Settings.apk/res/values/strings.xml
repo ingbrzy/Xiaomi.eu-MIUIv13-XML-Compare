@@ -2480,8 +2480,6 @@ Tap \"Wipe and convert…\" to continue."</string>
     <string name="copyable_slice_toast">%1$s copied to clipboard.</string>
     <string name="copyright">Copyright</string>
     <string name="copyright_title">Copyright</string>
-    <string name="corner_assistant_gesture_summary">Swipe up from bottom-left or bottom-right corner to wake Google Assistant</string>
-    <string name="corner_assistant_gesture_title">Swipe up from corner for Google Assistant</string>
     <string name="country_name">%s (system)</string>
     <string name="create">Create</string>
     <string name="creating_new_user_dialog_message">Creating new user…</string>
