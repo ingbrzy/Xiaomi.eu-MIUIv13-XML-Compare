@@ -1,1 +1,0 @@
-Removed: [gl-rES] strings.xml: string/privacy_policy_reject_confirm_msg (format mismatch)
