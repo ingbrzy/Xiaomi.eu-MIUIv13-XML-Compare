@@ -115,6 +115,7 @@
     <string name="adblock_rules_updated_toast">Updated successfully</string>
     <string name="adblock_websites_settings_empyt_hint">"You haven't blocked any sites."</string>
     <string name="adblock_websites_settings_title">Blocked sites</string>
+    <string name="add">Add</string>
     <string name="add_bookmark_group">Add group</string>
     <string name="add_bookmarks">Bookmarks</string>
     <string name="add_bookshelf_popup_text">Added to bookshelf</string>
@@ -131,6 +132,7 @@
     <string name="add_shortcut">Add shortcut</string>
     <string name="add_shortcut_success">Added shortcut successfully</string>
     <string name="add_to_bookmark">Bookmarks</string>
+    <string name="add_to_desktop">Add to Home screen</string>
     <string name="add_to_quicklink">Start page</string>
     <string name="add_to_trust_device">This is a trusted device</string>
     <string name="added_to_bookmarks">Added to bookmarks</string>
@@ -531,12 +533,14 @@ Toggle off to stop syncing."</string>
     <string name="choose_to_signin">Yes</string>
     <string name="choose_to_signup">"No, I'll create one"</string>
     <string name="choosertitle_sharevia">Share via</string>
+    <string name="clear">Clear</string>
     <string name="clear_history">Clear history</string>
     <string name="clear_most_visited">Recent history</string>
     <string name="clear_search_history">Clear history</string>
     <string name="clear_transfer_summary">Clear system settings flags, so you can re-transfer</string>
     <string name="clear_transfer_title">Clear transfer flags</string>
     <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="cleared_garbage">Cleared %d MB of trash</string>
     <string name="click_always">Tap \"Always\"</string>
     <string name="click_to_refresh">Stopped here last time, tap to refresh</string>
     <string name="clip_dialog_title">Open the copied URL?</string>
@@ -574,7 +578,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">c3d9033a6b914b1ab71b0ee21075e295</string>
+    <string name="com.crashlytics.android.build_id">e1d166859e7b4048805a1d57a2a15069</string>
+    <string name="com.miapm.build_id">64d08daae81c4b78a8b5fc91ed6f8263</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -746,6 +751,8 @@ Send this code to the supervisor."</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Just a sec…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Release to refresh</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Replay</string>
+    <string name="doc_viewer_label">Reader (Mi Browser)</string>
+    <string name="doc_viewer_open_out_file_prompt">To open and view a file received from external sources, this app needs to create a copy of the file first. Continue?</string>
     <string name="document_download_background_btn">Download in background</string>
     <string name="document_download_cancel_btn">Cancel</string>
     <string name="document_download_failed">"Couldn't download"</string>
@@ -1027,6 +1034,7 @@ Send this code to the supervisor."</string>
     <string name="file_type">Format: %s</string>
     <string name="filename_empty_alert_message">Enter file name</string>
     <string name="filename_illegal_alert_message">An invalid character was removed from the file name</string>
+    <string name="find_garbage">Found %d MB of trash</string>
     <string name="find_new_version">NEW UPDATE AVAILABLE</string>
     <string name="find_on_page_cancel">Cancel</string>
     <string name="find_on_page_hint">Search page</string>
@@ -1157,6 +1165,9 @@ Send this code to the supervisor."</string>
     <string name="general__end_page_same_authors">Same author</string>
     <string name="general__end_page_summary">Summary: %s</string>
     <string name="general__exempt_30_minute_ad">Watch a small video, free of up to 30 minutes of advertising</string>
+    <string name="general__fiction_horz_slide_to_see_title_page">Swipe to start reading</string>
+    <string name="general__fiction_slide_menu">Chapters</string>
+    <string name="general__fiction_slide_up_to_see_title_page">Swipe up to start reading</string>
     <string name="general__make_purchase_hint">One bonus is equal to one coin. Bonuses are valid for 15 days and will be used before coins to unlock chapters.</string>
     <string name="general__make_purchase_rule_reminder">Attention</string>
     <string name="general__make_purchase_total">Total amount: %1$d = %2$s + %3$s</string>
@@ -1484,6 +1495,7 @@ Send this code to the supervisor."</string>
     <string name="menu_title_resume_all">Start all</string>
     <string name="messenger_send_button_text">Send</string>
     <string name="mi_browser">@string/application_name</string>
+    <string name="mi_browser_clean_up_garbage">Mi Browser is clearing trash…</string>
     <string name="midi_permission_name">Control MIDI devices</string>
     <string name="midnight">Night</string>
     <string name="mint_games">Trending games</string>
@@ -1900,6 +1912,7 @@ Leave this page now?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Media</string>
+    <string name="notification_category_stickcard">StickCard</string>
     <string name="notification_download_completed">Downloaded successfully</string>
     <string name="notification_download_failed">"Couldn't download."</string>
     <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
@@ -2266,6 +2279,7 @@ Leave this page now?"</string>
     <string name="phone_hint">Phone number</string>
     <string name="phone_num_use_for">Phone number is used for:</string>
     <string name="phone_number">Phone number</string>
+    <string name="phone_very_clean">No trash</string>
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pick_file">Choose files</string>
     <string name="ping_test_title">Network delay</string>
@@ -3239,6 +3253,7 @@ Try to modify your keyword?"</string>
     <string name="subscribe_success">Subscribed successfully</string>
     <string name="subscription_status_error">"Couldn't subscribe"</string>
     <string name="subscriptions_title">Manage your subscription</string>
+    <string name="successfully_added">Added successfully</string>
     <string name="suggest_access_appstore">Mi App Store</string>
     <string name="suggest_access_btn_install">Install</string>
     <string name="suggest_access_btn_open">Open</string>
