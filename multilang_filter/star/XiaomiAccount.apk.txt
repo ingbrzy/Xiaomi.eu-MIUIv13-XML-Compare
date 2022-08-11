@@ -1,1 +1,0 @@
-Removed: [sk] strings.xml: string/user_agreement_network_permission_msg (duplicate)
