@@ -346,6 +346,7 @@
         <item>venus</item>
         <item>renoir</item>
         <item>odin</item>
+        <item>redwood</item>
     </string-array>
     <string-array name="device_on_platform_x450">
         <item>zeus</item>
@@ -1483,6 +1484,7 @@
         <item>com.yuwan.tmshipin</item>
         <item>com.tencent.gamehelper.smoba</item>
         <item>com.mybank.android.phone</item>
+        <item>com.sankuai.meituan</item>
     </string-array>
     <string-array name="list_about_support_landscape_video">
         <item>com.hunantv.imgo.activity</item>
@@ -3130,6 +3132,7 @@
         <item>com.tencent.mm</item>
         <item>com.android.incallui</item>
         <item>android</item>
+        <item>com.duowan.kiwi</item>
     </string-array>
     <string-array name="show_hidden_task_if_finished_white_list_activity">
         <item>com.qzonex.component.outbox.OutboxActivity</item>

@@ -69,6 +69,8 @@
     <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_title">Auto-rotate screen</string>
+    <string name="accept_new_connection">Allow new connections</string>
+    <string name="accept_new_connection_detail">New bluetooth connections have been turned off from control center</string>
     <string name="access_control_app_entry_multiple">Open %s</string>
     <string name="access_control_app_entry_single">Open app</string>
     <string name="access_control_need_password">"%s has been protected
@@ -1895,6 +1897,7 @@ You can turn this feature off in the Settings > Bluetooth > Paired devices."</st
     <string name="bt_absVolume_open_dialog_title">Attention</string>
     <string name="bt_absVolume_pre_title">Absolute volume</string>
     <string name="bt_absVolume_summary">"Keep the volume of Bluetooth devices and the phone strictly consistent. You can turn this feature on and off when media isn't playing in the background."</string>
+    <string name="bt_always_show_icon">Always show bluetooth icon on status bar</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive will provide high-quality playback and decrease audio latency for games and video while increasing power consumption. Playback may be stuttered due to Bluetooth hardware limitations and environmental interferance.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Switch to aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Fix audio issues</string>
@@ -2576,8 +2579,6 @@ Tap \"Wipe and convert…\" to continue."</string>
     <string name="copyable_slice_toast">%1$s copied to clipboard.</string>
     <string name="copyright">Copyright</string>
     <string name="copyright_title">Copyright</string>
-    <string name="corner_assistant_gesture_summary">Swipe up from bottom-left or bottom-right corner to wake Google Assistant</string>
-    <string name="corner_assistant_gesture_title">Swipe up from corner for Google Assistant</string>
     <string name="country_name">%s (system)</string>
     <string name="create">Create</string>
     <string name="creating_new_user_dialog_message">Creating new user…</string>
@@ -4245,7 +4246,7 @@ The area where you can confirm your screen lock will move to the right."</string
     <string name="gxzw_quick_open_slow_summary">Press and hold the fingerprint icon to open shortcut menu. Swipe to use a shortcut.</string>
     <string name="gxzw_quick_open_slow_title">Press and hold</string>
     <string name="gxzw_quick_open_title">Shortcuts</string>
-    <string name="gxzw_vibrate_summary">Vibrate while Fingerprint unlock animation is played</string>
+    <string name="gxzw_vibrate_summary">"Vibration won't occur when no fingerprint animation is selected"</string>
     <string name="gxzw_vibrate_title">Vibrate while unlocking</string>
     <string name="handy_mode">One-handed mode</string>
     <string name="handy_mode_enable">One-handed mode</string>
@@ -5821,6 +5822,7 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Noise cancellation</string>
     <string name="miheadset_openAnc2">Noise cancellation</string>
+    <string name="miheadset_open_closeAnc">Noise cancellation on/off</string>
     <string name="miheadset_play_pause">Play/Pause</string>
     <string name="miheadset_plus">Volume up</string>
     <string name="miheadset_preferences">Preferences</string>
