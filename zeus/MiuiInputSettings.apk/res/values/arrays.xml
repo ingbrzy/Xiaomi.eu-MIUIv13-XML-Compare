@@ -149,11 +149,6 @@
         <item>@string/evening</item>
         <item>@string/night</item>
     </string-array>
-    <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>lotus</item>
-    </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
         <item>@string/earthly_branches_chou</item>
@@ -183,6 +178,15 @@
         <item>@string/heavenly_stems_xin</item>
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -226,20 +230,21 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
-    <string-array name="show_style_entries">
-        <item>@string/temporary_style</item>
-        <item>@string/scheduled_style</item>
-        <item>@string/always_style</item>
+    <string-array name="screen_key_position_action">
+        <item>Menu button on the left, Back button on the right</item>
+        <item>Back button on the left, Menu button on the right</item>
     </string-array>
-    <string-array name="show_style_entries_5">
-        <item>@string/temporary_style_5</item>
-        <item>@string/scheduled_style</item>
-        <item>@string/always_style</item>
-    </string-array>
-    <string-array name="show_style_values">
+    <string-array name="screen_key_position_action_value">
         <item>0</item>
         <item>1</item>
-        <item>2</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Show recent apps tray</item>
+        <item>Show menu</item>
+    </string-array>
+    <string-array name="screen_key_press_action_value">
+        <item>recent_panel</item>
+        <item>show_menu</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

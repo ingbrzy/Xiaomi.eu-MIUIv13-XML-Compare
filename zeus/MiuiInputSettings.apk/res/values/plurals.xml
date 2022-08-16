@@ -29,13 +29,13 @@
         <item quantity="other">%d mins ago</item>
         <item quantity="one">1 min ago</item>
     </plurals>
-    <plurals name="backup_action_long_time_not_backup_content">
-        <item quantity="other">"Looks like you haven't backed up items for %s weeks. Create backups to avoid losing anything important."</item>
-        <item quantity="one">"Looks like you haven't backed up items for %s week. Create backups to avoid losing anything important."</item>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Never disable for %d apps</item>
+        <item quantity="one">Never disable for %d app</item>
     </plurals>
-    <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">%1$s backups (%2$s)</item>
-        <item quantity="one">%1$s backup (%2$s)</item>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Always disable for %d apps</item>
+        <item quantity="one">Always disable for %d app</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
@@ -60,12 +60,12 @@
         <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
-    </plurals>
-    <plurals name="session_time_remain">
-        <item quantity="other">About %s mins remaining</item>
-        <item quantity="one">About %s min remaining</item>
     </plurals>
 </resources>
