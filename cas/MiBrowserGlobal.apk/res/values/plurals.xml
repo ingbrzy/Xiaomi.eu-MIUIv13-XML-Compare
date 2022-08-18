@@ -459,6 +459,10 @@
         <item quantity="other">%d popular songs</item>
         <item quantity="one">%d popular song</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d tabs</item>
+        <item quantity="one">%d tab</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Selected %1$d items</item>
         <item quantity="one">Selected %1$d item</item>
