@@ -195,7 +195,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="marketSdkVersion">3.2.9</string>
+    <string name="marketSdkVersion">3.2.13</string>
     <string name="midnight">Night</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
