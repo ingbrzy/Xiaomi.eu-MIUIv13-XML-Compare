@@ -618,7 +618,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="config_systemAutomotiveProjection" />
     <string name="config_systemCompanionDeviceProvider" />
     <string name="config_systemContacts">com.android.contacts</string>
-    <string name="config_systemGallery">com.miui.gallery</string>
+    <string name="config_systemGallery">com.android.fileexplorer</string>
     <string name="config_systemImageEditor" />
     <string name="config_systemNotificationIntelligence" />
     <string name="config_systemShell">com.android.shell</string>
