@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="config_ethernet_interfaces" />
     <string-array name="config_legacy_networktype_restore_timers">
         <item>2,60000</item>
         <item>3,60000</item>
