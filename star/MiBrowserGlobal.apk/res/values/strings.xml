@@ -109,6 +109,7 @@
     <string name="ad_mark">Ad</string>
     <string name="ad_permission_name">Block ads</string>
     <string name="ad_sponsored">Sponsored</string>
+    <string name="ad_swip_up_tips">Swipe up to close ad</string>
     <string name="adblock_force_updating_rules_toast">Updating Ad blocker</string>
     <string name="adblock_rules_not_updated_toast">"Couldn't update"</string>
     <string name="adblock_rules_restore">Unblock</string>
@@ -149,6 +150,7 @@
     <string name="already_add">Added %s to your Home screen</string>
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
+    <string name="app_cache">Cache</string>
     <string name="app_id">Firebase App ID(Click To Export)</string>
     <string name="app_library_category_entertainment">Entertainment</string>
     <string name="app_library_category_games">Games</string>
@@ -580,8 +582,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">fab29a45fcba465cbc4e039874d8688d</string>
-    <string name="com.miapm.build_id">84abab11e5d24ab8a0016848a6c28efc</string>
+    <string name="com.crashlytics.android.build_id">90771059151241238219ce03d28b7e8d</string>
+    <string name="com.miapm.build_id">5e9d9e5736554e85bffbc1902c1dc1c0</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -899,7 +901,7 @@ Send this code to the supervisor."</string>
     <string name="empty_history_hint">History is empty</string>
     <string name="empty_snapshot_hint">Empty</string>
     <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
-    <string name="enable_vpn">Enable VPN debug</string>
+    <string name="enable_miui_lite_plus">Enable MiuiLite+ debug</string>
     <string name="encrypt_success">Hidden successfully</string>
     <string name="encrypting">Encrypting…</string>
     <string name="end_user_license">End User License Agreement</string>
@@ -1001,7 +1003,10 @@ Send this code to the supervisor."</string>
     <string name="featured_this_week">Featured this week</string>
     <string name="feed_content_protection">Content protection</string>
     <string name="feedback">Feedback</string>
+    <string name="feedback_bad">No</string>
     <string name="feedback_email">Feel free to drop us a line if you have any questions about Wonderfic: wonderwebfiction@gmail.com.</string>
+    <string name="feedback_general">Somewhat</string>
+    <string name="feedback_good">Yes</string>
     <string name="feedback_info_app_package_name">"Package name: "</string>
     <string name="feedback_info_app_version">"App version: "</string>
     <string name="feedback_info_language">"Language: "</string>
@@ -1010,6 +1015,8 @@ Send this code to the supervisor."</string>
     <string name="feedback_info_system">"System: "</string>
     <string name="feedback_info_system_version">"System version: "</string>
     <string name="feedback_send_email_body_extra_info">"Don't delete the following info. It'll help us locate the issue."</string>
+    <string name="feedback_thank_you">Thanks for your feedback!</string>
+    <string name="feedback_title">Does this content interest you?</string>
     <string name="fetch_video">Preparing video…</string>
     <string name="fetch_video_fail">"Couldn't get data"</string>
     <string name="fetch_video_ssl_bad_clock">"Looks like date and time set on your device (%s) aren't correct. Adjust the settings and try again."</string>
@@ -1132,6 +1139,8 @@ Send this code to the supervisor."</string>
     <string name="game_news_flow_download_bar_play">Play</string>
     <string name="game_play">Play</string>
     <string name="game_played">Recent</string>
+    <string name="garbage_details">Details</string>
+    <string name="garbage_file">Trash</string>
     <string name="gcm_defaultSenderId">687676053922</string>
     <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="general__add_book_to_launcher__success">added successfully</string>
@@ -1375,6 +1384,7 @@ Send this code to the supervisor."</string>
     <string name="input_new_pwd">Enter new password</string>
     <string name="ins_login_tips">Sign in to download videos from Instagram</string>
     <string name="ins_register_btn">Create account using email or phone number</string>
+    <string name="installation_package">APKs</string>
     <string name="instance_id">Firebase Instance ID(Click To Export)</string>
     <string name="intercept_panel_ads_img_category_text">Blocked ads</string>
     <string name="intercept_panel_download_img_category_text">Protected downloads</string>
@@ -1398,6 +1408,8 @@ Send this code to the supervisor."</string>
     <string name="intercept_toast_message_camera">The website is using the camera…</string>
     <string name="intercept_toast_message_mic">The website is recording audio…</string>
     <string name="intercept_toast_message_voice">The website is playing audio…</string>
+    <string name="interest_advise_subtitle">"We'll show you news about the topics you're interested in"</string>
+    <string name="interest_advise_title">What content interests you?</string>
     <string name="interest_card_button">Continue</string>
     <string name="interest_card_title">Select your interests</string>
     <string name="into_info_flow_guide">View more articles</string>
@@ -1466,6 +1478,7 @@ Send this code to the supervisor."</string>
     <string name="media_error_video_not_exist">"Video doesn't exist"</string>
     <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
     <string name="memory_clear_result">%1$s cleared</string>
+    <string name="memory_usage">Memory</string>
     <string name="menu_addtodesk">Add to Home screen</string>
     <string name="menu_exit_nightmode">Exit</string>
     <string name="menu_hv_swap">V/H screen</string>
@@ -1479,6 +1492,7 @@ Send this code to the supervisor."</string>
     <string name="messenger_send_button_text">Send</string>
     <string name="mi_browser">@string/application_name</string>
     <string name="mi_browser_clean_up_garbage">Mi Browser is clearing trash…</string>
+    <string name="mi_browser_is_scanning">Mi Browser is scanning</string>
     <string name="midi_permission_name">Control MIDI devices</string>
     <string name="midnight">Night</string>
     <string name="mint_games">Trending games</string>
@@ -1625,6 +1639,7 @@ Send this code to the supervisor."</string>
     <string name="mw_actionbar_textselection_title">Select text</string>
     <string name="mw_actionbar_web_search">Web search</string>
     <string name="mw_add_to_dictionary">Add to dictionary</string>
+    <string name="mw_androidx_startup">androidx.startup</string>
     <string name="mw_autofill_popup_content_description">Showing autofill popup</string>
     <string name="mw_chip_remove_icon_content_description">Remove \"%1$s\"</string>
     <string name="mw_color_picker_button_black">Black</string>
@@ -1768,11 +1783,6 @@ Leave this page now?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Try this:</string>
     <string name="mw_miuichromium_error_page_title">An error occurred</string>
     <string name="mw_miuichromium_error_page_unknown_error">Oops, something went wrong</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_btn_text">Try using VPN</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Unlimited servers</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_2">No tracking</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_3">No speed limits</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_img_text">Try using VPN</string>
     <string name="mw_miuichromium_error_page_wlan">Turn on Wi-Fi</string>
     <string name="mw_month_picker_dialog_title">Set month</string>
     <string name="mw_no_matches">No matches</string>
@@ -2068,6 +2078,12 @@ Leave this page now?"</string>
     <string name="permission_unknown">An error occurred.</string>
     <string name="permission_use">Permissions</string>
     <string name="permisssion_not_ask_again">"Don't ask again"</string>
+    <string name="person_menu_cleaner">Cleaner</string>
+    <string name="person_menu_cleaner_button">Clean</string>
+    <string name="person_menu_download">Files</string>
+    <string name="person_menu_game_history">Gaming history</string>
+    <string name="person_menu_game_recommend">Popular games</string>
+    <string name="person_menu_video">Short videos</string>
     <string name="personal__about_view__already_latest">is already the latest version</string>
     <string name="personal__about_view__current_view">current version%s</string>
     <string name="personal__about_view__update">click to upgrade to the latest version</string>
@@ -2555,6 +2571,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="reading__auto_pagedown_menu_view__speed">automatic page turning speed: %1$d</string>
     <string name="reading__bookmark_empty_view__hint">add bookmarks to the pull-down screen while reading</string>
     <string name="reading__bookmark_empty_view__no_bookmark">temporarily no bookmarks</string>
+    <string name="reading__cancel">Cancel</string>
     <string name="reading__chapter_error_view__content_error">"Couldn't load chapter. Check your network settings and try again."</string>
     <string name="reading__chapter_error_view__drm_error">"Couldn't get digital certificate"</string>
     <string name="reading__chapter_error_view__exception">"Couldn't download chapter. Check your network settings and try again."</string>
@@ -2620,6 +2637,12 @@ edit"</string>
     <string name="reading__feedback_dialog_input_toast">Enter problem details before submitting</string>
     <string name="reading__feedback_dialog_title">Report a problem</string>
     <string name="reading__feedback_submit_toast_success">Submitted feedback successfully</string>
+    <string name="reading__menu_open_with_another_app">Open with another app</string>
+    <string name="reading__menu_play">Slideshow</string>
+    <string name="reading__menu_rotate_screen">Rotate</string>
+    <string name="reading__menu_search">Search</string>
+    <string name="reading__menu_share">Share</string>
+    <string name="reading__menu_thumbnail">Page thumbnails</string>
     <string name="reading__navigation_current_book_cover_desc">book cover</string>
     <string name="reading__navigation_view__delete_annotation">delete the book excerpt</string>
     <string name="reading__navigation_view__delete_bookmark">delete the bookmark</string>
@@ -2636,6 +2659,8 @@ edit"</string>
     <string name="reading__reading_error_report">chapter report error</string>
     <string name="reading__reading_feedback_dialog_email_error_toast">Enter a valid email address</string>
     <string name="reading__reading_feedback_dialog_email_hint">Enter your email address</string>
+    <string name="reading__reading_first_page">This is the first page</string>
+    <string name="reading__reading_last_page">This is the last page</string>
     <string name="reading__reading_menu_bottom_view__brightness_bar">brightness bar</string>
     <string name="reading__reading_menu_bottom_view__progress">progress</string>
     <string name="reading__reading_menu_bottom_view__progress_bar">progress bar</string>
@@ -2720,6 +2745,10 @@ recommend you to use the free reading mode"</string>
     <string name="reading__recommend_title">free good book recommendation</string>
     <string name="reading__remove_selected_items">Delete the selected items?</string>
     <string name="reading__repair_cert_view__default_reason">The book failed to open, please try to repair it after connecting to the Internet</string>
+    <string name="reading__search_cancel">Cancel</string>
+    <string name="reading__search_input_hint">Enter keywords to search</string>
+    <string name="reading__search_result_nothing">"Couldn't find results"</string>
+    <string name="reading__search_searching">Searching…</string>
     <string name="reading__search_text_view__empty_hint">search full text</string>
     <string name="reading__search_text_view__nosearch_result">"Sorry, there is no such keyword in the text
 Try to modify your keyword?"</string>
@@ -2769,7 +2798,7 @@ Try to modify your keyword?"</string>
     <string name="reading__shared__low_quality">download low-definition version (%s)</string>
     <string name="reading__shared__no_open_params">"Couldn't load book. Check your network settings and try again."</string>
     <string name="reading__shared__page_loading">Just a sec…</string>
-    <string name="reading__shared__page_num_with_total_pages">%1$d / %2$d</string>
+    <string name="reading__shared__page_num_with_total_pages">%1$d/%2$d</string>
     <string name="reading__shared__pages_left">%1$d page left in this chapter</string>
     <string name="reading__shared__quit_recommend">Recommended for you</string>
     <string name="reading__shared__quit_recommend_no">Exit</string>
@@ -3388,6 +3417,7 @@ Try to modify your keyword?"</string>
     <string name="undo">Undo</string>
     <string name="uni_search_setting_summary">In-app search</string>
     <string name="uni_search_setting_title">Improves search results</string>
+    <string name="unload_residue">Residuals</string>
     <string name="unsecurity_url_toast">"This website isn't secure"</string>
     <string name="up_to_loading_tips">Release to refresh</string>
     <string name="update">Update</string>
@@ -3464,6 +3494,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_retry_btn">Try again</string>
     <string name="video_view_more">More</string>
     <string name="view_certificate">View certificate</string>
+    <string name="view_details">View details</string>
     <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
     <string name="voice_check_network">Check your network settings and try again.</string>
     <string name="voice_connect_network">"Couldn't connect to the network."</string>
@@ -3585,6 +3616,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_web_enhance_desc">Turn off to stop blocking ads on this website</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Block ads</string>
     <string name="web_video_accelerate">Speed</string>
+    <string name="web_video_default_time">00:00</string>
     <string name="web_video_download">Download</string>
     <string name="web_video_download_no_access">Permissions required to download items</string>
     <string name="web_video_enable_long_click_toast">Playing at %dX speed</string>
