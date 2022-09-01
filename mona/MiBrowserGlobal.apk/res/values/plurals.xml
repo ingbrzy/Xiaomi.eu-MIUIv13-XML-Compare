@@ -301,6 +301,10 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Protected %s times</item>
+        <item quantity="one">Protected %s time</item>
+    </plurals>
     <plurals name="personal__attance_activity_check_in_bonus_number">
         <item quantity="other">+%d coins</item>
         <item quantity="one">+%d coin</item>
@@ -413,6 +417,10 @@
         <item quantity="other">"You'll get %d bonuses if you continue reading. Continue?"</item>
         <item quantity="one">"You'll get %d bonus if you continue reading. Continue?"</item>
     </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">Found %1$d results</item>
+        <item quantity="one">Found %1$d result</item>
+    </plurals>
     <plurals name="reading__shared__toc_new_chapter">
         <item quantity="other">%d chapters available so far</item>
         <item quantity="one">%d chapter available so far</item>
@@ -458,6 +466,10 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">%d popular songs</item>
         <item quantity="one">%d popular song</item>
+    </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d tabs</item>
+        <item quantity="one">%d tab</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Selected %1$d items</item>

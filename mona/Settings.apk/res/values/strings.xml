@@ -69,8 +69,8 @@
     <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_title">Auto-rotate screen</string>
-    <string name="accept_new_connection">Allow new connections</string>
-    <string name="accept_new_connection_detail">New bluetooth connections have been turned off from control center</string>
+    <string name="accept_new_connection">Allow connecting to new devices</string>
+    <string name="accept_new_connection_detail">New connections were restricted in Control center</string>
     <string name="access_control_app_entry_multiple">Open %s</string>
     <string name="access_control_app_entry_single">Open app</string>
     <string name="access_control_need_password">"%s has been protected
@@ -1897,7 +1897,7 @@ You can turn this feature off in the Settings > Bluetooth > Paired devices."</st
     <string name="bt_absVolume_open_dialog_title">Attention</string>
     <string name="bt_absVolume_pre_title">Absolute volume</string>
     <string name="bt_absVolume_summary">"Keep the volume of Bluetooth devices and the phone strictly consistent. You can turn this feature on and off when media isn't playing in the background."</string>
-    <string name="bt_always_show_icon">Always show bluetooth icon on status bar</string>
+    <string name="bt_always_show_icon">Always show status bar icon</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive will provide high-quality playback and decrease audio latency for games and video while increasing power consumption. Playback may be stuttered due to Bluetooth hardware limitations and environmental interferance.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Switch to aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Fix audio issues</string>
@@ -2292,6 +2292,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="close_fod">"You won't be able to unlock your device using your fingerprint when the screen is off. Fingerprint unlock will only work when the screen is on."</string>
     <string name="close_fod_aod">"You won't be able to unlock your device using your fingerprint when the screen is off. \"Always on mode\" won't be available as well. Fingerprint unlock will only work when the screen is on."</string>
     <string name="close_hotspot_hint">Turn off portable hotspot before casting</string>
+    <string name="close_lid_display_settings_title">After folding</string>
     <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
     <string name="close_optimization_message">Text layout, accounts, and other parts of MIUI might be affected after you turn this feature off.</string>
     <string name="close_optimization_option">Turn off</string>
@@ -3624,6 +3625,7 @@ Restart your device and try again."</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="extended_power_menu">Extended power menu</string>
     <string name="exterior">Color scheme</string>
+    <string name="external_auto_rotate_title">Lock orientation for outer screen</string>
     <string name="external_code_size_label">USB storage app</string>
     <string name="external_data_size_label">USB storage data</string>
     <string name="external_ram_dialog_btn_cancel">Later</string>
@@ -4647,6 +4649,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="insufficient_storage">Not enough storage space.</string>
     <string name="intelligence_suppression_summary">Dynamically adjust the size of the area near the edges where accidental touch will be ignored based on your grip</string>
     <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="intelligent_keep_screen_on">Keep screen on when necessary</string>
+    <string name="intelligent_keep_screen_on_summary">"Keep outer screen on when it's facing upwards"</string>
     <string name="intent_sender_account_label">Account:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_data_label">Data:</string>
@@ -4678,6 +4682,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="interconnection">Interconnectivity</string>
     <string name="interesting_text">Realistic tactile sensations make your interaction with the screen more clear and articulated.</string>
     <string name="interesting_title">Realistic touch</string>
+    <string name="internal_auto_rotate_title">Lock orientation for inner screen</string>
     <string name="internal_memory">Internal storage</string>
     <string name="internal_storage">Internal storage</string>
     <string name="internet_connectivity_panel_title">Internet Connectivity</string>
@@ -4695,7 +4700,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="kddi_nfc_secure_settings_title">Lock while on Lock screen</string>
     <string name="kddi_nfc_secure_toggle_summary">Keep NFC/Osaifu-keitai on only when the device is unlocked</string>
     <string name="keep_legacy_fingerprint">Keep</string>
-    <string name="keep_screen_on">"Don't lock screen"</string>
+    <string name="keep_screen_on">Keep screen on</string>
     <string name="keep_screen_on_after_folding_off_summary">Keep outer screen on after folding during calls or when camera is being used</string>
     <string name="keep_screen_on_after_folding_on_summary">Keep outer screen on after folding to continue with your current tasks</string>
     <string name="keep_screen_on_after_folding_text">Keep outer screen on after folding to continue with your current tasks</string>
@@ -5181,6 +5186,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="lock_screen_notifs_show_all">Show conversations, default, and silent</string>
     <string name="lock_screen_notifs_show_none">Don’t show any notifications</string>
     <string name="lock_screen_notifs_title">Notifications on lock screen</string>
+    <string name="lock_screen_now">Lock screen</string>
     <string name="lock_screen_password_skip_biometrics_message">"A password is required to set up Face Unlock and Fingerprint Unlock.
 
 A password protects the phone if it’s lost or stolen."</string>
@@ -9351,6 +9357,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="swipe_direction_ltr">Swipe right to dismiss, left to show menu</string>
     <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
     <string name="swipe_direction_title">Swipe actions</string>
+    <string name="swipe_up_to_continue_using">Swipe up to continue</string>
+    <string name="swipe_up_to_continue_using_summary">Lock after %d secs of inactivity</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Turn on the new gesture to switch apps</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Try the new Home button</string>
     <string name="swipe_up_to_switch_apps_summary">To switch apps, swipe up on the Home button. To see all apps, swipe up again. To go back, tap the back button.</string>

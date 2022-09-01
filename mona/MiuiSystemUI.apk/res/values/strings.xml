@@ -1635,16 +1635,16 @@ MMMM d"</string>
     <string name="miui_keyboard_shortcut_system_dock">Show app dock</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Switch between recent apps</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
-    <string name="miui_lock_screen_date">EEEE MM/dd</string>
-    <string name="miui_lock_screen_date_12">EEEE MM/dd</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-MM/dd"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-MM/dd"</string>
+    <string name="miui_lock_screen_date">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
-MM/dd"</string>
+M/d"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-MM/dd"</string>
+M/d"</string>
     <string name="miui_notification_menu_aggregate_feedback">Feedback</string>
     <string name="miui_notification_menu_allow">Allow</string>
     <string name="miui_notification_menu_feedback_success">Thanks for your feedback!</string>
@@ -2301,6 +2301,11 @@ If you have questions, contact %2$s."</string>
     <string name="quick_settings_screen_record_label">Screen record</string>
     <string name="quick_settings_screen_record_start">Start</string>
     <string name="quick_settings_screen_record_stop">Stop</string>
+    <string name="quick_settings_screen_rotation_inner_locked">Inner screen rotate off</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">Inner screen rotate on</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Outer screen locked in landscape mode</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Outer screen locked in portrait mode</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Outer screen rotate on</string>
     <string name="quick_settings_screenbutton_label">Buttons</string>
     <string name="quick_settings_screenlock_label">Lock screen</string>
     <string name="quick_settings_screenshot_label">Screenshot</string>
@@ -2684,6 +2689,7 @@ Tap for more info"</string>
     <string name="tip_close_flares">"You won't receive notifications about app behavior during this session"</string>
     <string name="title_convert_fbe">Converting to file based encryption</string>
     <string name="title_usb_accessory">USB accessory</string>
+    <string name="toast_for_first_use_three_gesture">Swipe horizontally with four fingers to switch between apps</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="torch_high_temperature_warning">"Your device is overheated. Can't use torch now."</string>
