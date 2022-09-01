@@ -301,6 +301,10 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Protected %s times</item>
+        <item quantity="one">Protected %s time</item>
+    </plurals>
     <plurals name="personal__attance_activity_check_in_bonus_number">
         <item quantity="other">+%d coins</item>
         <item quantity="one">+%d coin</item>
@@ -412,6 +416,10 @@
     <plurals name="reading__reading_retain_common_time">
         <item quantity="other">"You'll get %d bonuses if you continue reading. Continue?"</item>
         <item quantity="one">"You'll get %d bonus if you continue reading. Continue?"</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">Found %1$d results</item>
+        <item quantity="one">Found %1$d result</item>
     </plurals>
     <plurals name="reading__shared__toc_new_chapter">
         <item quantity="other">%d chapters available so far</item>
