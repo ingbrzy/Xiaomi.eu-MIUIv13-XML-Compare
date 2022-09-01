@@ -325,6 +325,7 @@
     <array name="config_virtualKeyUpPattern" />
     <string-array name="country_codes_hid_sap_5GHz_band">
         <item>JP</item>
+        <item>GT</item>
     </string-array>
     <string-array name="device_on_platform_7450">
         <item>ziyi</item>
