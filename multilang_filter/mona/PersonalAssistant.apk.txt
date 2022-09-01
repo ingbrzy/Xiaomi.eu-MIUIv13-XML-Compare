@@ -1,2 +1,3 @@
+Removed: [pl] strings.xml: string/pa_accessibility_picker_home_widget_slected (format mismatch)
 Removed: [pt-rBR] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
 Removed: [vi] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
