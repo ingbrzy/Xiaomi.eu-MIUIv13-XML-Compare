@@ -259,7 +259,6 @@
     <string name="bind_simcard_title">Default SIM for calls</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
     <string name="blurbJoinContactDataWith">Choose the contact you want to merge with %s:</string>
-    <string name="btn_call_fuhao_txt">Sub</string>
     <string name="btn_split_contact">Separate</string>
     <string name="button_cancel_scan">Stop</string>
     <string name="button_scan">Rescan</string>
@@ -365,6 +364,7 @@
     <string name="callrecordview_menu_show_missed">Missed calls</string>
     <string name="callrecordview_menu_show_sim">%s calls</string>
     <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
+    <string name="callrecordview_menu_xiaoaiphone">Mi AI Call Assistant</string>
     <string name="cancel">Cancel</string>
     <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
     <string name="cancel_confirmation_dialog_title">Cancel</string>
@@ -589,7 +589,6 @@ Mi Roaming needs to connect to the internet and access your location info to wor
     <string name="description_image_button_eight">eight</string>
     <string name="description_image_button_five">five</string>
     <string name="description_image_button_four">four</string>
-    <string name="description_image_button_fuhao_named_dial">Sub call</string>
     <string name="description_image_button_nine">nine</string>
     <string name="description_image_button_one">one</string>
     <string name="description_image_button_plus">Plus</string>
@@ -821,11 +820,6 @@ Reason: \"%s\""</string>
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="heduohao_fuhao_call_menu_title">Dial on sub%d</string>
-    <string name="heduohao_fuhao_order">Sub%d</string>
-    <string name="heduohao_label">HeDuoHao</string>
-    <string name="heduohao_main_call_menu_title">Dial on main</string>
-    <string name="heduohao_popup_txt">Sub%d</string>
     <string name="hide_app_description_content">"Contacts is a system app. You'll still be able to use it via the Phone app after you remove the Home screen shortcut."</string>
     <string name="hide_app_description_title">Remove \"Contacts\" from Home screen?</string>
     <string name="hint_distance" />
@@ -1179,6 +1173,9 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="preference_smart_group_title">Smart groups</string>
     <string name="preference_tone_title">Tones</string>
     <string name="preference_yellowpage_function_setting">Yellow pages settings</string>
+    <string name="presentation_payphone">Payphone</string>
+    <string name="presentation_private">Private number</string>
+    <string name="presentation_unknown">Unknown number</string>
     <string name="previous">Previous</string>
     <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
     <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes, and hidden folders.</string>
@@ -1255,7 +1252,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
  To begin, tap the Merge icon at the bottom of your screen."</string>
-    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE</string>
+    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="residual_time_description">%1$sday%2$shour</string>
     <string name="residual_time_description2">%1$dh</string>
     <string name="residual_time_description3">%1$dm</string>
@@ -1550,6 +1547,7 @@ Choose one of the following options:"</string>
     <string name="video_chat">Video chat</string>
     <string name="viewContactDesription">View contact</string>
     <string name="viewContactTitle">Contact details</string>
+    <string name="view_more_call_logs">View more</string>
     <string name="view_updates_from_group">View updates</string>
     <string name="voicemail">Voicemail</string>
     <string name="websiteLabelsGroup">Website</string>

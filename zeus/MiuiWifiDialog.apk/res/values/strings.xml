@@ -27,12 +27,12 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
-    <string name="app_name">Floating windows</string>
-    <string name="bottom_bar_smallwindow_drag_text">Drag here to pin</string>
-    <string name="bottom_bar_smallwindow_text">Release to pin</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">blur</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
     <string name="chinese_day_11">十一</string>
@@ -103,13 +103,13 @@
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
-    <string name="contentDescription">Moving the window</string>
-    <string name="copy">Copy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="decline">Decline</string>
+    <string name="dlg_ok">OK</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -127,7 +127,6 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Afternoon</string>
-    <string name="expand_button_title">Advanced</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -180,28 +179,9 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="freeform_demo_back">Back</string>
-    <string name="freeform_demo_final_over">Done</string>
-    <string name="freeform_demo_final_restart">Start over</string>
-    <string name="freeform_demo_final_title">"You're ready to rock!"</string>
-    <string name="freeform_demo_go_on">Next</string>
-    <string name="freeform_demo_next_tutorial">Next</string>
-    <string name="freeform_demo_previous_tutorial">Back</string>
-    <string name="freeform_demo_title_finish">Nice!</string>
-    <string name="freeform_demo_title_skip">Skip</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Drag the corner to minimize an app</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Drag the corner to minimize an app</string>
-    <string name="freeform_guide_to_sidehide_summary">Quickly drag the window by the action bar to the edge of the screen</string>
-    <string name="freeform_guide_to_sidehide_summary_pad">Quickly drag the app to side of the screen to hide it</string>
-    <string name="freeform_guide_to_sidehide_title">Hiding floating windows</string>
-    <string name="freeform_slide_to_small_freeform">Minimize a floating window</string>
-    <string name="freeform_slide_to_small_freeform_summary">Press and hold the action bar and drag into a corner</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
-    <string name="fullscreen_slide_to_small_freeform">Minimize an app</string>
-    <string name="fullscreen_slide_to_small_freeform_summary">Swipe from the bottom of the screen to the upper right corner</string>
-    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Swipe from the bottom to the upper edge of the screen</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
     <string name="heavenly_stems_geng">庚</string>
@@ -212,21 +192,6 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="how_to_close_or_fullscreen_freeform">Closing floating windows or switching to fullscreen mode</string>
-    <string name="how_to_drop_down_to_fullscreen">Switch to fullscreen mode</string>
-    <string name="how_to_drop_down_to_fullscreen_summary">Press and hold, and then pull down the action bar of a floating window</string>
-    <string name="how_to_hang_freeform">Minimizing floating windows</string>
-    <string name="how_to_hang_to_small_freeform">Minimize the floating window</string>
-    <string name="how_to_hang_to_small_freeform_summary">Drag the floating window to the corner of the screen</string>
-    <string name="how_to_move_freeform">Moving floating windows around</string>
-    <string name="how_to_move_freeform_window">Moving the floating window around</string>
-    <string name="how_to_move_freeform_window_summary">Press and hold the action bar of a floating window to drag</string>
-    <string name="how_to_notification_drop_down">Open a floating window</string>
-    <string name="how_to_notification_drop_down_summary">Press and hold, and then pull down the action bar of a notification</string>
-    <string name="how_to_open_freeform">Opening notifications in a floating window</string>
-    <string name="how_to_slide_up_to_close">Close the floating window</string>
-    <string name="how_to_slide_up_to_close_summary">Swipe up from the action bar of a floating window</string>
-    <string name="how_to_use_freeform">How to use floating windows</string>
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
@@ -295,14 +260,13 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">More</string>
     <string name="morning">Morning</string>
-    <string name="multi_window_cvw_summary">Drag the corner to switch to a floating window and adjust its size</string>
-    <string name="multi_window_cvw_summary_global">Drag the corner to switch to a floating window and adjust its size</string>
-    <string name="multi_window_cvw_title">Floating window</string>
     <string name="night">Evening</string>
     <string name="noon">Midday</string>
-    <string name="not_set">Not set</string>
+    <string name="notification_channel_network_alerts">Network alerts</string>
+    <string name="notification_channel_network_available">Network available</string>
+    <string name="notification_channel_network_status">Network status</string>
+    <string name="ok">OK</string>
     <string name="pm">PM</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
@@ -333,7 +297,6 @@
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
@@ -388,10 +351,118 @@
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
+    <string name="wifiResourcesAppLabel">System Wi-Fi Resources</string>
+    <string name="wifi_available_action_all_networks">All networks</string>
+    <string name="wifi_available_action_connect">Connect</string>
+    <string name="wifi_available_content_failed_to_connect">Tap to see all networks</string>
+    <string name="wifi_available_title">Connect to open Wi‑Fi network</string>
+    <string name="wifi_available_title_connected">Connected to Wi‑Fi network</string>
+    <string name="wifi_available_title_connecting">Connecting to Wi‑Fi network</string>
+    <string name="wifi_available_title_failed_to_connect">Could not connect to Wi‑Fi network</string>
+    <string name="wifi_ca_cert_dialog_abort_text">"No, don't connect"</string>
+    <string name="wifi_ca_cert_dialog_continue_text">Yes, connect</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"Contact:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"Only allow this network to connect if the information below looks correct.
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Issuer Name:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"Organization:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"Server Name:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Signature:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">"Don't connect"</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Connect anyway</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">The network %1$s is missing a certificate.</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">Learn how to add certificates</string>
+    <string name="wifi_ca_cert_dialog_preT_title">"Can't verify this network"</string>
+    <string name="wifi_ca_cert_dialog_title">Is this network trusted?</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">Certificate installation failed.</string>
+    <string name="wifi_ca_cert_notification_message">Review network details for %1$s before connecting. Tap to continue.</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">"Don't connect"</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">Connect anyway</string>
+    <string name="wifi_ca_cert_notification_preT_message">The network %1$s is missing a certificate. Tap to learn how to add certificates.</string>
+    <string name="wifi_ca_cert_notification_preT_title">"Can't verify this network"</string>
+    <string name="wifi_ca_cert_notification_title">Network needs to be verified</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_message">Tap to change privacy settings and retry</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_title">"Can't connect to %1$s"</string>
+    <string name="wifi_connect_alert_message">Application %1$s would like to connect to Wifi Network %2$s</string>
+    <string name="wifi_connect_alert_title">Allow connection?</string>
+    <string name="wifi_connect_default_application">An application</string>
+    <string name="wifi_disable_mac_randomization_dialog_confirm_text">Change setting</string>
+    <string name="wifi_disable_mac_randomization_dialog_failure">"Can't change privacy setting"</string>
+    <string name="wifi_disable_mac_randomization_dialog_message">"To connect, %1$s needs to use your device MAC address, a unique identifier. Currently, your privacy setting for this network uses a randomized identifier. 
+
+This change may allow your device's location to be tracked by nearby devices."</string>
+    <string name="wifi_disable_mac_randomization_dialog_network_not_found">Network not found</string>
+    <string name="wifi_disable_mac_randomization_dialog_success">Setting updated. Try connecting again.</string>
+    <string name="wifi_disable_mac_randomization_dialog_title">Change privacy setting?</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s : EAP authentication error 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s : EAP authentication error 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s : EAP authentication error 32756</string>
+    <string name="wifi_eap_error_message_code_32760">%1$s : EAP authentication error 32760</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : EAP authentication error 32761</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : EAP authentication error 32762</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : EAP authentication error 32763</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : EAP authentication error 32764</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : EAP authentication error 32765</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : EAP authentication error 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s : EAP authentication error 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s : EAP authentication error, unknown error code</string>
+    <string name="wifi_enable_request_dialog_message">You can turn off Wi‑Fi in Quick Settings</string>
+    <string name="wifi_enable_request_dialog_negative_button">"Don't allow"</string>
+    <string name="wifi_enable_request_dialog_positive_button">Allow</string>
+    <string name="wifi_enable_request_dialog_title">Allow %1$s to turn on Wi‑Fi?</string>
+    <string name="wifi_interface_priority_approve">Allow</string>
+    <string name="wifi_interface_priority_message">This may cause problems for %3$s.</string>
+    <string name="wifi_interface_priority_message_plural">This may cause problems for these apps: %3$s.</string>
+    <string name="wifi_interface_priority_reject">"Don't allow"</string>
+    <string name="wifi_interface_priority_title">%1$s wants to use a networking resource</string>
+    <string name="wifi_p2p_enter_pin_message">Type the required PIN:</string>
+    <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from Wi-Fi while it's connected to %1$s"</string>
+    <string name="wifi_p2p_from_message">From:</string>
+    <string name="wifi_p2p_invitation_sent_title">Invitation sent</string>
+    <string name="wifi_p2p_invitation_to_connect_title">Invitation to connect</string>
+    <string name="wifi_p2p_show_pin_message">PIN:</string>
+    <string name="wifi_p2p_to_message">To:</string>
+    <string name="wifi_sim_required_message">To connect to %1$s, insert a %2$s SIM</string>
+    <string name="wifi_sim_required_title">Wi‑Fi disconnected</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">No devices connected. Tap to modify.</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_title">Hotspot turned off</string>
+    <string name="wifi_suggestion_action_allow_app">Allow</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Connect</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Connect</string>
+    <string name="wifi_suggestion_action_disallow_app">No thanks</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">"Don't connect"</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">"Don't connect"</string>
+    <string name="wifi_suggestion_content">%s suggested networks. Device may connect automatically.</string>
+    <string name="wifi_suggestion_imsi_privacy_content">These networks receive a SIM ID that can be used to track device location</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"If you connect, %s Wi‑Fi networks may access or share a unique ID associated with your SIM. This may allow your device's location to be tracked."</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Confirm connection?</string>
+    <string name="wifi_suggestion_imsi_privacy_title">Connect to %s Wi‑Fi?</string>
+    <string name="wifi_suggestion_title">Allow suggested Wi‑Fi networks?</string>
+    <string name="wifi_wakeup_enabled_content">"You're near a saved network: %1$s"</string>
+    <string name="wifi_wakeup_enabled_title">Wi‑Fi turned on automatically</string>
+    <string name="wifi_wakeup_onboarding_action_disable">"Don't turn back on"</string>
+    <string name="wifi_wakeup_onboarding_subtext">"When you're near a high quality saved network"</string>
+    <string name="wifi_wakeup_onboarding_title">Wi‑Fi will turn on automatically</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" has a poor internet connection."</string>
     <string name="yesterday">Yesterday</string>
 </resources>

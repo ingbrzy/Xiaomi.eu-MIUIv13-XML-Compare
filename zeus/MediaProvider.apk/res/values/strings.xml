@@ -235,6 +235,7 @@
     <string name="picker_category_favorites">Favorites</string>
     <string name="picker_category_screenshots">Screenshots</string>
     <string name="picker_category_videos">@string/root_videos</string>
+    <string name="picker_cloud_sync">Cloud media now available from %1$s</string>
     <string name="picker_gif">GIF</string>
     <string name="picker_item_content_desc">%1$s taken on %2$s</string>
     <string name="picker_motion_photo">Motion Photo</string>

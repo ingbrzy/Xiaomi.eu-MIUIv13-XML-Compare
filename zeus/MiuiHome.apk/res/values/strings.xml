@@ -316,7 +316,7 @@
     <string name="close_multi_finger_slide_summary">These gestures will be ignored in some scenarios (e.g. games and videos playback)</string>
     <string name="close_multi_finger_slide_title">"Don't respond to three- and four-finger gestures"</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">5110890489eb429098d96dbcc351d78e</string>
+    <string name="com.crashlytics.android.build_id">fb12bbbde6f342dbaaaaa65e5f65a562</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -746,8 +746,6 @@
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
-    <string name="monochrome_summary">Change background color for compatible icons</string>
-    <string name="monochrome_title">Background color</string>
     <string name="month_april">April</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -1108,7 +1106,6 @@
     <string name="sort_by_abc">Sort by name</string>
     <string name="sort_by_frequency">Sort by usage</string>
     <string name="sort_by_not_defined">Auto-sort</string>
-    <string name="split_screen_position_top">Split top</string>
     <string name="start_activity_failed">"Can't start launcher"</string>
     <string name="starting_preset_app">Starting…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1194,8 +1191,6 @@
     <string name="title_select_shortcut">Select shortcut</string>
     <string name="toast_drag_to_assistant_reject">Initializing App vault…</string>
     <string name="toast_screen_icons_misplaced">Restored from other source, some icons may be misplaced.</string>
-    <string name="toast_split_app_unsupported">App does not support split-screen.</string>
-    <string name="toast_split_select_app">Tap another app to use splitscreen</string>
     <string name="today">Today</string>
     <string name="toggle_select_title">Choose toggle</string>
     <string name="toggle_title">Toggles</string>

@@ -1,64 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
         <item>@string/pm</item>
@@ -163,6 +104,56 @@
         <item>@string/earthly_branches_xu</item>
         <item>@string/earthly_branches_hai</item>
     </string-array>
+    <string-array name="enable_super_wallpaper_device">
+        <item>cmi</item>
+        <item>umi</item>
+        <item>lmiin</item>
+        <item>lmi</item>
+        <item>lmipro</item>
+        <item>cepheus</item>
+        <item>crux</item>
+        <item>raphaelin</item>
+        <item>raphael</item>
+        <item>dipper</item>
+        <item>equuleus</item>
+        <item>perseus</item>
+        <item>ursa</item>
+        <item>monetin</item>
+        <item>monet</item>
+        <item>vangogh</item>
+        <item>atom</item>
+        <item>bomb</item>
+        <item>cas</item>
+        <item>klein</item>
+        <item>cezanne</item>
+        <item>venus</item>
+        <item>haydn</item>
+        <item>star</item>
+        <item>mars</item>
+        <item>renoir</item>
+        <item>alioth</item>
+        <item>thyme</item>
+        <item>ares</item>
+        <item>odin</item>
+        <item>vili</item>
+        <item>agate</item>
+        <item>agatein</item>
+        <item>zeus</item>
+        <item>psyche</item>
+        <item>cupid</item>
+        <item>ingres</item>
+        <item>poussin</item>
+        <item>matisse</item>
+        <item>rubens</item>
+        <item>munch</item>
+        <item>unicorn</item>
+        <item>thor</item>
+        <item>mayfly</item>
+        <item>diting</item>
+        <item>plato</item>
+        <item>nuwa</item>
+        <item>fuxi</item>
+    </string-array>
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
@@ -221,15 +212,6 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
-    <string-array name="region_support_mihome">
-        <item>CN</item>
-        <item>IN</item>
-        <item>HK</item>
-        <item>TW</item>
-        <item>SG</item>
-        <item>US</item>
-        <item>TR</item>
-    </string-array>
     <string-array name="settings_search_earth">
         <item>Home</item>
         <item>Wallpaper/Super wallpapers/Home</item>
@@ -259,11 +241,6 @@
         <item>Super wallpapers</item>
         <item>Wallpaper/Super wallpapers</item>
         <item>Super wallpapers;Wallpaper;Dynamic wallpaper;3D wallpaper</item>
-    </string-array>
-    <string-array name="settings_search_weather">
-        <item>Weather</item>
-        <item>Wallpaper/Super wallpapers/Weather</item>
-        <item>Weather;Weather info;Super wallpaper;Wallpaper</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -300,11 +277,11 @@
         <item>com.miui.miwallpaper.mars</item>
     </string-array>
     <string-array name="super_wallpaper_list_ids">
-        <item>snowmountain</item>
-        <item>geometry</item>
-        <item>saturn</item>
-        <item>earth</item>
-        <item>mars</item>
+        <item>@string/snowmountain_id</item>
+        <item>@string/geometry_id</item>
+        <item>@string/saturn_id</item>
+        <item>@string/earth_id</item>
+        <item>@string/mars_id</item>
     </string-array>
     <string-array name="super_wallpaper_list_packages">
         <item>com.miui.miwallpaper.snowmountain</item>
@@ -326,90 +303,6 @@
         <item>@string/saturn_title</item>
         <item>@string/earth_title</item>
         <item>@string/mars_title</item>
-    </string-array>
-    <string-array name="super_wallpaper_res_scale_075_devices">
-        <item>andromeda</item>
-        <item>cepheus</item>
-        <item>crux</item>
-        <item>raphaelin</item>
-        <item>raphael</item>
-        <item>polaris</item>
-        <item>dipper</item>
-        <item>equuleus</item>
-        <item>perseus</item>
-        <item>ursa</item>
-        <item>beryllium</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>monetin</item>
-        <item>monet</item>
-        <item>vangogh</item>
-        <item>atom</item>
-        <item>bomb</item>
-    </string-array>
-    <string-array name="super_wallpaper_res_scale_080_devices">
-        <item>cmi</item>
-        <item>thyme</item>
-        <item>haydn</item>
-        <item>haydnin</item>
-        <item>star</item>
-        <item>starin</item>
-        <item>mars</item>
-        <item>marsin</item>
-        <item>renoir</item>
-        <item>renoirin</item>
-        <item>alioth</item>
-        <item>aliothin</item>
-        <item>umi</item>
-        <item>lmiin</item>
-        <item>lmi</item>
-        <item>lmipro</item>
-        <item>cas</item>
-        <item>venus</item>
-        <item>ares</item>
-    </string-array>
-    <array name="super_wallpaper_res_scale_100_devices" />
-    <array name="super_wallpaper_res_scale_10_devices" />
-    <string-array name="support_super_wallpaper_devices">
-        <item>cmi</item>
-        <item>umi</item>
-        <item>lmiin</item>
-        <item>lmi</item>
-        <item>lmipro</item>
-        <item>cepheus</item>
-        <item>crux</item>
-        <item>raphaelin</item>
-        <item>raphael</item>
-        <item>polaris</item>
-        <item>dipper</item>
-        <item>equuleus</item>
-        <item>perseus</item>
-        <item>ursa</item>
-        <item>beryllium</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>monetin</item>
-        <item>monet</item>
-        <item>vangogh</item>
-        <item>atom</item>
-        <item>bomb</item>
-        <item>cas</item>
-        <item>surya</item>
-        <item>apollo</item>
-        <item>klein</item>
-        <item>cezanne</item>
-        <item>venus</item>
-        <item>haydn</item>
-        <item>haydnin</item>
-        <item>star</item>
-        <item>starin</item>
-        <item>mars</item>
-        <item>marsin</item>
-        <item>renoir</item>
-        <item>renoirin</item>
-        <item>alioth</item>
-        <item>aliothin</item>
-        <item>thyme</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
