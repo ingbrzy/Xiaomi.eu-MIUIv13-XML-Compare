@@ -202,6 +202,10 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">Crossfade between songs: %d seconds</item>
         <item quantity="one">Crossfade between songs: %d second</item>
     </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Earn %1$d coins today</item>
+        <item quantity="one">Earn %1$d coin today</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Videos</item>
         <item quantity="one">Video</item>
