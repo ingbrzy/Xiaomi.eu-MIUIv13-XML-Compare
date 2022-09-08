@@ -32,6 +32,7 @@ Removed: [or-rIN] strings.xml: string/edit_event_reminder_summary_3_days_before_
 Removed: [pa-rIN] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [pl] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [pt-rPT] strings.xml: string/birthday_event_title (format mismatch)
+Removed: [pt-rPT] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [ru] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [sk] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [sl] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
