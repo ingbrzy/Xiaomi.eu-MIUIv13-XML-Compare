@@ -492,6 +492,10 @@
         <item quantity="other">Receiving %2$d archives (%3$s) from %1$s…</item>
         <item quantity="one">Receiving %2$d archive (%3$s) from %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">上传了%d张照片</item>
+        <item quantity="one">上传了%d张照片</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d seconds</item>
         <item quantity="one">%1$d second</item>
@@ -559,6 +563,18 @@
     <plurals name="talkback_album_item_content">
         <item quantity="other">%1$s, %2$s items</item>
         <item quantity="one">%1$s, %2$s item</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d months</item>
+        <item quantity="one">%d month</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d years</item>
+        <item quantity="one">%d year</item>
     </plurals>
     <plurals name="today_of_year_location_num_unit">
         <item quantity="other"></item>
