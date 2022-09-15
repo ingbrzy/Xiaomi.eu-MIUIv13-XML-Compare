@@ -386,6 +386,8 @@ Toggle off to stop syncing."</string>
     <string name="branch_shortcuts">Shortcuts</string>
     <string name="branch_show_more">More</string>
     <string name="branch_terms_condition">Terms and conditions</string>
+    <string name="branch_trending_google_news">Google News</string>
+    <string name="branch_trending_youtube_news">YouTube</string>
     <string name="browser">Mi Browser</string>
     <string name="browserFrameFileErrorLabel">File error</string>
     <string name="browserFrameFormResubmitLabel" />
@@ -546,6 +548,7 @@ Toggle off to stop syncing."</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="cleared_garbage">Cleared %d MB of trash</string>
     <string name="click_always">Tap \"Always\"</string>
+    <string name="click_clean">Clear</string>
     <string name="click_to_refresh">Stopped here last time, tap to refresh</string>
     <string name="clip_dialog_title">Open the copied URL?</string>
     <string name="clipboard_title_text">Copied text</string>
@@ -582,8 +585,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">069ed02e29354ee4b311911ddd5d736e</string>
-    <string name="com.miapm.build_id">3f6618358bec4ec5871b5c8b8e202ee9</string>
+    <string name="com.crashlytics.android.build_id">d6ac0039269545e1a3771a4992656cf4</string>
+    <string name="com.miapm.build_id">457ddb8be2e64673adde8fcf666ba3ac</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -751,6 +754,7 @@ Send this code to the supervisor."</string>
     <string name="discovery__edit_feed_view__remove_this_book">delete this book and its introduction?</string>
     <string name="discovery__edit_feed_view__send">release</string>
     <string name="discovery__edit_feed_view__title_hint">title</string>
+    <string name="display__quick_entry_of_search">Show feature shortcuts in the Notification shade</string>
     <string name="dkcommon__web_pull_refresh_view__pull_down_tip">Pull down to refresh</string>
     <string name="dkcommon__web_pull_refresh_view__refresh_done_tip">Refreshed successfully</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Just a sec…</string>
@@ -902,6 +906,7 @@ Send this code to the supervisor."</string>
     <string name="empty_snapshot_hint">Empty</string>
     <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
     <string name="enable_miui_lite_plus">Enable MiuiLite+ debug</string>
+    <string name="enable_notification_permission_in_settings">Allow notifications in Settings to be able to use this feature.</string>
     <string name="encrypt_success">Hidden successfully</string>
     <string name="encrypting">Encrypting…</string>
     <string name="end_user_license">End User License Agreement</string>
@@ -1139,6 +1144,7 @@ Send this code to the supervisor."</string>
     <string name="game_news_flow_download_bar_play">Play</string>
     <string name="game_play">Play</string>
     <string name="game_played">Recent</string>
+    <string name="garbage_cleaning">Cleaner</string>
     <string name="garbage_details">Details</string>
     <string name="garbage_file">Trash</string>
     <string name="gcm_defaultSenderId">687676053922</string>
@@ -1350,13 +1356,16 @@ Send this code to the supervisor."</string>
     <string name="home_list_item_click">Home list item click</string>
     <string name="home_nf">Content feed</string>
     <string name="home_nf_recommend_on">Recommended for you</string>
+    <string name="home_page_simple">Simple</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="homepage_default">Default</string>
     <string name="homepage_delete_card_menu">Delete</string>
     <string name="homepage_get_location">Get location</string>
     <string name="homepage_get_location_failed">"Couldn't get info, choose a city"</string>
     <string name="homepage_more_cards">More services</string>
     <string name="homepage_more_sites">More websites</string>
     <string name="homepage_search_hint">Search</string>
+    <string name="homepage_setting">Start page settings</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="hot_games">Popular</string>
     <string name="i_know">Stop</string>
@@ -1425,6 +1434,7 @@ Send this code to the supervisor."</string>
     <string name="js_dialog_permission_name">Show popup dialogs</string>
     <string name="js_disable_confirm_message">Disabling JavaScript may cause some websites to display incorrectly.</string>
     <string name="js_disable_confirm_title">Disable JavaScript?</string>
+    <string name="junk_files_found">Trash found</string>
     <string name="just_a_second">Just a sec…</string>
     <string name="just_now">Just now</string>
     <string name="keep_intrercept">Stop</string>
@@ -1900,6 +1910,7 @@ Leave this page now?"</string>
     <string name="noti_no_permission_record">No items here.</string>
     <string name="noti_web_allow">Allowed</string>
     <string name="noti_web_push">Website notifications</string>
+    <string name="notice_bar_shortcut_entry">Notification shade shortcuts</string>
     <string name="notif_install_successful">Download complete</string>
     <string name="notification_category_browser">Browser</string>
     <string name="notification_category_downloads">Downloads</string>
@@ -2534,6 +2545,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qr_code_title">QR Code</string>
     <string name="qr_description">Scan QR code</string>
+    <string name="quick_search_and_access_to_functions">Quick search lets you easily access the features you use most.</string>
     <string name="quicklink_bookmark_save">Save to</string>
     <string name="quicklink_cannot_save_url">"This URL can't be added."</string>
     <string name="quicklink_folder_text">Top apps</string>
@@ -3101,6 +3113,7 @@ Try to modify your keyword?"</string>
     <string name="signin_tips_3">"- You'll be able to use your coins on all your devices."</string>
     <string name="signin_with_facebook">Sign in with Facebook</string>
     <string name="signin_with_google">Sign in with Google</string>
+    <string name="simple_page_toast">You can switch to default in Settings > Start page settings</string>
     <string name="skip">Skip</string>
     <string name="skip_current_version">Skip this version</string>
     <string name="sku_all">All</string>
@@ -3615,6 +3628,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Website settings</string>
     <string name="web_permission_setting_page_web_enhance_desc">Turn off to stop blocking ads on this website</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Block ads</string>
+    <string name="web_tag_desc">Show thumbnails of previously visited pages</string>
+    <string name="web_tag_tips">Tap here to revisit a page</string>
+    <string name="web_tag_title">Web page thumbnails</string>
     <string name="web_video_accelerate">Speed</string>
     <string name="web_video_default_time">00:00</string>
     <string name="web_video_download">Download</string>
