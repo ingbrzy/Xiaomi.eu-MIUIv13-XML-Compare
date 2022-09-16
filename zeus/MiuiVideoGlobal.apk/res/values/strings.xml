@@ -280,8 +280,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">12d1a7729c9741898b7e67eafd60cefb</string>
-    <string name="com.miapm.build_id">c19cc3b312cf46f38ad5fe46c47c3922</string>
+    <string name="com.crashlytics.android.build_id">1a231c0d9cf84d85946faa3f11f68f02</string>
+    <string name="com.miapm.build_id">46f5b25cee1c4fc9811a244a17ca92ea</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
