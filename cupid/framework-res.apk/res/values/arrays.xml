@@ -1589,4 +1589,7 @@
         <item>@string/wfcSpnFormat_spn_wifi_calling_vo_hyphen</item>
     </string-array>
     <array name="wifi_known_signers" />
+    <string-array name="window_tracing_whitelist">
+        <item>com.miui.uireporter</item>
+    </string-array>
 </resources>
