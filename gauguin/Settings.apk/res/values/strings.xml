@@ -10163,6 +10163,8 @@ Tap the plus to add words."</string>
     <string name="uwb_settings_title">Ultra-Wideband (UWB)</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="var_font_switch_dialog_summary">You need to reboot your device to change this setting.</string>
+    <string name="var_font_switch_dialog_title">Reboot device?</string>
     <string name="var_font_switch_title">System-wide variable font</string>
     <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
     <string name="verify_apps_over_usb_title">Verify apps over USB</string>
