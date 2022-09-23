@@ -2197,6 +2197,8 @@ If you have questions, contact %2$s."</string>
     <string name="rapid_charge_mode_tip">Quick charge</string>
     <string name="reboot_info_auto_boot_global">Upcoming alarm: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Shutdown alarm: %s</string>
+    <string name="reboot_to_bootloader_title">Fastboot mode</string>
+    <string name="reboot_to_recovery_title">Recovery mode</string>
     <string name="recent_conversations">Recent conversations</string>
     <string name="recent_used_camera">This app used camera</string>
     <string name="recent_used_camera_and_microphone">This app recorded audio and used camera</string>
