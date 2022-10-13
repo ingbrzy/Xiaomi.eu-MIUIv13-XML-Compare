@@ -493,8 +493,40 @@
         <item quantity="one">Receiving %2$d archive (%3$s) from %1$s…</item>
     </plurals>
     <plurals name="share_album_detail_photo_count">
-        <item quantity="other">上传了%d张照片</item>
-        <item quantity="one">上传了%d张照片</item>
+        <item quantity="other">Uploaded %d photos</item>
+        <item quantity="one">Uploaded %d photo</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d rooms</item>
+        <item quantity="one">%1$d room</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d screens</item>
+        <item quantity="one">%1$d screen</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d shared screens</item>
+        <item quantity="one">%1$d shared screen</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d smart home environments available</item>
+        <item quantity="one">%1$d smart home environment available</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d items are too big to sync</item>
+        <item quantity="one">%d item is too big to sync</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"Couldn't sync %d items. Upgrade your storage plan."</item>
+        <item quantity="one">"Couldn't sync %d item. Upgrade your storage plan."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"Couldn't sync %d items. Try again."</item>
+        <item quantity="one">"Couldn't sync %d item. Try again."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"Couldn't sync %d items. This album's owner is out of cloud storage."</item>
+        <item quantity="one">"Couldn't sync %d item. This album's owner is out of cloud storage."</item>
     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d seconds</item>
