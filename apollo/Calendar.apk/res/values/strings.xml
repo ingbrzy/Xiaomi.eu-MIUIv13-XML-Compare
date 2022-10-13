@@ -122,6 +122,7 @@
     <string name="book_card_rating_text">%1$s 条评论</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="button_record_menstruation">Record</string>
+    <string name="calendar_account_settings">Account settings</string>
     <string name="calendar_permission_desc">Manage events</string>
     <string name="calendar_privacy_policy">Privacy Policy</string>
     <string name="can_not_create_long_event">Event name is too long</string>
@@ -147,6 +148,7 @@
     <string name="change_zodiac">Change zodiac sign</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_new_version">Check for updates</string>
     <string name="check_reminded_text">查看提醒</string>
     <string name="childrens_day">儿童节</string>
     <string name="childrens_day_tradition">兒童節</string>
@@ -333,6 +335,7 @@
     <string name="di_zhi">地支</string>
     <string name="directory_searching_fmt">Searching %s…</string>
     <string name="discard_label">Cancel</string>
+    <string name="display_to_calendar">Show in Calendar</string>
     <string name="does_not_repeat">One-time event</string>
     <string name="double_seventh_day">七夕</string>
     <string name="double_seventh_day_tradition">七夕</string>
@@ -638,6 +641,7 @@
     <string name="hotel_detail_title">酒店信息</string>
     <string name="hotel_event_delete_successfully">酒店事件删除成功</string>
     <string name="hotel_event_title">入住酒店：</string>
+    <string name="hour_1">%d hour</string>
     <string name="huangli_bad_type">忌</string>
     <string name="huangli_good_type">宜</string>
     <string name="image_processing">"Image isn't ready yet"</string>
@@ -790,6 +794,10 @@
     <string name="mesens_card_title_today_begin">Period might start today</string>
     <string name="mesens_card_title_tomorrow_begin">Period might start tomorrow</string>
     <string name="midnight">Night</string>
+    <string name="minutes_10">%d minutes</string>
+    <string name="minutes_15">%d minutes</string>
+    <string name="minutes_30">%d minutes</string>
+    <string name="minutes_5">%d minutes</string>
     <string name="missing_name">(No name)</string>
     <string name="missing_required_permission">You have restricted required permissions.</string>
     <string name="miuix_access_state_desc">Selected</string>
@@ -1190,6 +1198,9 @@ Check network settings and try again."</string>
     <string name="shift_type_noon">中班</string>
     <string name="shift_type_rest">休息</string>
     <string name="short_date_format">MMM dd</string>
+    <string name="shortcut_new_event">Add event</string>
+    <string name="shortcut_next_agenda">Next event</string>
+    <string name="shortcut_settings">Settings</string>
     <string name="show_day_view">Show day</string>
     <string name="show_indic_date_summary">Indic calendar is available when one of the languages of India is set as your system language</string>
     <string name="show_menstruation_info">Show menstruation info</string>
@@ -1268,6 +1279,7 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="subtitle_mi_calendar_predict_menstruation">Record and estimate upcoming periods using Calendar</string>
     <string name="subtitle_record_and_start_predict">Record a period to estimate when the next one starts</string>
     <string name="subtitle_stick_record">Record your periods to get more accurate predictions</string>
+    <string name="suggestions_and_feedback">Feedback</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summer_begins">立夏</string>
     <string name="summer_begins_tradition">立夏</string>
