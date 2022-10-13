@@ -295,8 +295,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">cd77b148b2d042b99f50c8639d162e49</string>
-    <string name="com.miapm.build_id">be30b4f65c0e42f1a9ae4594571a1229</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">3e58b0ddf1b641e7a8d98d8ba6583896</string>
+    <string name="com.miapm.build_id">729c3db77c114d0b8b8664ed946d5a09</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -784,7 +784,7 @@ Send this code to the supervisor."</string>
     <string name="hungama_category_playlist">Playlists</string>
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Videos</string>
-    <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_category_vip">Gold</string>
     <string name="hungama_download_subscription_toast">Subscribe to Hungama Music to download this song</string>
     <string name="hungama_free_download_out_summary">"You can't download more free songs. Get a PRO membership to download unlimited songs?"</string>
     <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
@@ -793,7 +793,7 @@ Send this code to the supervisor."</string>
     <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
     <string name="hungama_privacy_tips_content">To get access to online content, you must agree to <a href="/link/click">Hungama Privacy Policy</a>.</string>
     <string name="hungama_privacy_tips_title">Hungama Privacy Policy</string>
-    <string name="hungama_pro">Hungama Pro</string>
+    <string name="hungama_pro">Hungama Gold</string>
     <string name="hungama_subscribe_message">Buy PRO membership to download music in high quality.</string>
     <string name="hungama_subscribe_positive_button">Buy PRO membership</string>
     <string name="hungama_subscribe_title">PRO membership</string>
@@ -1738,6 +1738,7 @@ Be Happy"</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_to_upgrade">An update is available</string>
+    <string name="tips_click_here_to_continue">Tap to resume playback</string>
     <string name="title_command_mode">Command mode</string>
     <string name="title_online_fm_recommend">Featured FM</string>
     <string name="title_online_recommend">Featured playlists</string>

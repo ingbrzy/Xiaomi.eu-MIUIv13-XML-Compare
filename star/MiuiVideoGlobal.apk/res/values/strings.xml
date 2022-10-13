@@ -280,8 +280,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">1a231c0d9cf84d85946faa3f11f68f02</string>
-    <string name="com.miapm.build_id">46f5b25cee1c4fc9811a244a17ca92ea</string>
+    <string name="com.crashlytics.android.build_id">ecfe9302fca5434396d01811dbbf3e09</string>
+    <string name="com.miapm.build_id">f173b86a93674a8fa91b768dd2dd7f63</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -437,7 +437,6 @@ Send this code to the supervisor."</string>
     <string name="download_paused">Paused</string>
     <string name="download_pending">Pending…</string>
     <string name="download_power_off_tips">"This feature isn't available now"</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_retry">Try again</string>
     <string name="download_space_info" formatted="false">%s, %s</string>
     <string name="download_unable_tip">"Can't download this item"</string>
@@ -467,23 +466,41 @@ Send this code to the supervisor."</string>
     <string name="evening">Afternoon</string>
     <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
     <string name="exit">Exit</string>
+    <string name="exo_controls_cc_disabled_description">Enable subtitles</string>
+    <string name="exo_controls_cc_enabled_description">Disable subtitles</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Fast forward</string>
-    <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
-    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_fullscreen_enter_description">Enter fullscreen</string>
+    <string name="exo_controls_fullscreen_exit_description">Exit fullscreen</string>
+    <string name="exo_controls_hide">Hide player controls</string>
+    <string name="exo_controls_next_description">Next</string>
+    <string name="exo_controls_overflow_hide_description">Hide additional settings</string>
+    <string name="exo_controls_overflow_show_description">Show additional settings</string>
     <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Play</string>
-    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_playback_speed">Speed</string>
+    <string name="exo_controls_playback_speed_normal">Normal</string>
+    <string name="exo_controls_previous_description">Previous</string>
     <string name="exo_controls_repeat_all_description">Repeat all</string>
     <string name="exo_controls_repeat_off_description">Repeat none</string>
     <string name="exo_controls_repeat_one_description">Repeat one</string>
     <string name="exo_controls_rewind_description">Rewind</string>
-    <string name="exo_controls_shuffle_description">Shuffle</string>
+    <string name="exo_controls_seek_bar_description">Playback progress</string>
+    <string name="exo_controls_settings_description">Settings</string>
+    <string name="exo_controls_show">Show player controls</string>
+    <string name="exo_controls_shuffle_off_description">Shuffle off</string>
+    <string name="exo_controls_shuffle_on_description">Shuffle on</string>
     <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
+    <string name="exo_controls_vr_description">VR mode</string>
     <string name="exo_download_completed">Download completed</string>
     <string name="exo_download_description">Download</string>
     <string name="exo_download_downloading">Downloading</string>
     <string name="exo_download_failed">Download failed</string>
     <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads paused</string>
+    <string name="exo_download_paused_for_network">Downloads waiting for network</string>
+    <string name="exo_download_paused_for_wifi">Downloads waiting for WiFi</string>
     <string name="exo_download_removing">Removing downloads</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Repeat all</string>
@@ -492,6 +509,10 @@ Send this code to the supervisor."</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternate</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Commentary</string>
+    <string name="exo_track_role_supplementary">Supplementary</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">None</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -515,6 +536,7 @@ Send this code to the supervisor."</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
+    <string name="fast_channel_popular">Popular channels</string>
     <string name="favor_movie">Movies</string>
     <string name="favor_online_video">Videos</string>
     <string name="favor_playlist">Playlists</string>
@@ -527,6 +549,18 @@ Send this code to the supervisor."</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="fcm_no_args">String with no arguments</string>
     <string name="fcm_push_title">Popular videos</string>
+    <string name="fcmpts_dialog_continue">Watch</string>
+    <string name="fcmpts_dialog_not_interested">No thanks</string>
+    <string name="fcmpts_dialog_two" formatted="false">Watch %d more seconds of %d more video to earn a Mi Store coupon</string>
+    <string name="fcmpts_popup_final">Claimed successfully! Tap to redeem rewards.</string>
+    <string name="fcmpts_popup_final_redeem">Redeem</string>
+    <string name="fcmpts_popup_four" formatted="false">Claimed successfully! Watch %d seconds of %d more video to earn a Mi Store coupon.</string>
+    <string name="fcmpts_popup_one" formatted="false">Watch %d videos today to earn a %d-point Mi Store coupon</string>
+    <string name="fcmpts_popup_one_cts">Watch</string>
+    <string name="fcmpts_popup_three" formatted="false">Watched for %d seconds. You earned %d points!</string>
+    <string name="fcmpts_popup_three_claim">Claim</string>
+    <string name="fcmpts_popup_three_login_claim">Sign in</string>
+    <string name="fcmpts_popup_two" formatted="false">Watch this video for %d seconds to earn %d points</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Enter your contact info</string>
@@ -1282,7 +1316,6 @@ for videos"</string>
     <string name="nick_name">Nickname</string>
     <string name="night">Evening</string>
     <string name="no_account">Not signed in</string>
-    <string name="no_app_found_error">"Couldn't find app"</string>
     <string name="no_history">No items here</string>
     <string name="no_longer_prompt">"Don't show again"</string>
     <string name="no_more_content">"That's all for now"</string>
@@ -1689,6 +1722,7 @@ Increase the security of your account."</string>
     <string name="plus_shortcut_existed">This shortcut already exists</string>
     <string name="plus_sort_title">Sort</string>
     <string name="plus_sort_type_default">Default</string>
+    <string name="plus_sort_type_duration">Length</string>
     <string name="plus_sort_type_name">Name</string>
     <string name="plus_sort_type_size">Size</string>
     <string name="plus_sort_type_time">Time</string>
@@ -1740,6 +1774,7 @@ Increase the security of your account."</string>
     <string name="recommend_online_switch">Online recommendations</string>
     <string name="recommend_online_tips">Turn on to receive online video recommendations</string>
     <string name="recommend_page_replay">REPLAY</string>
+    <string name="recommend_slide_to_more">Swipe for more</string>
     <string name="recommend_switch_alert">To remove this section, go to settings in Mi Video</string>
     <string name="recommend_to_you">Recommended to you</string>
     <string name="reload_sub_title">Tap to try again.</string>
