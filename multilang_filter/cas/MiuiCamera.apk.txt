@@ -23,6 +23,8 @@ Removed: [pl] strings.xml: string/moiton_detection_video_temperature_stop_tip (f
 Removed: [pt-rBR] strings.xml: string/download_hint_cn (format mismatch)
 Removed: [pt-rBR] strings.xml: string/download_hint_wifi (format mismatch)
 Removed: [ro] strings.xml: string/update_loading (format mismatch)
+Removed: [ru] strings.xml: string/moiton_detection_video_3840fps_3840 (format mismatch)
+Removed: [ru] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
 Removed: [sk] strings.xml: string/dolly_zoom_capture_tip1 (format mismatch)
 Removed: [sk] strings.xml: string/update_loading (format mismatch)
 Removed: [sr] strings.xml: string/update_loading (format mismatch)
