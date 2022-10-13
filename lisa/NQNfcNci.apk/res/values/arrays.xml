@@ -227,6 +227,7 @@
     </string-array>
     <string-array name="qr_code_component_array">
         <item>com.tencent.mm/com.tencent.mm.plugin.offline.ui.WalletOfflineCoinPurseUI</item>
+        <item>com.tencent.mm/com.tencent.mm.framework.app.UIPageFragmentActivity</item>
         <item>com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin</item>
         <item>com.eg.android.AlipayGphone/com.alipay.mobile.onsitepay.merge.OnsitepayActivity</item>
         <item>com.eg.android.AlipayGphone/com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity</item>
