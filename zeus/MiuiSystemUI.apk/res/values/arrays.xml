@@ -1848,6 +1848,7 @@
         <item>com.xiaomi.aiasst.vision:ai_toolbox_fs</item>
         <item>com.quicinc.voice.activation</item>
         <item>com.oray.sunlogin.service</item>
+        <item>com.magiear.handsfree.assistant</item>
     </string-array>
     <string-array name="system_ui_packages">
         <item>com.android.keyguard</item>
