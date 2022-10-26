@@ -1,4 +1,3 @@
-Removed: [be] strings.xml: string/power_dialog_performance_mode_checkbox (format mismatch)
 Removed: [cs] arrays.xml: array/date_of_traffic_prefix_cmcc (item mismatch)
 Removed: [cs] strings.xml: string/gb_predownload_noti_message (format mismatch)
 Removed: [hu] strings.xml: string/app_running_tip_dialog_text (format mismatch)
