@@ -227,7 +227,7 @@
     <string name="earthly_branches_zi">子</string>
     <string name="elder_mode_setting">长辈模式设置</string>
     <string name="elder_mode_setting_subtitle">防止误安装有害应用，守护隐私安全</string>
-    <string name="elder_mode_subtitle">防止误安装有害应用，守护隐私安全，防诈骗，流量使用保护</string>
+    <string name="elder_mode_subtitle">防止误安装有害应用，守护隐私安全，防诈骗</string>
     <string name="elder_mode_title">长辈模式</string>
     <string name="empty" />
     <string name="empty_app">No apps</string>
@@ -337,6 +337,8 @@
     <string name="install_package_description">>Installation package details</string>
     <string name="install_package_error">"This app isn't compatible with your system"</string>
     <string name="install_package_error_des">Contact the developer or install a compatible version from GetApps.</string>
+    <string name="install_package_error_four">该应用以破坏系统安全方式安装</string>
+    <string name="install_package_error_four_des">卸载或关闭“未知安装来源”权限</string>
     <string name="install_unknow_source">Install unknown apps</string>
     <string name="install_version">Version: %1$s</string>
     <string name="install_version_replace">Version: %1$s > %2$s</string>
@@ -373,7 +375,7 @@
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="manage_device_administrators">Manage device administrators</string>
     <string name="manage_users">Manage users</string>
-    <string name="marketSdkVersion">3.2.13</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_hour_selection">Select hour</string>
@@ -664,6 +666,7 @@
     <string name="pure_mode_tip_dialog_des">请确认本次安装是您主动选择</string>
     <string name="pure_mode_tip_dialog_elderly_des">安全守护中，为保护您的权益，避免无用应用占用存储空间，及恶意应用带来安全风险，已禁止非官方来源的应用安装。</string>
     <string name="pure_mode_tip_dialog_elderly_set">如仍需安装，您可前往「安全守护设置」中操作。</string>
+    <string name="pure_mode_tip_dialog_elderly_set_click">「安全守护设置」</string>
     <string name="pure_mode_tip_dialog_title">%1$s正在尝试安装应用</string>
     <string name="pure_mode_title">Neutralize risks during installation</string>
     <string name="pure_tip_virus">This app contains viruses: %1$s</string>
@@ -772,6 +775,9 @@
     <string name="service_mode_app_error_install_summary">从非官方渠道安装应用时给予提示，避免被广告应用、恶意应用等诱导下载广告</string>
     <string name="service_mode_app_security_detection">应用安全检测</string>
     <string name="service_mode_app_security_detection_summary">识别和管控风险、有害、病毒应用，限制安装，防止系统遭到破坏</string>
+    <string name="service_mode_elder_app_error_install_summary">默认禁止从非官方渠道安装应用，避免被广告应用、恶意应用等诱导下载广告</string>
+    <string name="service_mode_elder_risk_app_download">风险应用下载防护</string>
+    <string name="service_mode_elder_risk_app_download_summary">默认禁止通过小米浏览器下载风险应用，防止被诱导安装病毒、风险、广告应用</string>
     <string name="service_mode_pay_protection">支付安全保护</string>
     <string name="service_mode_pay_protection_summary">检测支付环境安全，识别支付风险，保护财产安全</string>
     <string name="service_mode_risk_app_download">风险应用下载提醒</string>
