@@ -6,6 +6,7 @@ Removed: [bg] strings.xml: string/edit_event_reminder_summary_3_days_before_toda
 Removed: [bn-rBD] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [bn-rIN] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [bs] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
+Removed: [ca] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [cs] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [da] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [de] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
