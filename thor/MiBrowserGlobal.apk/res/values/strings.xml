@@ -199,6 +199,7 @@
     <string name="autologin_bar_login_text">Sign in</string>
     <string name="autologin_bar_text">Sign in as</string>
     <string name="avatar">Profile photo</string>
+    <string name="back">返回</string>
     <string name="back_description">Back</string>
     <string name="back_home">Release for Homepage</string>
     <string name="batch_download_tip">Looks like multiple items are being downloaded at the same time. Block these downloads?</string>
@@ -585,8 +586,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">d6ac0039269545e1a3771a4992656cf4</string>
-    <string name="com.miapm.build_id">457ddb8be2e64673adde8fcf666ba3ac</string>
+    <string name="com.crashlytics.android.build_id">19a640f76ee040bdbbcd95329d5e5f76</string>
+    <string name="com.miapm.build_id">87a333551f23439789c50806e2d7dfbd</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -916,16 +917,20 @@ Send this code to the supervisor."</string>
     <string name="enter_news_by_pull_down">Release to open Content feed</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
+    <string name="error_contert_failed">文档格式不支持，请选用其他应用查看</string>
     <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
     <string name="error_filename_too_long">The filename you entered is too long.</string>
     <string name="error_folder_already_exists">This file already exists</string>
     <string name="error_forbidden">Sync has been turned off due to problems with your Xiaomi Account.</string>
     <string name="error_info_cant_send_folder">"Can't send folders."</string>
     <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
+    <string name="error_invalid_file_name">文件名为空</string>
+    <string name="error_invalid_file_path">文件路径错误：</string>
     <string name="error_not_acceptable">Sync is off.</string>
     <string name="error_not_support">Not supported</string>
     <string name="error_not_url_tips">Enter a valid URL</string>
     <string name="error_open_file_failed_no_app_found">"Couldn't find apps to open this file."</string>
+    <string name="error_out_of_memeory">没有足够可用的内存来打开当前文档</string>
     <string name="error_title">"Couldn't sync"</string>
     <string name="error_unauthorized">Syncing with your Xiaomi Account has been turned off due to too many sign-in attempts.</string>
     <string name="error_unsupport_url_tips">"Can't download this video. We currently support downloading videos from Facebook, Twitter, and Instagram."</string>
@@ -1049,6 +1054,7 @@ Send this code to the supervisor."</string>
     <string name="file_type">Format: %s</string>
     <string name="filename_empty_alert_message">Enter file name</string>
     <string name="filename_illegal_alert_message">An invalid character was removed from the file name</string>
+    <string name="files_stored_in_the_phone">Files stored on this device</string>
     <string name="find_garbage">Found %d MB of trash</string>
     <string name="find_new_version">NEW UPDATE AVAILABLE</string>
     <string name="find_on_page_cancel">Cancel</string>
@@ -1456,6 +1462,7 @@ Send this code to the supervisor."</string>
     <string name="loading_tips">Pull down to refresh</string>
     <string name="local_apps">Local apps</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Local files</string>
     <string name="location_permission_name">Access location</string>
     <string name="lockpattern_continue_button_text">Next</string>
     <string name="lockpattern_need_to_confirm">Confirm unlock pattern</string>
@@ -1593,6 +1600,7 @@ Send this code to the supervisor."</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">More</string>
+    <string name="more_convenient_features_and_content">See what new tools and content Browser has to offer!</string>
     <string name="more_description">Menu</string>
     <string name="more_info">Learn more</string>
     <string name="more_option">More options</string>
@@ -1856,7 +1864,7 @@ Leave this page now?"</string>
     <string name="next">Next</string>
     <string name="nf_choose_reason">Describe the issue</string>
     <string name="nf_content_gif_label">GIF</string>
-    <string name="nf_content_promo_label">ПРОМО</string>
+    <string name="nf_content_promo_label">Реклама</string>
     <string name="nf_detail_collection">Add to favorites</string>
     <string name="nf_dislike">Not interesting</string>
     <string name="nf_feed_list_exit_toast">Tap again to close Content feed</string>
@@ -1887,6 +1895,7 @@ Leave this page now?"</string>
     <string name="no_items">No more items here.</string>
     <string name="no_more_games">No more games</string>
     <string name="no_network">Check your network connection and try again.</string>
+    <string name="no_other_app">系统没有其他可用程序</string>
     <string name="no_phone">No phone number</string>
     <string name="no_recent_files">No recent files</string>
     <string name="no_space_alert_cancel">Later</string>
@@ -2295,6 +2304,7 @@ Leave this page now?"</string>
     <string name="pick_file">Choose files</string>
     <string name="ping_test_title">Network delay</string>
     <string name="players_still_play">&lt;font color=#ff2458>%s&lt;/font> of the gamers also like these</string>
+    <string name="plguin_more_open_dialog_title">使用其他方式打开</string>
     <string name="pm">PM</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
@@ -2545,6 +2555,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qr_code_title">QR Code</string>
     <string name="qr_description">Scan QR code</string>
+    <string name="quick_access_to_common_functions">Quickly access your favorite features</string>
     <string name="quick_search_and_access_to_functions">Quick search lets you easily access the features you use most.</string>
     <string name="quicklink_bookmark_save">Save to</string>
     <string name="quicklink_cannot_save_url">"This URL can't be added."</string>
@@ -2562,6 +2573,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="quicklinks_most_visited">Add to start page</string>
     <string name="quicklinks_most_visited_subtitle">Show recently visited sites in new tab</string>
     <string name="quicklinks_most_visited_title">Add to start page</string>
+    <string name="read_failed">使用其他应用打开文档失败</string>
     <string name="reading__ad_free_timeout__cancel">forget it</string>
     <string name="reading__ad_free_timeout__ok">up to 30 minutes of free advertising</string>
     <string name="reading__ad_unlock_ad_failed_too_many">"Couldn't load ad. Unlocked this chapter for free."</string>
@@ -3010,6 +3022,9 @@ Try to modify your keyword?"</string>
     <string name="search_bar_hint_content">Search apps and content</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Go</string>
+    <string name="search_card_online_rec_app">App markets</string>
+    <string name="search_card_online_rec_app_install">Install</string>
+    <string name="search_card_online_rec_app_open">Open</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">"Couldn't find anything"</string>
@@ -3087,7 +3102,10 @@ Try to modify your keyword?"</string>
     <string name="setting_sms_content">SMS content</string>
     <string name="setting_swipe_up">Swipe up on Home screen</string>
     <string name="settings">Settings</string>
+    <string name="settings_search_online_apps">App markets</string>
+    <string name="settings_search_online_apps_desc">Content from app markets</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
+    <string name="share_dialog_title">分享</string>
     <string name="share_image_text">Look what I shared! @MIUI</string>
     <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Look what I shared: %1$s</string>
@@ -3160,6 +3178,7 @@ Try to modify your keyword?"</string>
     <string name="speed_test_upload">Upload</string>
     <string name="splash__access_dialog_agree">Agree</string>
     <string name="splash__access_dialog_protect">Terms and conditions</string>
+    <string name="split_line">%1$s | %2$s</string>
     <string name="srl_component_falsify" formatted="false">"%s falsify area,
  Represents the height[%.1fdp] of drag at run time,
  It does not show anything."</string>
@@ -3419,6 +3438,7 @@ Try to modify your keyword?"</string>
     <string name="translation_query_error_network">"Couldn't translate. Check your network settings and try again."</string>
     <string name="translation_result_empty">"Couldn't translate. Try again."</string>
     <string name="translation_to">Translate into</string>
+    <string name="trash_cleaner_unit">MB</string>
     <string name="trending_apps_more">More</string>
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
@@ -3632,10 +3652,11 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_tips">Tap here to revisit a page</string>
     <string name="web_tag_title">Web page thumbnails</string>
     <string name="web_video_accelerate">Speed</string>
-    <string name="web_video_default_time">00:00</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">Download</string>
     <string name="web_video_download_no_access">Permissions required to download items</string>
     <string name="web_video_enable_long_click_toast">Playing at %dX speed</string>
+    <string name="web_video_float_drag_msg">Drag to adjust size</string>
     <string name="web_video_list_more">More</string>
     <string name="web_video_list_playing">Playing</string>
     <string name="web_video_list_replay">Replay</string>
