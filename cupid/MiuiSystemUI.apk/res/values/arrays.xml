@@ -1804,6 +1804,7 @@
         <item>com.xiaomi.gamecenter.sdk.service</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
+        <item>com.miui.voicetrigger</item>
         <item>com.xiaomi.uatalive:mimonitor_bootload</item>
         <item>com.jtom.userprobation</item>
         <item>com.xiaomi.joyose</item>
@@ -1848,6 +1849,7 @@
         <item>com.xiaomi.aiasst.vision:ai_toolbox_fs</item>
         <item>com.quicinc.voice.activation</item>
         <item>com.oray.sunlogin.service</item>
+        <item>com.magiear.handsfree.assistant</item>
     </string-array>
     <string-array name="system_ui_packages">
         <item>com.android.keyguard</item>

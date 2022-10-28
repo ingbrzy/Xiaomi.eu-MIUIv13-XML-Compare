@@ -527,6 +527,7 @@
     <string name="incomingmessage">Incoming message</string>
     <string name="internal_livetalk_enable">Using top-up package for domestic calls</string>
     <string name="international_livetalk_enable">Using top-up package for international calls</string>
+    <string name="kb_reset_toast">Reset keyboard successfully</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Space</string>
     <string name="keyboard_connect_failed">"Couldn't connect keyboard. Attach again."</string>
@@ -686,6 +687,10 @@
     <string name="relaunch_unfold_notification_content">This app might not be displayed correctly on this screen. Restart the app to adjust layouts.</string>
     <string name="remain">Remaining: %s</string>
     <string name="replace">Replace</string>
+    <string name="rescueparty_package_tips">System service {0} corruption detected</string>
+    <string name="rescuepartyplus_config_reset_context">Some data may have been cleared. Tap to view details.</string>
+    <string name="rescuepartyplus_config_reset_title">System repair complete</string>
+    <string name="rescuepartyplus_config_reset_url">https://new.c.mi.com/global/post/109818</string>
     <string name="resolver_app_recommend_flag">Recommend</string>
     <string name="resolver_checkbox_always">Always</string>
     <string name="resolver_checkbox_once">Once</string>

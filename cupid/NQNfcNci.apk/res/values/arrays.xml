@@ -232,6 +232,7 @@
         <item>com.eg.android.AlipayGphone/com.alipay.mobile.onsitepay.merge.OnsitepayActivity</item>
         <item>com.eg.android.AlipayGphone/com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity</item>
         <item>com.unionpay/com.unionpay.activity.payment.UPActivityPaymentQrCodeOut</item>
+        <item>com.unionpay/com.unionpay.activity.payment.UPActivityPaymentQrCodeIn</item>
         <item>com.unionpay/com.unionpay.activity.react.UPActivityReactNative</item>
     </string-array>
     <string-array name="solar_terms">
