@@ -180,6 +180,7 @@
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application">Apps</string>
     <string name="application_name">Browser</string>
+    <string name="application_upgrade">Updates</string>
     <string name="aqi_quality_index_break">Severely hazardous</string>
     <string name="aqi_quality_index_dangerous">Dangerous</string>
     <string name="aqi_quality_index_good">Good</string>
@@ -540,9 +541,12 @@ Toggle off to stop syncing."</string>
     <string name="choose_to_signin">Yes</string>
     <string name="choose_to_signup">"No, I'll create one"</string>
     <string name="choosertitle_sharevia">Share via</string>
+    <string name="clean_cache">Clear cache</string>
     <string name="clear">Clear</string>
     <string name="clear_history">Clear history</string>
     <string name="clear_most_visited">Recent history</string>
+    <string name="clear_result_page_more_content">Discover more</string>
+    <string name="clear_result_page_show_more">View more</string>
     <string name="clear_search_history">Clear history</string>
     <string name="clear_transfer_summary">Clear system settings flags, so you can re-transfer</string>
     <string name="clear_transfer_title">Clear transfer flags</string>
@@ -586,8 +590,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">19a640f76ee040bdbbcd95329d5e5f76</string>
-    <string name="com.miapm.build_id">87a333551f23439789c50806e2d7dfbd</string>
+    <string name="com.crashlytics.android.build_id">1e40161631c44489964d10ab8582e126</string>
+    <string name="com.miapm.build_id">bb30c759df6e4c729858e7356305e00a</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -1144,6 +1148,7 @@ Send this code to the supervisor."</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
     <string name="gaid">GAID(Click To Export)</string>
+    <string name="game_center">Games</string>
     <string name="game_center_recommend_play">Play</string>
     <string name="game_center_recommend_title">Recommended for you</string>
     <string name="game_news_flow_download_bar_download">Download</string>
@@ -1374,6 +1379,7 @@ Send this code to the supervisor."</string>
     <string name="homepage_setting">Start page settings</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="hot_games">Popular</string>
+    <string name="hour_minute">%1$s %2$s</string>
     <string name="i_know">Stop</string>
     <string name="identity">Identification</string>
     <string name="if_cancel">Cancel this operation?</string>
@@ -1463,6 +1469,7 @@ Send this code to the supervisor."</string>
     <string name="local_apps">Local apps</string>
     <string name="local_bookmarks">Mi</string>
     <string name="local_file">Local files</string>
+    <string name="local_video_player_label">Video player (Mi Browser)</string>
     <string name="location_permission_name">Access location</string>
     <string name="lockpattern_continue_button_text">Next</string>
     <string name="lockpattern_need_to_confirm">Confirm unlock pattern</string>
@@ -1495,6 +1502,7 @@ Send this code to the supervisor."</string>
     <string name="media_error_video_not_exist">"Video doesn't exist"</string>
     <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
     <string name="memory_clear_result">%1$s cleared</string>
+    <string name="memory_management">Manage storage</string>
     <string name="memory_usage">Memory</string>
     <string name="menu_addtodesk">Add to Home screen</string>
     <string name="menu_exit_nightmode">Exit</string>
@@ -1898,6 +1906,7 @@ Leave this page now?"</string>
     <string name="no_other_app">系统没有其他可用程序</string>
     <string name="no_phone">No phone number</string>
     <string name="no_recent_files">No recent files</string>
+    <string name="no_scalable_applications">All apps are up to date</string>
     <string name="no_space_alert_cancel">Later</string>
     <string name="no_space_alert_clean">Free up space</string>
     <string name="no_space_alert_text">Not enough storage space</string>
@@ -1934,6 +1943,7 @@ Leave this page now?"</string>
     <string name="novel_continue_read_popup">Read</string>
     <string name="novel_tab_popup">View your newest books here</string>
     <string name="novel_tab_popup_ok">OK</string>
+    <string name="occupy" formatted="false">%d% occupied</string>
     <string name="offline_notification_text">Tap to open ad</string>
     <string name="offline_notification_title">View the ad you saved when you were offline</string>
     <string name="offline_opt_in_confirm">OK</string>
@@ -2309,6 +2319,7 @@ Leave this page now?"</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
     <string name="positive_confirm_message">Turn off anyway</string>
+    <string name="power_saving_settings">Battery saver</string>
     <string name="pref_accessibility">Accessibility</string>
     <string name="pref_accessibility_title">Accessibility</string>
     <string name="pref_adblock_summary">Pages might load slower when this feature is on</string>
@@ -3402,6 +3413,7 @@ Try to modify your keyword?"</string>
     <string name="the_united_nations_day">United Nations Day</string>
     <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
+    <string name="third_image_viewer_label">Image viewer (Mi Browser)</string>
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
@@ -3459,6 +3471,7 @@ Try to modify your keyword?"</string>
     <string name="update_no_network_toast">"Can't connect to the network"</string>
     <string name="update_now">UPDATE NOW</string>
     <string name="update_phone_notice">Change security settings</string>
+    <string name="upgrade">Update</string>
     <string name="upload_error_log">Upload log</string>
     <string name="upload_usage_statistics">Turn on to share usage stats with us when Incognito mode is on</string>
     <string name="uploads_disabled">File uploads are restricted</string>

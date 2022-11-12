@@ -367,6 +367,7 @@
         <item>redwood</item>
         <item>redwoodin</item>
         <item>rembrandt</item>
+        <item>socrates</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>

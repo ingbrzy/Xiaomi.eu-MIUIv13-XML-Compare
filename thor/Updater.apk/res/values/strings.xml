@@ -87,6 +87,6 @@ Updates are not available for you!"</string>
     <string name="stable">Stable</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="version">Currently installed:</string>
-    <string name="weekly">Weekly</string>
+    <string name="weekly">Beta</string>
     <string name="wifi_recommended">No WiFi connection to start download safely!</string>
 </resources>
