@@ -2917,7 +2917,7 @@ This setting affects all users of this device."</string>
     <string name="device_description_cpu">CPU</string>
     <string name="device_description_ram">RAM</string>
     <string name="device_description_resolution">Resolution</string>
-    <string name="device_description_screen">Screen size</string>
+    <string name="device_description_screen">Display</string>
     <string name="device_details_title">Device details</string>
     <string name="device_display_layout_title">Special features</string>
     <string name="device_edit_title">Rename device</string>
