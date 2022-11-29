@@ -74,7 +74,7 @@
     <string name="aqi_data_source">Powered by Colorful Clouds</string>
     <string name="aqi_desc">Air Quality Index</string>
     <string name="aqi_detail_24_hours">%d-hour forecast</string>
-    <string name="aqi_detail_5_days">5-day forecast</string>
+    <string name="aqi_detail_5_days">%d-day forecast</string>
     <string name="aqi_detail_co">CO</string>
     <string name="aqi_detail_co_unit">Unit: mg/m³</string>
     <string name="aqi_detail_no2">NO₂</string>

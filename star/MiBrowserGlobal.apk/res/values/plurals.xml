@@ -309,6 +309,14 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="opr_activity_news_task">
+        <item quantity="other">Browse %d news stories</item>
+        <item quantity="one">Browse %d news story</item>
+    </plurals>
+    <plurals name="opr_activity_svideo_task">
+        <item quantity="other">Watch %d short videos</item>
+        <item quantity="one">Watch %d short video</item>
+    </plurals>
     <plurals name="person_menu_protect_count">
         <item quantity="other">Protected %s times</item>
         <item quantity="one">Protected %s time</item>

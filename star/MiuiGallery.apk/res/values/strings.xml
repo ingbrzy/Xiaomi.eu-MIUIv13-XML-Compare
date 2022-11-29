@@ -3408,6 +3408,12 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="stop_migration_msg">"You won't be able to resume the transfer if you stop it now. If you decide to stop the transfer, you can visit i.mi.com to download the items still stored in Xiaomi Cloud."</string>
     <string name="stop_migration_ok">Stop</string>
     <string name="stop_migration_title">Stop the transfer now?</string>
+    <string name="stop_use_secret_cancel">Not now</string>
+    <string name="stop_use_secret_msg">"Your photos and videos are no longer synced with Xiaomi Cloud. You won't be able to use your private album as it relies on cloud encryption.
+Until %1$s, you can move your items to Google Photos or visit i.mi.com to download them. After that, the items that are still stored in Xiaomi Cloud will be permanently deleted.
+%2$s"</string>
+    <string name="stop_use_secret_ok">Transfer items</string>
+    <string name="stop_use_secret_title">Private album is no longer available</string>
     <string name="storage_description_primary">Internal storage</string>
     <string name="storage_description_sdcard">SD card</string>
     <string name="storage_description_usb">USB storage</string>

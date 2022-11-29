@@ -196,6 +196,8 @@
     <string name="audio_picker_title">Choose a song</string>
     <string name="auth_fail_warning">Session expired. Sign in again.</string>
     <string name="auth_pay_fail">Recharge failed, please re-enter the page later to check the coin balance or contact customer service</string>
+    <string name="auto_play_switch">Autoplay videos</string>
+    <string name="auto_play_toast">Autoplay is on. You can turn it off in Settings.</string>
     <string name="auto_recommend">Auto (recommended)</string>
     <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Update automatically</string>
@@ -416,8 +418,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">9ef0b3b9be53476987f0a8a87d4e4a3b</string>
-    <string name="com.miapm.build_id">f51dc16978bb45f8bcc36bd49ed5d67b</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">b02ae8ec3a2d4e62a7e4620b5e8cb1f6</string>
+    <string name="com.miapm.build_id">5a9a91f3dcd54257a47eb264f2c6bf86</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
