@@ -3141,7 +3141,7 @@ This setting affects all users of this device."</string>
     <string name="device_description_cpu">CPU</string>
     <string name="device_description_ram">RAM</string>
     <string name="device_description_resolution">Resolution</string>
-    <string name="device_description_screen">Screen size</string>
+    <string name="device_description_screen">Display</string>
     <string name="device_details_title">Device details</string>
     <string name="device_display_layout_title">Special features</string>
     <string name="device_edit_title">Rename device</string>
@@ -5158,6 +5158,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="legacy_control_center_title">Old version</string>
     <string name="legacy_navigation_summary">Go back, Home, and switch apps with buttons at the bottom of your screen.</string>
     <string name="legacy_navigation_title">3-button navigation</string>
+    <string name="legacy_power_menu">Legacy power menu</string>
     <string name="legal_information">Legal information</string>
     <string name="legal_workday">Legal workdays</string>
     <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>

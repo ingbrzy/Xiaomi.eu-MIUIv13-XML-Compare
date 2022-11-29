@@ -59,6 +59,7 @@
     <string name="accessibility_volume_expand">Expand</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
+    <string name="airplane">Airplane</string>
     <string name="airplane_mode">Airplane mode</string>
     <string name="already_in_small_freeform">Some apps are opened in floating windows</string>
     <string name="am">AM</string>
@@ -68,6 +69,7 @@
     <string name="auto_brightness_on">Auto brightness is on</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Navigation buttons disabled, double tap any button to turn them back on.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigation buttons enabled</string>
+    <string name="bootloader">Fastboot</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bt_is_off">Bluetooth is off</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
@@ -573,6 +575,7 @@
     <string name="quick_settings_wireless_label">Reverse wireless charging</string>
     <string name="reboot_info_auto_boot">Upcoming alarm: %s</string>
     <string name="reboot_info_shutdown_alarm">Shutdown alarm: %s</string>
+    <string name="recovery">Recovery</string>
     <string name="reset">Reset</string>
     <string name="restart">Reboot</string>
     <string name="safe_media_volume_warning">"Raise volume above recommended level?
@@ -584,7 +587,10 @@ Long exposure to loud sounds can cause hearing problems."</string>
     <string name="save">Save</string>
     <string name="search_menu_title">Search</string>
     <string name="send">Send</string>
+    <string name="silent">Silent</string>
     <string name="slider_view_content_description">Slide up to power off or slide down to reboot</string>
+    <string name="slider_view_content_left_description">Slide up to reboot to Fastboot mode or slide down to reboot to Recovery mode</string>
+    <string name="slider_view_content_right_description">Slide up to toggle Airplane mode or slide down to toggle Silent mode</string>
     <string name="smart_home_title">Smart devices</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
     <string name="solar_term_autumn_equinox">Autumn equinox</string>

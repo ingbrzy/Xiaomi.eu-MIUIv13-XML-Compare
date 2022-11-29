@@ -59,7 +59,7 @@
     <string name="add_holiday_desc">Add holidays here</string>
     <string name="add_holiday_title">Add holiday</string>
     <string name="additional_cal_dialog_title">Select calendar</string>
-    <string name="additional_cal_pref_title">Additional calendar</string>
+    <string name="additional_cal_pref_title">Additional calendars</string>
     <string name="additional_calendar_note">Some additional calendars might not be available or vary depending on inconstant factors</string>
     <string name="address">地址</string>
     <string name="afternoon">Afternoon</string>
@@ -933,7 +933,7 @@ Check network settings and try again."</string>
     <string name="no_visiable_calendar_title">Add account</string>
     <string name="none">None</string>
     <string name="noon">Midday</string>
-    <string name="not_more_than_three_weekday">You can select up to 3 days</string>
+    <string name="not_more_than_three_weekday">You can select up to %d days</string>
     <string name="not_set">Not set</string>
     <string name="notes_hint">Tap to add a task</string>
     <string name="notes_reminders_channel">Notes reminders</string>
@@ -1117,7 +1117,6 @@ Check network settings and try again."</string>
     <string name="save">Save</string>
     <string name="saving_event">Event saved</string>
     <string name="saving_event_with_guest">Sending updates…</string>
-    <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Reminder;Vacation;Holiday;Birthday;2016;2017;Spring Festival;New Year's Day;International Labour Day;Mid-Autumn Festival"</string>
     <string name="search_calendar_edit_event">Meeting;Reminder;Agenda</string>
     <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">Calendar;Agenda;Reminder</string>
@@ -1140,7 +1139,7 @@ Check network settings and try again."</string>
     <string name="setting_accounts">Calendar accounts</string>
     <string name="setting_change_language">Select Calendar language</string>
     <string name="setting_content_promotion">内容推广</string>
-    <string name="setting_desc_import_todo">Import scheduled tasks from Notes</string>
+    <string name="setting_desc_import_todo">Import time-sensitive tasks from Notes</string>
     <string name="setting_features_title">Feature settings</string>
     <string name="setting_holiday_display_desc">Holiday cards are located below your agenda on the home page</string>
     <string name="setting_holiday_reminder">Holiday reminder</string>
