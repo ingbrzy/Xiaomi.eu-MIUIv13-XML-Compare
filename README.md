@@ -1,4 +1,4 @@
-[![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
+[![MIUI13 logo](https://i.imgur.com/idmH8Nu.png)](https://xiaomi.eu/)
 
 # MIUI 13 Daily XML changes by xiaomi.eu / miui.com
 
